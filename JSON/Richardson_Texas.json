@@ -1,0 +1,711 @@
+{
+    "document": "Richardson_Texas.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "collin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "collin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "collin",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "collin",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is an affluent inner suburb of Dallas."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson's largest employment base is provided by the insurance industry, with Blue CrossBlue Shield of Texas' headquarters located in the community along with a regional hub for GEICO, regional offices for United Healthcare, and one of State Farm Insurance's three national regional hubs."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas Instruments opened its offices in Dallas on the southern border of Richardson in 1956."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the 1960s Richardson experienced additional growth including several new parks, facilities and the creation of the University of Texas at Dallas within the city limits."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2006, Richardson was ranked as the 15th best place to live in the United States by Money magazine."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2007, the Morgan Quitno 14th Annual America's Safest and Most Dangerous Cities Awards pronounced Richardson the 69th safest city in America."
+            ],
+            "arguments": {
+                "1": "america",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the same study Richardson ranked the 5th safest city in Texas."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2008, Richardson was ranked as the 18th best place to live in the United States by Money magazine."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This ranked Richardson the 4th best place to live in Texas."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2009, Business Week's annual report on the \"Best Places to Raise Kids,\" ranked Richardson in 2nd place in Texas."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2014, Richardson was called the \"5th happiest mid-sized city in America\" by national real estate website and blog, Movoto.com, based on a number of metrics, such as low unemployment, low crime, and high income."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In November 2016, The Dallas Morning News ranked the Breckinridge Park neighborhood as the 6th best neighborhood in Dallas-Fort Worth."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2016, Richardson ranked 2nd on SmartAsset's healthiest housing markets in American and 6th best college towns to live in."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "american"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "100.3 Jack FM ranked Richardson the 4th best place to live in Texas in 2016."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During August 2016, Richardson made Thrill-list's \"The 7 Stages of Living in Dallas\" and was named the 3rd overall best real-estate market in the United States by WalletHub."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During August 2016, Richardson made Thrill-list's \"The 7 Stages of Living in Dallas\" and was named the 3rd overall best real-estate market in the United States by WalletHub."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During August 2016, Richardson made Thrill-list's \"The 7 Stages of Living in Dallas\" and was named the 3rd overall best real-estate market in the United States by WalletHub."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\n\nThe cities of Dallas, Plano and Garland, Texas constitute almost all of the Richardson border apart from the municipality's extreme northeastern \"panhandle.\""
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\n\nThe cities of Dallas, Plano and Garland, Texas constitute almost all of the Richardson border apart from the municipality's extreme northeastern \"panhandle.\""
+            ],
+            "arguments": {
+                "1": "garland",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\n\nThe cities of Dallas, Plano and Garland, Texas constitute almost all of the Richardson border apart from the municipality's extreme northeastern \"panhandle.\""
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Lake Highlands area of northeast Dallas borders Richardson to the south, North Dallas to the southwest, Far North Dallas to the west, West Plano to the northwest, East Plano to the north, the city of Murphy to the northeast, Sachse to the east, and Garland to the southeast."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "murphy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Lake Highlands area of northeast Dallas borders Richardson to the south, North Dallas to the southwest, Far North Dallas to the west, West Plano to the northwest, East Plano to the north, the city of Murphy to the northeast, Sachse to the east, and Garland to the southeast."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "north dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Lake Highlands area of northeast Dallas borders Richardson to the south, North Dallas to the southwest, Far North Dallas to the west, West Plano to the northwest, East Plano to the north, the city of Murphy to the northeast, Sachse to the east, and Garland to the southeast."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "west plano"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Lake Highlands area of northeast Dallas borders Richardson to the south, North Dallas to the southwest, Far North Dallas to the west, West Plano to the northwest, East Plano to the north, the city of Murphy to the northeast, Sachse to the east, and Garland to the southeast."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "east plano"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Lake Highlands area of northeast Dallas borders Richardson to the south, North Dallas to the southwest, Far North Dallas to the west, West Plano to the northwest, East Plano to the north, the city of Murphy to the northeast, Sachse to the east, and Garland to the southeast."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "murphy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Lake Highlands area of northeast Dallas borders Richardson to the south, North Dallas to the southwest, Far North Dallas to the west, West Plano to the northwest, East Plano to the north, the city of Murphy to the northeast, Sachse to the east, and Garland to the southeast."
+            ],
+            "arguments": {
+                "1": "north dallas",
+                "2": "murphy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Lake Highlands area of northeast Dallas borders Richardson to the south, North Dallas to the southwest, Far North Dallas to the west, West Plano to the northwest, East Plano to the north, the city of Murphy to the northeast, Sachse to the east, and Garland to the southeast."
+            ],
+            "arguments": {
+                "1": "west plano",
+                "2": "murphy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Lake Highlands area of northeast Dallas borders Richardson to the south, North Dallas to the southwest, Far North Dallas to the west, West Plano to the northwest, East Plano to the north, the city of Murphy to the northeast, Sachse to the east, and Garland to the southeast."
+            ],
+            "arguments": {
+                "1": "east plano",
+                "2": "murphy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Approximately two-thirds of the city is in Dallas County, with the northern third of the city in Collin County."
+            ],
+            "arguments": {
+                "1": "dallas county",
+                "2": "collin county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Of the 28.6 square miles (74.2 km2) contained within the borders of the city of Richardson, 18.2 square miles (47 km2) lie in Dallas County; the other 9.2 square miles (24 km2) are in Collin County."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Of the 28.6 square miles (74.2 km2) contained within the borders of the city of Richardson, 18.2 square miles (47 km2) lie in Dallas County; the other 9.2 square miles (24 km2) are in Collin County."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "collin county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Of the 28.6 square miles (74.2 km2) contained within the borders of the city of Richardson, 18.2 square miles (47 km2) lie in Dallas County; the other 9.2 square miles (24 km2) are in Collin County."
+            ],
+            "arguments": {
+                "1": "dallas county",
+                "2": "collin county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy and development\n\nDespite declining economies in other parts of the United States, from 2005 to 2009 Richardson had substantial increases in its economy."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the time, Richardson was one of only four cities in the state of Texas and one of 88 cities in the nation with an \"AAA\" rating from Standard & Poor's."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Corporate headquarters\n\nMetroPCS, Fossil, Lennox International, Vent-A-Hood, Wingstop Restaurants, id Software, VCE, BlueCross BlueShield of Texas, RealPage, Fujitsu Network Communications (U.S. Headquarters) and Samsung Mobile have their corporate headquarters in Richardson."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The University of Texas at Dallas in Richardson, as of 2012, has almost 1,000 Chinese students."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Despite its name the UT Dallas main campus, consisting of approximately 445 acres (1.80 km2), is within the Richardson city limits at 800 West Campbell Road."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "richardson city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The college is in Dallas on the Richardson border."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chicago School of Professional Psychology at Dallas is scheduled to open a campus in Richardson, during 2018."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Located at 2101 Waterview Pkwy, in Richardson, Texas, this new campus allows easier access for those who live near Dallas and surrounding areas: https://www.thechicagoschool.edu/dallas/\nPrimary and secondary schools\nPublic schools\n\nThe city is served by the Richardson Independent School District (RISD) within the Dallas County portion of the city and the Plano Independent School District (PISD) within the Collin County portion of the city."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Located at 2101 Waterview Pkwy, in Richardson, Texas, this new campus allows easier access for those who live near Dallas and surrounding areas: https://www.thechicagoschool.edu/dallas/\nPrimary and secondary schools\nPublic schools\n\nThe city is served by the Richardson Independent School District (RISD) within the Dallas County portion of the city and the Plano Independent School District (PISD) within the Collin County portion of the city."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Located at 2101 Waterview Pkwy, in Richardson, Texas, this new campus allows easier access for those who live near Dallas and surrounding areas: https://www.thechicagoschool.edu/dallas/\nPrimary and secondary schools\nPublic schools\n\nThe city is served by the Richardson Independent School District (RISD) within the Dallas County portion of the city and the Plano Independent School District (PISD) within the Collin County portion of the city."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Located at 2101 Waterview Pkwy, in Richardson, Texas, this new campus allows easier access for those who live near Dallas and surrounding areas: https://www.thechicagoschool.edu/dallas/\nPrimary and secondary schools\nPublic schools\n\nThe city is served by the Richardson Independent School District (RISD) within the Dallas County portion of the city and the Plano Independent School District (PISD) within the Collin County portion of the city."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "collin county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Located at 2101 Waterview Pkwy, in Richardson, Texas, this new campus allows easier access for those who live near Dallas and surrounding areas: https://www.thechicagoschool.edu/dallas/\nPrimary and secondary schools\nPublic schools\n\nThe city is served by the Richardson Independent School District (RISD) within the Dallas County portion of the city and the Plano Independent School District (PISD) within the Collin County portion of the city."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Located at 2101 Waterview Pkwy, in Richardson, Texas, this new campus allows easier access for those who live near Dallas and surrounding areas: https://www.thechicagoschool.edu/dallas/\nPrimary and secondary schools\nPublic schools\n\nThe city is served by the Richardson Independent School District (RISD) within the Dallas County portion of the city and the Plano Independent School District (PISD) within the Collin County portion of the city."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "dallas county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Located at 2101 Waterview Pkwy, in Richardson, Texas, this new campus allows easier access for those who live near Dallas and surrounding areas: https://www.thechicagoschool.edu/dallas/\nPrimary and secondary schools\nPublic schools\n\nThe city is served by the Richardson Independent School District (RISD) within the Dallas County portion of the city and the Plano Independent School District (PISD) within the Collin County portion of the city."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "collin county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Despite that name, however, most of the Richardson Independent School District lies outside of the municipal boundaries of Richardson: 60 percent of RISD is in Dallas, with 35 percent in Richardson and 5 percent in Garland)."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Despite that name, however, most of the Richardson Independent School District lies outside of the municipal boundaries of Richardson: 60 percent of RISD is in Dallas, with 35 percent in Richardson and 5 percent in Garland)."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Despite that name, however, most of the Richardson Independent School District lies outside of the municipal boundaries of Richardson: 60 percent of RISD is in Dallas, with 35 percent in Richardson and 5 percent in Garland)."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "garland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Despite that name, however, most of the Richardson Independent School District lies outside of the municipal boundaries of Richardson: 60 percent of RISD is in Dallas, with 35 percent in Richardson and 5 percent in Garland)."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Despite that name, however, most of the Richardson Independent School District lies outside of the municipal boundaries of Richardson: 60 percent of RISD is in Dallas, with 35 percent in Richardson and 5 percent in Garland)."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "garland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Lake Highlands High School is part of the Richardson Independent School District but is located in Lake Highlands, an area in Dallas just south of Richardson."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Aldridge, Miller, Schell, and Stinson elementary schools are within Richardson and serve Collin County portions of Richardson."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "collin county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Aldridge, Miller, Schell, and Stinson elementary schools are within Richardson and serve Collin County portions of Richardson."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Aldridge, Miller, Schell, and Stinson elementary schools are within Richardson and serve Collin County portions of Richardson."
+            ],
+            "arguments": {
+                "1": "collin county",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Williams High School, 9-10 schools in Plano, serve separate sections of Collin County Richardson, along with McMillen High School in Murphy."
+            ],
+            "arguments": {
+                "1": "collin county richardson",
+                "2": "murphy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Private schools\n\nThe Roman Catholic Diocese of Dallas operates two K-8 schools, St. Joseph School and St. Paul the Apostle School in Richardson."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson also benefits from the Dallas Area Rapid Transit (DART) Light Rail line which parallels U.S. 75 and has four stations in the city."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson also benefits from the Dallas Area Rapid Transit (DART) Light Rail line which parallels U.S. 75 and has four stations in the city."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "TIF District #1 was established in November 2006, encompassing both sides of the U.S. 75 corridor from Campbell Road south to Spring Valley Road, and then extending west from U.S. 75 along Spring Valley Road to Coit Road."
+            ],
+            "arguments": {
+                "1": "tif",
+                "2": "u.s."
+            }
+        }
+    ]
+}{
+    "document": "Richardson_Texas.txt",
+    "extraction": []
+}{
+    "document": "Richardson_Texas.txt",
+    "extraction": []
+}

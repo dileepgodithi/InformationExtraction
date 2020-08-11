@@ -1,0 +1,1904 @@
+{
+    "document": "Washington_State.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington ( (listen)), officially the State of Washington, is a state in the Pacific Northwest region of the United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Named for George Washington, the first president of the United States, the state was made out of the western part of the Washington Territory, which was ceded by Britain in 1846 in accordance with the Oregon Treaty in the settlement of the Oregon boundary dispute."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Named for George Washington, the first president of the United States, the state was made out of the western part of the Washington Territory, which was ceded by Britain in 1846 in accordance with the Oregon Treaty in the settlement of the Oregon boundary dispute."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Named for George Washington, the first president of the United States, the state was made out of the western part of the Washington Territory, which was ceded by Britain in 1846 in accordance with the Oregon Treaty in the settlement of the Oregon boundary dispute."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is sometimes referred to as Washington State to distinguish it from Washington, D.C., the capital of the United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is sometimes referred to as Washington State to distinguish it from Washington, D.C., the capital of the United States."
+            ],
+            "arguments": {
+                "1": "washington state",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is sometimes referred to as Washington State to distinguish it from Washington, D.C., the capital of the United States."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Approximately 60 percent of Washington's residents live in the Seattle metropolitan area, the center of transportation, business, and industry along Puget Sound, an inlet of the Pacific Ocean consisting of numerous islands, deep fjords, and bays carved out by glaciers."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is the second most populous state on the West Coast and in the Western United States, after California."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the western united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is the second most populous state on the West Coast and in the Western United States, after California."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is the second most populous state on the West Coast and in the Western United States, after California."
+            ],
+            "arguments": {
+                "1": "the western united states",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mount Rainier, an active stratovolcano, is the state's highest elevation, at almost 14,411 feet (4,392 meters), and is the 2nd topographically prominent mountain in the continental United States, the first being Denali in Alaska."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "denali"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mount Rainier, an active stratovolcano, is the state's highest elevation, at almost 14,411 feet (4,392 meters), and is the 2nd topographically prominent mountain in the continental United States, the first being Denali in Alaska."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mount Rainier, an active stratovolcano, is the state's highest elevation, at almost 14,411 feet (4,392 meters), and is the 2nd topographically prominent mountain in the continental United States, the first being Denali in Alaska."
+            ],
+            "arguments": {
+                "1": "denali",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Colorado, Washington was one of the first to legalize medicinal and recreational cannabis, was among the first thirty-six states to legalize same-sex marriage, doing so in 2012, and was one of only four U.S. states to have been providing legal abortions on request before the 1973 Supreme Court decision in Roe v. Wade loosened federal abortion laws."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Colorado, Washington was one of the first to legalize medicinal and recreational cannabis, was among the first thirty-six states to legalize same-sex marriage, doing so in 2012, and was one of only four U.S. states to have been providing legal abortions on request before the 1973 Supreme Court decision in Roe v. Wade loosened federal abortion laws."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "vermont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "vermont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "vermont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "vermont",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "vermont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "vermont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "vermont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "vermont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "vermont",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "vermont",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state is also one of eight in the country to have criminalized the sale, possession and transfer of bump stocks, with California, Florida, New Jersey, New York, Vermont, Maryland, and Massachusetts also having banned these devices."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\n\nWashington was named after President George Washington by an act of the United States Congress during the creation of Washington Territory in 1853."
+            ],
+            "arguments": {
+                "1": "the united states congress",
+                "2": "washington territory"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The territory was to be named \"Columbia\", for the Columbia River and the Columbia District, but Kentucky representative Richard H. Stanton found the name too similar to the District of Columbia (the national capital, itself containing the city of Washington), and proposed naming the new territory after President Washington."
+            ],
+            "arguments": {
+                "1": "the district of columbia",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is the only U.S. state named after a president."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Confusion over the state of Washington and the city of Washington, D. C., led to renaming proposals during the statehood process for Washington in 1889, including David Dudley Field II's suggestion to name the new state \"Tacoma\"."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Residents of Washington (known as \"Washingtonians\") and the Pacific Northwest simply refer to the state as \"Washington,\" and the nation's capital \"Washington, D.C.,\" \"the other Washington,\" or simply \"D.C.\"\nGeography\n\nWashington is the northwestern-most state of the contiguous United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Residents of Washington (known as \"Washingtonians\") and the Pacific Northwest simply refer to the state as \"Washington,\" and the nation's capital \"Washington, D.C.,\" \"the other Washington,\" or simply \"D.C.\"\nGeography\n\nWashington is the northwestern-most state of the contiguous United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Residents of Washington (known as \"Washingtonians\") and the Pacific Northwest simply refer to the state as \"Washington,\" and the nation's capital \"Washington, D.C.,\" \"the other Washington,\" or simply \"D.C.\"\nGeography\n\nWashington is the northwestern-most state of the contiguous United States."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Oregon is to the south, with the Columbia River forming the western part and the 46th parallel forming the eastern part of the Oregon-Washington border."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "idaho"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "montana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "british columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "idaho"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "montana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "british columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "idaho",
+                "2": "montana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "idaho",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "idaho",
+                "2": "british columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "idaho",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "montana",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "montana",
+                "2": "british columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "montana",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "british columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "british columbia",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Farther east, the climate becomes less arid, with annual rainfall increasing as one goes east to 21.2 inches (540 mm) in Pullman, near the Washington-Idaho border."
+            ],
+            "arguments": {
+                "1": "pullman",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Farther east, the climate becomes less arid, with annual rainfall increasing as one goes east to 21.2 inches (540 mm) in Pullman, near the Washington-Idaho border."
+            ],
+            "arguments": {
+                "1": "pullman",
+                "2": "idaho"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The lowest temperature recorded in the state was \u221248 \u00b0F (\u221244 \u00b0C) in Winthrop and Mazama."
+            ],
+            "arguments": {
+                "1": "winthrop",
+                "2": "mazama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the Western region, temperatures have reached as high as 105 \u00b0F (41 \u00b0C) in Aberdeen, and as low as \u22126 \u00b0F (\u221221 \u00b0C) in Longview."
+            ],
+            "arguments": {
+                "1": "aberdeen",
+                "2": "longview"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1836, a group of missionaries, including Marcus Whitman, established several missions and Whitman's own settlement Waiilatpu, in what is now southeastern Washington state, near present day Walla Walla County, in territory of both the Cayuse and the Nez Perce Indian tribes."
+            ],
+            "arguments": {
+                "1": "whitman",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1836, a group of missionaries, including Marcus Whitman, established several missions and Whitman's own settlement Waiilatpu, in what is now southeastern Washington state, near present day Walla Walla County, in territory of both the Cayuse and the Nez Perce Indian tribes."
+            ],
+            "arguments": {
+                "1": "whitman",
+                "2": "walla walla county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1836, a group of missionaries, including Marcus Whitman, established several missions and Whitman's own settlement Waiilatpu, in what is now southeastern Washington state, near present day Walla Walla County, in territory of both the Cayuse and the Nez Perce Indian tribes."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "walla walla county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "They settled in Washington to avoid Oregon's discriminatory settlement laws."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary of Washington Territory initially extended farther east than the present state's, including what is now the Idaho Panhandle and parts of western Montana, and picked up more land to the southeast that was left behind when Oregon was admitted as a state."
+            ],
+            "arguments": {
+                "1": "washington territory",
+                "2": "the idaho panhandle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary of Washington Territory initially extended farther east than the present state's, including what is now the Idaho Panhandle and parts of western Montana, and picked up more land to the southeast that was left behind when Oregon was admitted as a state."
+            ],
+            "arguments": {
+                "1": "washington territory",
+                "2": "montana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary of Washington Territory initially extended farther east than the present state's, including what is now the Idaho Panhandle and parts of western Montana, and picked up more land to the southeast that was left behind when Oregon was admitted as a state."
+            ],
+            "arguments": {
+                "1": "washington territory",
+                "2": "oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary of Washington Territory initially extended farther east than the present state's, including what is now the Idaho Panhandle and parts of western Montana, and picked up more land to the southeast that was left behind when Oregon was admitted as a state."
+            ],
+            "arguments": {
+                "1": "the idaho panhandle",
+                "2": "montana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary of Washington Territory initially extended farther east than the present state's, including what is now the Idaho Panhandle and parts of western Montana, and picked up more land to the southeast that was left behind when Oregon was admitted as a state."
+            ],
+            "arguments": {
+                "1": "the idaho panhandle",
+                "2": "oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary of Washington Territory initially extended farther east than the present state's, including what is now the Idaho Panhandle and parts of western Montana, and picked up more land to the southeast that was left behind when Oregon was admitted as a state."
+            ],
+            "arguments": {
+                "1": "montana",
+                "2": "oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington became the 42nd state in the United States on November 11, 1889."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While the Boeing Company produced many of the nation's heavy bombers, ports in Seattle, Bremerton, Vancouver, and Tacoma were available for the manufacture of warships."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "bremerton"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While the Boeing Company produced many of the nation's heavy bombers, ports in Seattle, Bremerton, Vancouver, and Tacoma were available for the manufacture of warships."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "vancouver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While the Boeing Company produced many of the nation's heavy bombers, ports in Seattle, Bremerton, Vancouver, and Tacoma were available for the manufacture of warships."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While the Boeing Company produced many of the nation's heavy bombers, ports in Seattle, Bremerton, Vancouver, and Tacoma were available for the manufacture of warships."
+            ],
+            "arguments": {
+                "1": "bremerton",
+                "2": "vancouver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While the Boeing Company produced many of the nation's heavy bombers, ports in Seattle, Bremerton, Vancouver, and Tacoma were available for the manufacture of warships."
+            ],
+            "arguments": {
+                "1": "bremerton",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While the Boeing Company produced many of the nation's heavy bombers, ports in Seattle, Bremerton, Vancouver, and Tacoma were available for the manufacture of warships."
+            ],
+            "arguments": {
+                "1": "vancouver",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The center of population of Washington in 2000 was in an unpopulated part of the Cascade Mountains in rural eastern King County, southeast of North Bend, northeast of Enumclaw, and west of Snoqualmie Pass."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "king county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The center of population of Washington in 2000 was in an unpopulated part of the Cascade Mountains in rural eastern King County, southeast of North Bend, northeast of Enumclaw, and west of Snoqualmie Pass."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "north bend"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The center of population of Washington in 2000 was in an unpopulated part of the Cascade Mountains in rural eastern King County, southeast of North Bend, northeast of Enumclaw, and west of Snoqualmie Pass."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "enumclaw"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The center of population of Washington in 2000 was in an unpopulated part of the Cascade Mountains in rural eastern King County, southeast of North Bend, northeast of Enumclaw, and west of Snoqualmie Pass."
+            ],
+            "arguments": {
+                "1": "king county",
+                "2": "north bend"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The center of population of Washington in 2000 was in an unpopulated part of the Cascade Mountains in rural eastern King County, southeast of North Bend, northeast of Enumclaw, and west of Snoqualmie Pass."
+            ],
+            "arguments": {
+                "1": "king county",
+                "2": "enumclaw"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The center of population of Washington in 2000 was in an unpopulated part of the Cascade Mountains in rural eastern King County, southeast of North Bend, northeast of Enumclaw, and west of Snoqualmie Pass."
+            ],
+            "arguments": {
+                "1": "north bend",
+                "2": "enumclaw"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The racial composition of Washington's population as of 2016 was:\n\nAccording to the 2016 American Community Survey, 12.1% of Washington's population were of Hispanic or Latino origin (of any race): Mexican (9.7%), Puerto Rican (0.4%), Cuban (0.1%), and other Hispanic or Latino origin (1.8%)."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "puerto rican"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Areas of concentration\n\nWhile the population of African Americans in the Pacific Northwest is scarce overall, they are mostly concentrated in the South End and Central District areas of Seattle, and in inner Tacoma."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seattle, Bellevue, and Redmond, which are all within King County, have sizable Chinese communities (including Taiwanese), as well as significant Indian and Japanese communities."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "king county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinatown-International District in Seattle has a historical Chinese population dating back to the 1860s, who mainly emigrated from Guangdong Province in southern China, and is home to a diverse East and Southeast Asian community."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "guangdong province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinatown-International District in Seattle has a historical Chinese population dating back to the 1860s, who mainly emigrated from Guangdong Province in southern China, and is home to a diverse East and Southeast Asian community."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinatown-International District in Seattle has a historical Chinese population dating back to the 1860s, who mainly emigrated from Guangdong Province in southern China, and is home to a diverse East and Southeast Asian community."
+            ],
+            "arguments": {
+                "1": "guangdong province",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "tacoma",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "tacoma",
+                "2": "long beach"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "tacoma",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "tacoma",
+                "2": "lowell"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "tacoma",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "long beach"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "lowell"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "long beach",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "long beach",
+                "2": "lowell"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "long beach",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "lowell"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "lowell",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Vietnamese and Filipino populations of Washington are mostly concentrated within the Seattle metropolitan area."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle-Tacoma area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle-Tacoma area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "utah"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle-Tacoma area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle-Tacoma area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle-Tacoma area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "utah"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle-Tacoma area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle-Tacoma area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle-Tacoma area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "utah",
+                "2": "seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle-Tacoma area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "utah",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle-Tacoma area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The percentage of non-religious people in Washington is one of the highest in the United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A Fortune magazine survey of the top 20 Most Admired Companies in the US has four Washington-based companies: Amazon, Starbucks, Microsoft, and Costco."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of March 2017, the combined sales tax rate in Seattle and Tacoma was 10.1 percent."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state has the 18th highest per capita effective tax rate in the United States, as of 2017."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For 2013, the total value of Washington's agricultural products was $10.2 billion.In 2013, Washington ranked first in the nation in production of red raspberries (92.7 percent of total U.S. production), hops (79.2 percent), spearmint oil (72.9 percent), wrinkled seed peas (60 percent), apples (57 percent), sweet cherries (50.9 percent), pears (49.5 percent), Concord grapes (36.5 percent), carrots for processing (36.5 percent), green peas for processing (34.4 percent), and peppermint oil (31.4 percent)."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Because of the favorable climate of dry, warm summers and cold winters of central Washington, the state has led the U.S. in apple production since the 1920s."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Wine\n\nWashington ranks second in the United States in the production of wine, behind only California."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Wine\n\nWashington ranks second in the United States in the production of wine, behind only California."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Boeing Field in Seattle is one of the busiest primary non-hub airports in the US."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are extensive waterways in the midst of Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are extensive waterways in the midst of Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "bellevue"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are extensive waterways in the midst of Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are extensive waterways in the midst of Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "olympia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are extensive waterways in the midst of Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "bellevue"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are extensive waterways in the midst of Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are extensive waterways in the midst of Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "olympia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are extensive waterways in the midst of Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia."
+            ],
+            "arguments": {
+                "1": "bellevue",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are extensive waterways in the midst of Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia."
+            ],
+            "arguments": {
+                "1": "bellevue",
+                "2": "olympia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are extensive waterways in the midst of Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia."
+            ],
+            "arguments": {
+                "1": "tacoma",
+                "2": "olympia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is crossed by a number of freight railroads, and Amtrak's passenger Cascade route between Eugene, Oregon and Vancouver, BC is the eighth busiest Amtrak service in the US."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is crossed by a number of freight railroads, and Amtrak's passenger Cascade route between Eugene, Oregon and Vancouver, BC is the eighth busiest Amtrak service in the US."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "vancouver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is crossed by a number of freight railroads, and Amtrak's passenger Cascade route between Eugene, Oregon and Vancouver, BC is the eighth busiest Amtrak service in the US."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is crossed by a number of freight railroads, and Amtrak's passenger Cascade route between Eugene, Oregon and Vancouver, BC is the eighth busiest Amtrak service in the US."
+            ],
+            "arguments": {
+                "1": "vancouver",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seattle's King Street Station, the busiest station in Washington, and 15th busiest in the US, serves as the terminus for the two long distance Amtrak routes in Washington, the Empire Builder, to Chicago, and the Coast Starlight, to Los Angeles."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seattle's King Street Station, the busiest station in Washington, and 15th busiest in the US, serves as the terminus for the two long distance Amtrak routes in Washington, the Empire Builder, to Chicago, and the Coast Starlight, to Los Angeles."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seattle's King Street Station, the busiest station in Washington, and 15th busiest in the US, serves as the terminus for the two long distance Amtrak routes in Washington, the Empire Builder, to Chicago, and the Coast Starlight, to Los Angeles."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seattle's King Street Station, the busiest station in Washington, and 15th busiest in the US, serves as the terminus for the two long distance Amtrak routes in Washington, the Empire Builder, to Chicago, and the Coast Starlight, to Los Angeles."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seattle's King Street Station, the busiest station in Washington, and 15th busiest in the US, serves as the terminus for the two long distance Amtrak routes in Washington, the Empire Builder, to Chicago, and the Coast Starlight, to Los Angeles."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sound Transit Link light rail currently operates in the Seattle area at a length of 20 miles (32 km), and in Tacoma at a length of 1.6 miles (2.6 km)."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Bus systems exist across the state, the busiest being King County Metro, located in Seattle and King County, with just above 122 million riders in 2017."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "king county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Residents of Vancouver have resisted proposals to extend Portland's mass transit system into Washington."
+            ],
+            "arguments": {
+                "1": "vancouver",
+                "2": "portland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Residents of Vancouver have resisted proposals to extend Portland's mass transit system into Washington."
+            ],
+            "arguments": {
+                "1": "vancouver",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A 2004 study of 40 mothers from Oregon, Washington, British Columbia, and Montana found PBDEs in the breast milk of every woman tested."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A 2004 study of 40 mothers from Oregon, Washington, British Columbia, and Montana found PBDEs in the breast milk of every woman tested."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "british columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A 2004 study of 40 mothers from Oregon, Washington, British Columbia, and Montana found PBDEs in the breast milk of every woman tested."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "british columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Though the ban would be effective statewide in 2010, it would take place in Whatcom County, Spokane County, and Clark County in 2008."
+            ],
+            "arguments": {
+                "1": "whatcom county",
+                "2": "spokane county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Though the ban would be effective statewide in 2010, it would take place in Whatcom County, Spokane County, and Clark County in 2008."
+            ],
+            "arguments": {
+                "1": "whatcom county",
+                "2": "clark county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Though the ban would be effective statewide in 2010, it would take place in Whatcom County, Spokane County, and Clark County in 2008."
+            ],
+            "arguments": {
+                "1": "spokane county",
+                "2": "clark county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington's ten representatives in the United States House of Representatives (see map of districts) are Suzan DelBene (D-1), Richard Ray (Rick) Larsen (D-2), Jaime Herrera (R-3), Dan Newhouse (R-4), Cathy McMorris Rodgers (R-5), Derek Kilmer (D-6), Pramila Jayapal (D-7), Kim Schrier (D-8), Adam Smith (D-9), and Dennis Heck (D-10)."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Due to Congressional redistricting as a result of the 2010 Census, Washington gained one seat in the United States House of Representatives."
+            ],
+            "arguments": {
+                "1": "census",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Due to Congressional redistricting as a result of the 2010 Census, Washington gained one seat in the United States House of Representatives."
+            ],
+            "arguments": {
+                "1": "census",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Due to Congressional redistricting as a result of the 2010 Census, Washington gained one seat in the United States House of Representatives."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Seattle metropolitan combined statistical area, home to almost two-thirds of Washington's population, generally delivers stronger Democratic margins than most other parts of Western Washington."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This is especially true of King County, home to Seattle and almost a third of the state's population."
+            ],
+            "arguments": {
+                "1": "king county",
+                "2": "seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington state was the first state in the United States where assisted suicide, same-sex marriage, and recreational cannabis use were all legal at the same time."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With the passage of Initiative 1639 in the 2018 elections, Washington adopted some of the strictest gun laws in the US."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "redmond"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "tacoma",
+                "2": "seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "tacoma",
+                "2": "redmond"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "redmond"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Evergreen State\n\nThe state's nickname, \"The Evergreen State\", was proposed in 1890 by Charles T. Conover of Seattle, Washington."
+            ],
+            "arguments": {
+                "1": "seattle",
+                "2": "washington"
+            }
+        }
+    ]
+}{
+    "document": "Washington_State.txt",
+    "extraction": []
+}{
+    "document": "Washington_State.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "He named the river after his ship, the Columbia."
+            ],
+            "arguments": {
+                "1": "He",
+                "2": "Columbia",
+                "3": "river",
+                "4": ""
+            }
+        }
+    ]
+}

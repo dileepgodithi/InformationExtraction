@@ -1,0 +1,930 @@
+{
+    "document": "GeorgeWashington.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "George Washington (February 22, 1732 \u2013 December 14, 1799) was an American political leader, military general, statesman, and Founding Father who also served as the first president of the United States from 1789 to 1797."
+            ],
+            "arguments": {
+                "1": "founding",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "George Washington was born February 22, 1732 at Popes Creek in Westmoreland County, Virginia, and was the first of six children of Augustine and Mary Ball Washington."
+            ],
+            "arguments": {
+                "1": "popes creek",
+                "2": "westmoreland county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "George Washington was born February 22, 1732 at Popes Creek in Westmoreland County, Virginia, and was the first of six children of Augustine and Mary Ball Washington."
+            ],
+            "arguments": {
+                "1": "popes creek",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "George Washington was born February 22, 1732 at Popes Creek in Westmoreland County, Virginia, and was the first of six children of Augustine and Mary Ball Washington."
+            ],
+            "arguments": {
+                "1": "westmoreland county",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington did not have the formal education that his older brothers received at Appleby Grammar School in England, but he did learn mathematics, trigonometry, and surveying, and he was talented in draftsmanship and map-making."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "england"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington completed the precarious mission in 77 days in difficult winter conditions and achieved a measure of distinction when his report was published in Virginia and London."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington completed the precarious mission in 77 days in difficult winter conditions and achieved a measure of distinction when his report was published in Virginia and London."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington completed the precarious mission in 77 days in difficult winter conditions and achieved a measure of distinction when his report was published in Virginia and London."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "French and Indian War\nIn February 1754, Dinwiddie promoted Washington to lieutenant colonel and second-in-command of the 300-strong Virginia Regiment, with orders to confront French forces at the Forks of the Ohio."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "ohio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington set out for the Forks with half of the regiment in April but soon learned that a French force of 1,000 had begun construction of Fort Duquesne there."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "fort duquesne"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington clashed over seniority almost immediately, this time with John Dagworthy, another captain of superior royal rank, who commanded a detachment of Marylanders at the regiment's headquarters in Fort Cumberland."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "fort cumberland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Shirley ruled in Washington's favor only in the matter of Dagworthy; Loudoun humiliated Washington, refused him a royal commission and agreed only to relieve him of the responsibility of manning Fort Cumberland."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "fort cumberland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Shirley ruled in Washington's favor only in the matter of Dagworthy; Loudoun humiliated Washington, refused him a royal commission and agreed only to relieve him of the responsibility of manning Fort Cumberland."
+            ],
+            "arguments": {
+                "1": "loudoun",
+                "2": "fort cumberland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In late 1770, Washington inspected the lands in the Ohio and Great Kanawha regions, and he engaged surveyor William Crawford to subdivide it."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "ohio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In late 1770, Washington inspected the lands in the Ohio and Great Kanawha regions, and he engaged surveyor William Crawford to subdivide it."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "great kanawha"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In late 1770, Washington inspected the lands in the Ohio and Great Kanawha regions, and he engaged surveyor William Crawford to subdivide it."
+            ],
+            "arguments": {
+                "1": "ohio",
+                "2": "great kanawha"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington took time for leisure with fox hunting, fishing, dances, theater, cards, backgammon, and billiards,\n\nWashington soon was counted among the political and social elite in Virginia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Upon hearing the shocking news of the onset of war, Washington was \"sobered and dismayed\", and he hastily departed Mount Vernon on May 4, 1775 to join the Continental Congress in Philadelphia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Upon hearing the shocking news of the onset of war, Washington was \"sobered and dismayed\", and he hastily departed Mount Vernon on May 4, 1775 to join the Continental Congress in Philadelphia."
+            ],
+            "arguments": {
+                "1": "mount vernon",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Quebec, Boston, and Long Island\nIn June 1775, Congress ordered an invasion of Canada, to convince the British to then seek peace on favorable terms and secure the northern border by annexing Canada."
+            ],
+            "arguments": {
+                "1": "quebec",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Quebec, Boston, and Long Island\nIn June 1775, Congress ordered an invasion of Canada, to convince the British to then seek peace on favorable terms and secure the northern border by annexing Canada."
+            ],
+            "arguments": {
+                "1": "boston",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington initially considered abandoning the island, including Fort Washington, but heeded the advice of Generals Greene and Israel Putnam to defend the fort."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "generals greene"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington initially considered abandoning the island, including Fort Washington, but heeded the advice of Generals Greene and Israel Putnam to defend the fort."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "israel"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington initially considered abandoning the island, including Fort Washington, but heeded the advice of Generals Greene and Israel Putnam to defend the fort."
+            ],
+            "arguments": {
+                "1": "fort washington",
+                "2": "generals greene"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington initially considered abandoning the island, including Fort Washington, but heeded the advice of Generals Greene and Israel Putnam to defend the fort."
+            ],
+            "arguments": {
+                "1": "fort washington",
+                "2": "israel"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Loyalists in New York considered Howe a liberator and spread a rumor that Washington had set fire to the city."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Howe broke off pursuit on December 14, delayed his advance on Philadelphia, and set up winter quarters in New York."
+            ],
+            "arguments": {
+                "1": "philadelphia",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Howe had split up his British Army and posted a Hessian garrison at Trenton to hold western New Jersey and the east shore of the Delaware."
+            ],
+            "arguments": {
+                "1": "trenton",
+                "2": "delaware"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Howe had split up his British Army and posted a Hessian garrison at Trenton to hold western New Jersey and the east shore of the Delaware."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "delaware"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington crossed the Delaware River at sunset Christmas Day and risked capture in order to stake out the Jersey shoreline."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cadwalader and Ewing failed to cross due to the ice and heavy currents, and Washington grew doubtful of his planned attack on Trenton while waiting for them."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "trenton"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington's depleted Continental Army took up winter headquarters in Morristown, New Jersey while disrupting British supply lines and expelling them from parts of New Jersey."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "morristown"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington's depleted Continental Army took up winter headquarters in Morristown, New Jersey while disrupting British supply lines and expelling them from parts of New Jersey."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington's depleted Continental Army took up winter headquarters in Morristown, New Jersey while disrupting British supply lines and expelling them from parts of New Jersey."
+            ],
+            "arguments": {
+                "1": "morristown",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "But General Howe in British-occupied New York blundered, taking his army south to Philadelphia rather than up the Hudson River to join Burgoyne near Albany."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "But General Howe in British-occupied New York blundered, taking his army south to Philadelphia rather than up the Hudson River to join Burgoyne near Albany."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "albany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Meanwhile, Washington and Lafayette rushed to Philadelphia to engage Howe and were shocked to learn of Burgoyne's progress in upstate New York, where the Patriots were led by General Philip Schuyler and successor Horatio Gates."
+            ],
+            "arguments": {
+                "1": "philadelphia",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington's army of less experienced men were defeated in the pitched battles at Philadelphia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Biographer John Alden maintains, \"It was inevitable that the defeats of Washington's forces and the concurrent victory of the forces in upper New York should be compared.\""
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Valley Forge and Monmouth\nWashington's army of 11,000 went into winter quarters at Valley Forge north of Philadelphia in December 1777."
+            ],
+            "arguments": {
+                "1": "monmouth",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Valley Forge and Monmouth\nWashington's army of 11,000 went into winter quarters at Valley Forge north of Philadelphia in December 1777."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Valley Forge and Monmouth\nWashington's army of 11,000 went into winter quarters at Valley Forge north of Philadelphia in December 1777."
+            ],
+            "arguments": {
+                "1": "valley forge",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Meanwhile, the British were comfortably quartered in Philadelphia, paying for supplies in pounds sterling, while Washington struggled with a devalued American paper currency."
+            ],
+            "arguments": {
+                "1": "philadelphia",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1778, Major Benjamin Tallmadge formed the Culper Ring at Washington's direction to covertly collect information about the British in New York."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Arnold repeatedly asked for command of West Point, and Washington finally agreed in August."
+            ],
+            "arguments": {
+                "1": "west point",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In mid-1779, Washington attacked Iroquois warriors of the Six Nations in order to force Britain's Indian allies out of New York, from which they had assaulted New England towns."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In mid-1779, Washington attacked Iroquois warriors of the Six Nations in order to force Britain's Indian allies out of New York, from which they had assaulted New England towns."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In mid-1779, Washington attacked Iroquois warriors of the Six Nations in order to force Britain's Indian allies out of New York, from which they had assaulted New England towns."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Congress replaced Lincoln with Horatio Gates; he failed in South Carolina and was replaced by Washington's choice of Nathaniel Greene, but the British already had the South in their grasp."
+            ],
+            "arguments": {
+                "1": "south carolina",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington initially hoped to bring the fight to New York, drawing off British forces from Virginia and ending the war there, but Rochambeau advised Grasse that Cornwallis in Virginia was the better target."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "cornwallis"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He made a feint towards Clinton in New York, then headed south to Virginia."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington resigned as commander-in-chief once the Treaty of Paris was signed, and he planned to retire to Mount Vernon."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "paris"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington resigned as commander-in-chief once the Treaty of Paris was signed, and he planned to retire to Mount Vernon."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "mount vernon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Treaty was signed on September 3, 1783, and Great Britain officially recognized the independence of the United States."
+            ],
+            "arguments": {
+                "1": "great britain",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Before his return to Mount Vernon, he oversaw the evacuation of British forces in New York and was greeted by parades and celebrations, where he announced that Knox had been promoted commander-in-chief."
+            ],
+            "arguments": {
+                "1": "mount vernon",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Shays' Rebellion erupted in Massachusetts on August 29, 1786 over taxation and property ownership, further convincing Washington that a national constitution was needed."
+            ],
+            "arguments": {
+                "1": "massachusetts",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington arrived in Philadelphia on May 9, 1787, though a quorum was not attained until Friday, May 25."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington had \"anxious and painful sensations\" about leaving the \"domestic felicity\" of Mount Vernon, but he departed for New York City on April 23 to be inaugurated."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "mount vernon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington had \"anxious and painful sensations\" about leaving the \"domestic felicity\" of Mount Vernon, but he departed for New York City on April 23 to be inaugurated."
+            ],
+            "arguments": {
+                "1": "mount vernon",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Presidency (1789\u20131797)\nWashington was inaugurated on April 30, 1789, taking the oath of office at Federal Hall in New York City."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington read a speech in the Senate Chamber, asking \"that Almighty Being who rules over the universe, who presides in the councils of nations\u2014and whose providential aids can supply every human defect, consecrate the liberties and happiness of the people of the United States\"."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The revolutionary government of France sent diplomat Citizen Gen\u00eat to America, and he was welcomed with great enthusiasm."
+            ],
+            "arguments": {
+                "1": "france",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He created a network of new Democratic-Republican Societies promoting France's interests, but Washington denounced them and demanded that the French recall Gen\u00eat."
+            ],
+            "arguments": {
+                "1": "france",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Reverend Thomas Davis read the funeral service by the vault with a brief address, followed by a ceremony performed by various members of Washington's Masonic lodge in Alexandria, Virginia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "alexandria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Reverend Thomas Davis read the funeral service by the vault with a brief address, followed by a ceremony performed by various members of Washington's Masonic lodge in Alexandria, Virginia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Reverend Thomas Davis read the funeral service by the vault with a brief address, followed by a ceremony performed by various members of Washington's Masonic lodge in Alexandria, Virginia."
+            ],
+            "arguments": {
+                "1": "alexandria",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "People worldwide admired Washington and were saddened by his death, and memorial processions were held in major cities of the United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Burial and aftermath\nWashington was buried in the old family vault at Mount Vernon, situated on a grassy slope covered with juniper and cypress trees."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "mount vernon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Southern opposition was intense, antagonized by an ever-growing rift between North and South; many were concerned that Washington's remains could end up on \"a shore foreign to his native soil\" if the country became divided, and Washington's remains stayed in Mount Vernon."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "mount vernon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While president, Washington maintained close supervision of Mount Vernon through letters to his overseers; there is one account from him authorizing a whipping that was given to a slave who had badly beaten his wife."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "mount vernon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He condemned slaves for taking up arms in their fight for freedom in St. Domingue in a conflict that resulted in independent Haiti in 1804, and he offered sympathy and money to the French slaveholders in St. Domingue."
+            ],
+            "arguments": {
+                "1": "st. domingue",
+                "2": "haiti"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington believed in a \"wise, inscrutable, and irresistible\" Creator God who was active in the Universe, contrary to deistic thought."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "universe"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A Masonic lodge was established in Fredericksburg in September 1752, and Washington was initiated two months later at the age of 20 as one of its first Entered Apprentices."
+            ],
+            "arguments": {
+                "1": "fredericksburg",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1777, a convention of Virginia lodges asked him to be the Grand Master of the newly established Grand Lodge of Virginia, but he declined due to his commitments leading the Continental Army."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "grand lodge"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Historical reputation and legacy\nWashington's legacy endures as one of the most influential in American history, since he served as commander-in-chief of the Continental Army, a hero of the Revolution, and the first president of the United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He was posthumously appointed to the grade of General of the Armies of the United States during the United States Bicentennial to ensure that he would never be outranked; this was accomplished by the congressional joint resolution Public Law 94-479 passed on January 19, 1976, with an effective appointment date of July 4, 1976."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "the united states bicentennial"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Places and monuments\nMany places and monuments have been named in honor of Washington, most notably the nation's capital Washington, D.C."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        }
+    ]
+}{
+    "document": "GeorgeWashington.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "He resigned from the job in 1750 and had bought almost 1,500 acres (600 ha) in the Valley, and he owned 2,315 acres (937 ha) by 1752.\n\n"
+            ],
+            "arguments": {
+                "1": "He",
+                "2": "almost 1,500 acres",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Crawford allotted 23,200 acres (9,400 ha) to Washington; Washington told the veterans that their land was hilly and unsuitable for farming, and he agreed to purchase 20,147 acres (8,153 ha), leaving some feeling that they had been duped."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "20,147 acres",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "He bought land parcels to spur development around the new Federal City that was named in his honor, and he sold individual lots to middle-income investors rather than multiple lots to large investors, believing that they would more likely commit to making improvements.\n\n"
+            ],
+            "arguments": {
+                "1": "He",
+                "2": "land parcels",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "GeorgeWashington.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Washington played a key role in the adoption and ratification of the Constitution and was then elected president by the Electoral College in the first two elections."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "College",
+                "3": "president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "He was a member of the Anglican Church and the Freemasons, and he urged tolerance for all religions in his roles as general and president."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "Church",
+                "3": "general; president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "He received a surveyor's license the following year from the College of William & Mary; Fairfax appointed him surveyor of Culpeper County, Virginia, and he thus familiarized himself with the frontier region."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "Mary",
+                "3": "surveyor",
+                "4": "Virginia"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In February 1754, Dinwiddie promoted Washington to lieutenant colonel and second-in-command of the 300-strong Virginia Regiment, with orders to confront French forces at the Forks of the Ohio."
+            ],
+            "arguments": {
+                "1": "Dinwiddie",
+                "2": "Regiment",
+                "3": "colonel; lieutenant",
+                "4": "Ohio"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Washington clashed over seniority almost immediately, this time with John Dagworthy, another captain of superior royal rank, who commanded a detachment of Marylanders at the regiment's headquarters in Fort Cumberland."
+            ],
+            "arguments": {
+                "1": "Dagworthy",
+                "2": "Marylanders",
+                "3": "captain",
+                "4": "Cumberland"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Congress created the Continental Army on June 14, 1775, and Samuel Adams and John Adams nominated Washington to become its commander in chief."
+            ],
+            "arguments": {
+                "1": "Adams",
+                "2": "Army",
+                "3": "commander",
+                "4": "Washington"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "His men followed across the ice-obstructed river in sleet and snow at McKonkey's Ferry, with 40 men per vessel."
+            ],
+            "arguments": {
+                "1": "men",
+                "2": "Ferry",
+                "3": "river",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Washington promoted Von Steuben to Major General and made him chief of staff.\n\n"
+            ],
+            "arguments": {
+                "1": "Steuben",
+                "2": "General",
+                "3": "of; staff; chief",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Historical reputation and legacy\nWashington's legacy endures as one of the most influential in American history, since he served as commander-in-chief of the Continental Army, a hero of the Revolution, and the first president of the United States."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "Army",
+                "3": "commander; president",
+                "4": "States"
+            }
+        }
+    ]
+}

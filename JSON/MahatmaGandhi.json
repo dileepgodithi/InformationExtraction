@@ -1,0 +1,1056 @@
+{
+    "document": "MahatmaGandhi.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "In India, he was also called Bapu, a term that he preferred (Gujarati: endearment for father, papa) and Gandhi ji, and is known as the Father of the Nation."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "gujarati"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Born and raised in a Hindu merchant caste family in coastal Gujarat, India, and trained in law at the Inner Temple, London, Gandhi first employed nonviolent civil disobedience as an expatriate lawyer in South Africa, in the resident Indian community's struggle for civil rights."
+            ],
+            "arguments": {
+                "1": "gujarat",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Born and raised in a Hindu merchant caste family in coastal Gujarat, India, and trained in law at the Inner Temple, London, Gandhi first employed nonviolent civil disobedience as an expatriate lawyer in South Africa, in the resident Indian community's struggle for civil rights."
+            ],
+            "arguments": {
+                "1": "gujarat",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Born and raised in a Hindu merchant caste family in coastal Gujarat, India, and trained in law at the Inner Temple, London, Gandhi first employed nonviolent civil disobedience as an expatriate lawyer in South Africa, in the resident Indian community's struggle for civil rights."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Born and raised in a Hindu merchant caste family in coastal Gujarat, India, and trained in law at the Inner Temple, London, Gandhi first employed nonviolent civil disobedience as an expatriate lawyer in South Africa, in the resident Indian community's struggle for civil rights."
+            ],
+            "arguments": {
+                "1": "london",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He was imprisoned for many years, upon many occasions, in both South Africa and India."
+            ],
+            "arguments": {
+                "1": "south africa",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As many displaced Hindus, Muslims, and Sikhs made their way to their new lands, religious violence broke out, especially in the Punjab and Bengal."
+            ],
+            "arguments": {
+                "1": "punjab",
+                "2": "bengal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Biography\nEarly life and background\nMohandas Karamchand Gandhi was born on 2 October 1869 into a Gujarati Hindu Modh Baniya family in Porbandar (also known as Sudamapuri), a coastal town on the Kathiawar Peninsula and then part of the small princely state of Porbandar in the Kathiawar Agency of the Indian Empire."
+            ],
+            "arguments": {
+                "1": "gujarati",
+                "2": "porbandar"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Biography\nEarly life and background\nMohandas Karamchand Gandhi was born on 2 October 1869 into a Gujarati Hindu Modh Baniya family in Porbandar (also known as Sudamapuri), a coastal town on the Kathiawar Peninsula and then part of the small princely state of Porbandar in the Kathiawar Agency of the Indian Empire."
+            ],
+            "arguments": {
+                "1": "gujarati",
+                "2": "the indian empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Biography\nEarly life and background\nMohandas Karamchand Gandhi was born on 2 October 1869 into a Gujarati Hindu Modh Baniya family in Porbandar (also known as Sudamapuri), a coastal town on the Kathiawar Peninsula and then part of the small princely state of Porbandar in the Kathiawar Agency of the Indian Empire."
+            ],
+            "arguments": {
+                "1": "porbandar",
+                "2": "sudamapuri"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Biography\nEarly life and background\nMohandas Karamchand Gandhi was born on 2 October 1869 into a Gujarati Hindu Modh Baniya family in Porbandar (also known as Sudamapuri), a coastal town on the Kathiawar Peninsula and then part of the small princely state of Porbandar in the Kathiawar Agency of the Indian Empire."
+            ],
+            "arguments": {
+                "1": "porbandar",
+                "2": "the indian empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Biography\nEarly life and background\nMohandas Karamchand Gandhi was born on 2 October 1869 into a Gujarati Hindu Modh Baniya family in Porbandar (also known as Sudamapuri), a coastal town on the Kathiawar Peninsula and then part of the small princely state of Porbandar in the Kathiawar Agency of the Indian Empire."
+            ],
+            "arguments": {
+                "1": "sudamapuri",
+                "2": "the indian empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When Gandhi arrived in South Africa, according to Herman, he thought of himself as \"a Briton first, and an Indian second\"."
+            ],
+            "arguments": {
+                "1": "south africa",
+                "2": "herman"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During a speech in September 1896, Gandhi complained that the whites in the British colony of South Africa were degrading Indian Hindus and Muslims to \"a level of Kaffir\"."
+            ],
+            "arguments": {
+                "1": "south africa",
+                "2": "kaffir"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1906, when the British declared war against the Zulu Kingdom in Natal, Gandhi at age 36, sympathised with the Zulus, and encouraged the Indian volunteers to help as an ambulance unit."
+            ],
+            "arguments": {
+                "1": "the zulu kingdom",
+                "2": "natal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1906, when the British declared war against the Zulu Kingdom in Natal, Gandhi at age 36, sympathised with the Zulus, and encouraged the Indian volunteers to help as an ambulance unit."
+            ],
+            "arguments": {
+                "1": "the zulu kingdom",
+                "2": "zulus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1906, when the British declared war against the Zulu Kingdom in Natal, Gandhi at age 36, sympathised with the Zulus, and encouraged the Indian volunteers to help as an ambulance unit."
+            ],
+            "arguments": {
+                "1": "natal",
+                "2": "zulus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Meanwhile, the Muslim League did co-operate with Britain and moved, against Gandhi's strong opposition, to demands for a totally separate Muslim state of Pakistan."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "pakistan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Champaran and Kheda\nChamparan agitations\nGandhi's first major achievement came in 1917 with the Champaran agitation in Bihar."
+            ],
+            "arguments": {
+                "1": "champaran",
+                "2": "bihar"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He leveraged the Khilafat movement, wherein Sunni Muslims in India, their leaders such as the sultans of princely states in India and Ali brothers championed the Turkish Caliph as a solidarity symbol of Sunni Islamic community (ummah)."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "the turkish caliph"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi in Ahmedabad, on the day after the massacre in Amritsar, did not criticise the British and instead criticised his fellow countrymen for not exclusively using love to deal with the hate of the British government."
+            ],
+            "arguments": {
+                "1": "ahmedabad",
+                "2": "amritsar"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "After his support for the World War I with Indian combat troops, and the failure of Khilafat movement in preserving the rule of Caliph in Turkey, followed by a collapse in Muslim support for his leadership, some such as Subhas Chandra Bose and Bhagat Singh questioned his values and non-violent approach."
+            ],
+            "arguments": {
+                "1": "caliph",
+                "2": "turkey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On 31 December 1929, the flag of India was unfurled in Lahore."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "lahore"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi led Congress celebrated 26 January 1930 as India's Independence Day in Lahore."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "lahore"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This campaign was one of his most successful at upsetting British hold on India; Britain responded by imprisoning over 60,000 people."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As the war progressed, Gandhi intensified his demand for independence, calling for the British to Quit India in a 1942 speech in Mumbai."
+            ],
+            "arguments": {
+                "1": "quit india",
+                "2": "mumbai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "All Indian-owned establishments in London remained closed in mourning as thousands of people from all faiths and denominations and Indians from all over Britain converged at India House in London."
+            ],
+            "arguments": {
+                "1": "london",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Another urn is at the palace of the Aga Khan in Pune (where Gandhi was held as a political prisoner from 1942 to 1944) and another in the Self-Realization Fellowship Lake Shrine in Los Angeles."
+            ],
+            "arguments": {
+                "1": "pune",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The place near Yamuna river where he was cremated is the R\u0101j Gh\u0101t memorial in New Delhi."
+            ],
+            "arguments": {
+                "1": "yamuna",
+                "2": "new delhi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Influences\nGandhi grew up in a Hindu and Jain religious atmosphere in his native Gujarat, which were his primary influences, but he was also influenced by his personal reflections and literature of Hindu Bhakti saints, Advaita Vedanta, Islam, Buddhism, Christianity, and thinkers such as Tolstoy, Ruskin and Thoreau."
+            ],
+            "arguments": {
+                "1": "jain",
+                "2": "gujarat"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi was influenced by his devout Vaishnava Hindu mother, the regional Hindu temples and saint tradition which co-existed with Jain tradition in Gujarat."
+            ],
+            "arguments": {
+                "1": "jain",
+                "2": "gujarat"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "According to Bhikhu Parekh, three books that influenced Gandhi most in South Africa were William Salter's Ethical Religion (1889); Henry David Thoreau's On the Duty of Civil Disobedience (1849); and Leo Tolstoy's The Kingdom of God Is Within You (1894)."
+            ],
+            "arguments": {
+                "1": "south africa",
+                "2": "the kingdom of god is"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ruskin inspired his decision to live an austere life on a commune, at first on the Phoenix Farm in Natal and then on the Tolstoy Farm just outside Johannesburg, South Africa."
+            ],
+            "arguments": {
+                "1": "natal",
+                "2": "johannesburg"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ruskin inspired his decision to live an austere life on a commune, at first on the Phoenix Farm in Natal and then on the Tolstoy Farm just outside Johannesburg, South Africa."
+            ],
+            "arguments": {
+                "1": "natal",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "According to Raymond Williams, Toothi may have overlooked the influence of the Jain community, and adds close parallels do exist in programs of social reform in the Swaminarayan tradition and those of Gandhi, based on \"nonviolence, truth-telling, cleanliness, temperance and upliftment of the masses.\""
+            ],
+            "arguments": {
+                "1": "jain",
+                "2": "swaminarayan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mehta's residence in Bombay."
+            ],
+            "arguments": {
+                "1": "mehta",
+                "2": "bombay"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi exchanged letters with Rajchandra when he was in South Africa, referring to him as Kavi (literally, \"poet\")."
+            ],
+            "arguments": {
+                "1": "rajchandra",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi's views came under heavy criticism in Britain when it was under attack from Nazi Germany, and later when the Holocaust was revealed."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "nazi germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi discussed the persecution of the Jews in Germany and the emigration of Jews from Europe to Palestine through his lens of Satyagraha."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "palestine"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi discussed the persecution of the Jews in Germany and the emigration of Jews from Europe to Palestine through his lens of Satyagraha."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "satyagraha"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi discussed the persecution of the Jews in Germany and the emigration of Jews from Europe to Palestine through his lens of Satyagraha."
+            ],
+            "arguments": {
+                "1": "palestine",
+                "2": "satyagraha"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The idea of vegetarianism is deeply ingrained in Hindu Vaishnavism and Jain traditions in India, such as in his native Gujarat, where meat is considered as a form of food obtained by violence to animals."
+            ],
+            "arguments": {
+                "1": "vaishnavism",
+                "2": "jain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The idea of vegetarianism is deeply ingrained in Hindu Vaishnavism and Jain traditions in India, such as in his native Gujarat, where meat is considered as a form of food obtained by violence to animals."
+            ],
+            "arguments": {
+                "1": "vaishnavism",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The idea of vegetarianism is deeply ingrained in Hindu Vaishnavism and Jain traditions in India, such as in his native Gujarat, where meat is considered as a form of food obtained by violence to animals."
+            ],
+            "arguments": {
+                "1": "vaishnavism",
+                "2": "gujarat"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The idea of vegetarianism is deeply ingrained in Hindu Vaishnavism and Jain traditions in India, such as in his native Gujarat, where meat is considered as a form of food obtained by violence to animals."
+            ],
+            "arguments": {
+                "1": "jain",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The idea of vegetarianism is deeply ingrained in Hindu Vaishnavism and Jain traditions in India, such as in his native Gujarat, where meat is considered as a form of food obtained by violence to animals."
+            ],
+            "arguments": {
+                "1": "jain",
+                "2": "gujarat"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The idea of vegetarianism is deeply ingrained in Hindu Vaishnavism and Jain traditions in India, such as in his native Gujarat, where meat is considered as a form of food obtained by violence to animals."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "gujarat"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi's rationale for vegetarianism was largely along those found in Hindu and Jain texts."
+            ],
+            "arguments": {
+                "1": "hindu",
+                "2": "jain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In actual elections of 1937, except for some seats in Mumbai where Ambedkar's party won, India's untouchables voted heavily in favour of Gandhi's campaign and his party, the Congress."
+            ],
+            "arguments": {
+                "1": "mumbai",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One of Gandhi's earliest publications, Hind Swaraj, published in Gujarati in 1909, became \"the intellectual blueprint\" for India's independence movement."
+            ],
+            "arguments": {
+                "1": "gujarati",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "harijan",
+                "2": "gujarati"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "harijan",
+                "2": "hindi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "harijan",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "harijan",
+                "2": "young india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "harijan",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "gujarati",
+                "2": "hindi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "gujarati",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "gujarati",
+                "2": "young india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "gujarati",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "hindi",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "hindi",
+                "2": "young india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "hindi",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "south africa",
+                "2": "young india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For decades he edited several newspapers including Harijan in Gujarati, in Hindi and in the English language; Indian Opinion while in South Africa and, Young India, in English, and Navajivan, a Gujarati monthly, on his return to India."
+            ],
+            "arguments": {
+                "1": "south africa",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "His other autobiographies included: Satyagraha in South Africa about his struggle there, Hind Swaraj or Indian Home Rule, a political pamphlet, and a paraphrase in Gujarati of John Ruskin's Unto This Last."
+            ],
+            "arguments": {
+                "1": "south africa",
+                "2": "gujarati"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "These include M.G.Road (the main street of a number of Indian cities including Mumbai and Bangalore), Gandhi Market (near Sion, Mumbai) and Gandhinagar (the capital of the state of Gujarat, Gandhi's birthplace)."
+            ],
+            "arguments": {
+                "1": "mumbai",
+                "2": "gujarat"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "These include M.G.Road (the main street of a number of Indian cities including Mumbai and Bangalore), Gandhi Market (near Sion, Mumbai) and Gandhinagar (the capital of the state of Gujarat, Gandhi's birthplace)."
+            ],
+            "arguments": {
+                "1": "bangalore",
+                "2": "gujarat"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "US President Barack Obama in a 2010 address to the Parliament of India said that:\n\nI am mindful that I might not be standing before you today, as President of the United States, had it not been for Gandhi and the message he shared with America and the world."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "US President Barack Obama in a 2010 address to the Parliament of India said that:\n\nI am mindful that I might not be standing before you today, as President of the United States, had it not been for Gandhi and the message he shared with America and the world."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Time Magazine named The 14th Dalai Lama, Lech Wa\u0142\u0119sa, Martin Luther King, Cesar Chavez, Aung San Suu Kyi, Benigno Aquino, Jr., Desmond Tutu, and Nelson Mandela as Children of Gandhi and his spiritual heirs to nonviolence.The Mahatma Gandhi District in Houston, Texas, United States, an ethnic Indian enclave, is officially named after Gandhi."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "sambalpur",
+                "2": "orissa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "sambalpur",
+                "2": "chikmagalur"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "sambalpur",
+                "2": "karnataka"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "sambalpur",
+                "2": "nalgonda"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "sambalpur",
+                "2": "telangana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "orissa",
+                "2": "nidaghatta"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "orissa",
+                "2": "kadur"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "orissa",
+                "2": "chikmagalur"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "orissa",
+                "2": "karnataka"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "orissa",
+                "2": "nalgonda"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "orissa",
+                "2": "telangana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "nidaghatta",
+                "2": "chikmagalur"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "nidaghatta",
+                "2": "karnataka"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "nidaghatta",
+                "2": "nalgonda"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "nidaghatta",
+                "2": "telangana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "kadur",
+                "2": "chikmagalur"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "kadur",
+                "2": "karnataka"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "kadur",
+                "2": "nalgonda"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "kadur",
+                "2": "telangana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "chikmagalur",
+                "2": "karnataka"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "chikmagalur",
+                "2": "nalgonda"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "chikmagalur",
+                "2": "telangana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "karnataka",
+                "2": "nalgonda"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "karnataka",
+                "2": "telangana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "nalgonda",
+                "2": "telangana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Gandhi Memorial in Kanyakumari resembles central Indian Hindu temples and the Tamukkam or Summer Palace in Madurai now houses the Mahatma Gandhi Museum."
+            ],
+            "arguments": {
+                "1": "kanyakumari",
+                "2": "madurai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Another grandson, Kanu Ramdas Gandhi (the son of Gandhi's third son Ramdas), was found living in an old age home in Delhi despite having taught earlier in the United States."
+            ],
+            "arguments": {
+                "1": "delhi",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Trikaranasuddhi\nGandhi (bookstore)\nReferences\nBibliography\nBooks\nPrimary sources\nExternal links\nWikilivres has original media or text related to this article: Mohandas K. Gandhi (in the public domain in New Zealand)\nMahatma Gandhi at Encyclop\u00e6dia Britannica\nMahatma Gandhi at Curlie\nGandhi's correspondence with the Indian government 1942\u20131944\nAbout Mahatma Gandhi\nGandhi Ashram at Sabarmati\nMani Bhavan Gandhi Sangrahalaya Gandhi Museum & Library\nWorks by Mahatma Gandhi at Project Gutenberg\nWorks by or about Mahatma Gandhi at Internet Archive\nWorks by Mahatma Gandhi at LibriVox (public domain audiobooks)\nNewspaper clippings about Mahatma Gandhi in the 20th Century Press Archives of the German National Library of Economics (ZBW)"
+            ],
+            "arguments": {
+                "1": "new zealand",
+                "2": "sabarmati"
+            }
+        }
+    ]
+}{
+    "document": "MahatmaGandhi.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "He justified this support by invoking Islam, stating that \"non-Muslims cannot acquire sovereign jurisdiction\" in Jazirat al-Arab (the Arabian Peninsula)."
+            ],
+            "arguments": {
+                "1": "non-Muslims",
+                "2": "sovereign jurisdiction",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "To Gandhi, the women of India were an important part of the \"swadeshi movement\" (Buy Indian), and his goal of decolonising the Indian economy.\n\n"
+            ],
+            "arguments": {
+                "1": "the women",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "(Gujar\u0101t\u012b \"\u0ab8\u0aa4\u0acd\u0aaf\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0aaf\u0acb\u0a97\u0acb \u0a85\u0aa5\u0ab5\u0abe \u0a86\u0aa4\u0acd\u0aae\u0a95\u0aa5\u0abe\"), of which he bought the entire first edition to make sure it was reprinted."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "the entire first edition",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "MahatmaGandhi.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Gokhale was a key leader of the Congress Party best known for his restraint and moderation, and his insistence on working inside the system."
+            ],
+            "arguments": {
+                "1": "Gokhale",
+                "2": "Party",
+                "3": "leader",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1921, Gandhi was the leader of the Indian National Congress."
+            ],
+            "arguments": {
+                "1": "Gandhi",
+                "2": "Congress",
+                "3": "leader",
+                "4": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,578 @@
+{
+    "document": "AppleInc.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services."
+            ],
+            "arguments": {
+                "1": "cupertino",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On May 19, 2001, Apple opened its first official eponymous retail stores in Virginia and California."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The official press release explained that Apple was \"scaling back\" on trade shows in general, including Macworld Tokyo and the Apple Expo in Paris, France, primarily because the enormous successes of the Apple Retail Stores and website had rendered trade shows a minor promotional channel."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On February 4, 2014, Cook met with Abdullah G\u00fcl, the President of Turkey, in Ankara to discuss the company's involvement in the Fatih project."
+            ],
+            "arguments": {
+                "1": "turkey",
+                "2": "ankara"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of June 6, 2016, Apple's solar farms in California and Nevada have been declared to provide 217.9 megawatts of solar generation capacity."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "nevada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This Apple campus has six buildings that total 850,000 square feet (79,000 m2) and was built in 1993 by Sobrato Development Cos.\n\nApple has a satellite campus in neighboring Sunnyvale, California, where it houses a testing and research laboratory."
+            ],
+            "arguments": {
+                "1": "sunnyvale",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Apple has expanded its campuses in Austin, Texas concurrently with building Apple Park in Cupertino."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Apple has expanded its campuses in Austin, Texas concurrently with building Apple Park in Cupertino."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "cupertino"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Apple has expanded its campuses in Austin, Texas concurrently with building Apple Park in Cupertino."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "cupertino"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Apple's headquarters for Europe, the Middle East and Africa (EMEA) are located in Cork in the south of Ireland."
+            ],
+            "arguments": {
+                "1": "cork",
+                "2": "ireland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Apple Sales International, which deals with all of Apple's international sales outside of the US, is located at Apple's campus in Cork along with Apple Distribution International, which similarly deals with Apple's international distribution network."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "cork"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Its United Kingdom headquarters is at Stockley Park on the outskirts of London."
+            ],
+            "arguments": {
+                "1": "united kingdom",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In February 2015, Apple opened their new 180,000-square-foot headquarters in Herzliya, Israel, designed to accommodate approximately 800 employees."
+            ],
+            "arguments": {
+                "1": "herzliya",
+                "2": "israel"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This is Apple's third office located within Israel; the first, also in Herzliya, was obtained as part of the Anobit acquisition, and the other is a research center in Haifa."
+            ],
+            "arguments": {
+                "1": "israel",
+                "2": "herzliya"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This is Apple's third office located within Israel; the first, also in Herzliya, was obtained as part of the Anobit acquisition, and the other is a research center in Haifa."
+            ],
+            "arguments": {
+                "1": "israel",
+                "2": "haifa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This is Apple's third office located within Israel; the first, also in Herzliya, was obtained as part of the Anobit acquisition, and the other is a research center in Haifa."
+            ],
+            "arguments": {
+                "1": "herzliya",
+                "2": "haifa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On December 21, 2016, Nokia announced that in the U.S. and Germany, it has filed a suit against Apple, claiming that the latter's products infringe on Nokia's patents."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The company has also used its iTunes platform to encourage donations, including, but not limited to, help the American Red Cross in the aftermath of the 2010 Haiti earthquake, followed by similar procedure in the aftermath of the 2011 Japan earthquake, Typhoon Haiyan in the Philippines in November 2013, and European migrant crisis in September 2015."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "typhoon haiyan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The company has also used its iTunes platform to encourage donations, including, but not limited to, help the American Red Cross in the aftermath of the 2010 Haiti earthquake, followed by similar procedure in the aftermath of the 2011 Japan earthquake, Typhoon Haiyan in the Philippines in November 2013, and European migrant crisis in September 2015."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "philippines"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The company has also used its iTunes platform to encourage donations, including, but not limited to, help the American Red Cross in the aftermath of the 2010 Haiti earthquake, followed by similar procedure in the aftermath of the 2011 Japan earthquake, Typhoon Haiyan in the Philippines in November 2013, and European migrant crisis in September 2015."
+            ],
+            "arguments": {
+                "1": "typhoon haiyan",
+                "2": "philippines"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "See also\n\n    Apple media events\n    Pixar\n    EU illegal State aid case against Apple in Ireland\n    Leprechaun economics\n    Corporation tax in the Republic of Ireland\n\nReferences\nBibliography\nFurther reading\nExternal links\n\n    Official website\n    Apple Inc. companies grouped at OpenCorporates\n    Geographic data related to Apple Inc. headquarters at OpenStreetMap"
+            ],
+            "arguments": {
+                "1": "ireland",
+                "2": "the republic of ireland"
+            }
+        }
+    ]
+}{
+    "document": "AppleInc.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1997, he led Apple to buy NeXT, solving the desperately failed operating system strategy and bringing Jobs back."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "NeXT",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Think different campaign, as he rebuilt Apple's status by launching the iMac in 1998, opening the retail chain of Apple Stores in 2001, and acquiring numerous companies to broaden the software portfolio."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "numerous companies",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "VisiCalc created a business market for the Apple II and gave home users an additional reason to buy an Apple II: compatibility with the office."
+            ],
+            "arguments": {
+                "1": "VisiCalc",
+                "2": "an Apple II",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Xerox granted Apple engineers three days of access to the PARC facilities in return for the option to buy 100,000 shares (800,000 split-adjusted shares) of Apple at the pre-IPO price of $10 a share.\n\n"
+            ],
+            "arguments": {
+                "1": "Xerox",
+                "2": "100,000 shares",
+                "3": "$ 10",
+                "4": "",
+                "5": "Apple"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "After numerous failed attempts to modernize Mac OS, first with the Pink project from 1988 and later with Copland from 1994, Apple in 1997 purchased NeXT for its NeXTSTEP operating system and to bring Steve Jobs back.\n"
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "NeXT",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1998, Apple purchased Macromedia's Key Grip software project, signaling an expansion into the digital video editing market."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Macromedia's Key Grip software project",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Next, Apple successfully acquired the German company Astarte, which had developed DVD authoring technology, as well as Astarte's corresponding products and engineering team in April 2000."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Astarte",
+                "3": "",
+                "4": "",
+                "5": "April 2000"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In July 2001, Apple acquired Spruce Technologies, a PC DVD authoring platform, to incorporate their technology into Apple's expanding portfolio of digital video projects.\n\n"
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Spruce Technologies",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2002, Apple purchased Nothing Real for their advanced digital compositing application Shake, as well as Emagic for the music productivity application Logic."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Real",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In May 2014, the company confirmed its intent to acquire Dr. Dre and Jimmy Iovine's audio company Beats Electronics\u2014producer of the \"Beats by Dr. Dre\" line of headphones and speaker products, and operator of the music streaming service Beats Music\u2014for $3 billion, and to sell their products through Apple's retail outlets and resellers."
+            ],
+            "arguments": {
+                "1": "the company",
+                "2": "Jimmy Iovine's audio company",
+                "3": "$3 billion",
+                "4": "",
+                "5": "the music streaming service"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Towards the end of the year, TechCrunch reported that Apple was acquiring Shazam, a company specializing in music, TV, film and advertising recognition."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Shazam",
+                "3": "",
+                "4": "",
+                "5": "recognition"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In August 2018, Apple purchased Akonia Holographics for its augmented reality goggle lens."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Akonia Holographics",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On February 14, 2019, Apple acquired DataTiger for its digital marketing technology.\n"
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "DataTiger",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In late July 2017, Apple discontinued its iPod Nano and iPod Shuffle models, leaving only the iPod Touch available for purchase.\n"
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "It features the Apple A5 processor and Siri voice assistant technology, the latter of which Apple had acquired in 2010."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "A software update released on January 15, 2008, allowed media to be purchased directly from the Apple TV.\n\n"
+            ],
+            "arguments": {
+                "1": "A software update",
+                "2": "media",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "An internal memo leaked in 2015 suggested the company planned to discourage long lines and direct customers to purchase its products on its website.\n\n"
+            ],
+            "arguments": {
+                "1": "An internal memo",
+                "2": "its products",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In December 2015, Apple bought the 70,000-square-foot manufacturing facility in North San Jose previously used by Maxim Integrated, in an $18.2 million deal.\n"
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "the 70,000-square-foot manufacturing facility",
+                "3": "",
+                "4": "",
+                "5": "North San Jose"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Critics have claimed that Apple products combine stolen and/or purchased designs that Apple claims are its original creations."
+            ],
+            "arguments": {
+                "1": "Critics",
+                "2": "designs",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "AppleInc.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Apple is the world's largest information technology company by revenue and the world's third-largest mobile phone manufacturer after Samsung and Huawei."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Huawei",
+                "3": "manufacturer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The machine's fortunes changed with the introduction of the LaserWriter, the first PostScript laser printer to be sold at a reasonable price, and PageMaker, an early desktop publishing package."
+            ],
+            "arguments": {
+                "1": "fortunes",
+                "2": "PageMaker",
+                "3": "printer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The same year, Apple introduced the Power Macintosh, the first of many Apple computers to use Motorola's PowerPC processor.\n\n"
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Macintosh",
+                "3": "processor",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "On August 24, 2011, Jobs resigned his position as CEO of Apple."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "Apple",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "On July 2, 2013, Apple recruited Paul Deneve, Belgian President and CEO of Yves Saint Laurent as a vice president reporting directly to Tim Cook."
+            ],
+            "arguments": {
+                "1": "Cook",
+                "2": "Laurent",
+                "3": "CEO; president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "A mid-October 2013 announcement revealed that Burberry executive Angela Ahrendts will commence as a senior vice president at Apple in mid-2014."
+            ],
+            "arguments": {
+                "1": "Ahrendts",
+                "2": "Apple",
+                "3": "president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In June 2017, Apple announced the HomePod, its smart speaker aimed to compete against Sonos and Amazon Echo."
+            ],
+            "arguments": {
+                "1": "Echo",
+                "2": "Sonos",
+                "3": "speaker",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "It added LTE service from AT&T or Verizon, an upgraded A5X processor, and Retina display."
+            ],
+            "arguments": {
+                "1": "It",
+                "2": "AT&T",
+                "3": "processor",
+                "4": "Verizon"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "At the September 12, 2017 event, Apple released a new 4K Apple TV with the same form factor as the 4th Generation model."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "TV",
+                "3": "model",
+                "4": ""
+            }
+        }
+    ]
+}

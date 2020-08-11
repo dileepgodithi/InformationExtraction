@@ -1,0 +1,1459 @@
+{
+    "document": "ExxonMobil.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon Mobil Corporation, doing business as ExxonMobil, is an American multinational oil and gas corporation headquartered in Irving, Texas."
+            ],
+            "arguments": {
+                "1": "irving",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is the largest direct descendant of John D. Rockefeller's Standard Oil Company, and was formed on November 30, 1999 by the merger of Exxon (formerly the Standard Oil Company of New Jersey) and Mobil (formerly the Standard Oil Company of New York)."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1882, it together with its affiliated companies was incorporated as the Standard Oil Trust with Standard Oil Company of New Jersey and Standard Oil Company of New York as its largest companies."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1891, a sale branch for the Netherlands and Belgium, American Petroleum Company, was established in Rotterdam."
+            ],
+            "arguments": {
+                "1": "netherlands",
+                "2": "rotterdam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1891, a sale branch for the Netherlands and Belgium, American Petroleum Company, was established in Rotterdam."
+            ],
+            "arguments": {
+                "1": "belgium",
+                "2": "rotterdam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, a sale branch for Italy, Societ\u00e0 Italo Americana pel Petrolio, was established in Venice."
+            ],
+            "arguments": {
+                "1": "italy",
+                "2": "venice"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, a sale branch for Italy, Societ\u00e0 Italo Americana pel Petrolio, was established in Venice."
+            ],
+            "arguments": {
+                "1": "americana",
+                "2": "venice"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Two of these companies were Jersey Standard (\"Standard Oil Co. of New Jersey\"), which eventually became Exxon, and Socony (\"Standard Oil Co. of New York\"), which eventually became Mobil."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1922, it found oil in Indonesia and in 1927, it built a refinery in Sumatra."
+            ],
+            "arguments": {
+                "1": "indonesia",
+                "2": "sumatra"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It erected synthetic fuel plants in Bayway, Baton Rouge, and Baytown (unfinished)."
+            ],
+            "arguments": {
+                "1": "bayway",
+                "2": "baton rouge"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1937, its assets in Bolivia were nationalized, followed by nationalization of its assets in Mexico in 1938."
+            ],
+            "arguments": {
+                "1": "bolivia",
+                "2": "mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1967, Humble Oil purchased all remaining Signal stations from Standard Oil Company of California (Chevron) In 1969, Humble Oil opened a new refinery in Benicia, California."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "benicia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In April 1980, Exxon opened a 250-ton-per-day pilot plant in Baytown, Texas."
+            ],
+            "arguments": {
+                "1": "baytown",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1970, Jersey Nuclear opened a nuclear fuel manufacturing facility, now owned by Areva, in Richland, Washington."
+            ],
+            "arguments": {
+                "1": "richland",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The company started surface mining of uranium ore in Converse County, Wyoming, in 1970, solution mining in 1972, and underground mining in 1977."
+            ],
+            "arguments": {
+                "1": "converse county",
+                "2": "wyoming"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1976, Exxon, through its subsidiary Intercor, entered into partnership with Colombian state owned company Carbocol to start coal mining in Cerrej\u00f3n."
+            ],
+            "arguments": {
+                "1": "carbocol",
+                "2": "cerrej\u00f3n"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, Exxon entered into the oil shale industry by buying a 60% stake in the Colony Shale Oil Project in Colorado, United States, and 50% stake in the Rundle oil shale deposit in Queensland, Australia."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, Exxon entered into the oil shale industry by buying a 60% stake in the Colony Shale Oil Project in Colorado, United States, and 50% stake in the Rundle oil shale deposit in Queensland, Australia."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "queensland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, Exxon entered into the oil shale industry by buying a 60% stake in the Colony Shale Oil Project in Colorado, United States, and 50% stake in the Rundle oil shale deposit in Queensland, Australia."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, Exxon entered into the oil shale industry by buying a 60% stake in the Colony Shale Oil Project in Colorado, United States, and 50% stake in the Rundle oil shale deposit in Queensland, Australia."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "queensland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, Exxon entered into the oil shale industry by buying a 60% stake in the Colony Shale Oil Project in Colorado, United States, and 50% stake in the Rundle oil shale deposit in Queensland, Australia."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, Exxon entered into the oil shale industry by buying a 60% stake in the Colony Shale Oil Project in Colorado, United States, and 50% stake in the Rundle oil shale deposit in Queensland, Australia."
+            ],
+            "arguments": {
+                "1": "queensland",
+                "2": "australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon sold the Exxon Building (1251 Avenue of the Americas), its former headquarters in Rockefeller Center, to a unit of Mitsui Real Estate Development Co. Ltd. in 1986 for $610 million, and in 1989, moved its headquarters from Manhattan, New York City to the Las Colinas area of Irving, Texas."
+            ],
+            "arguments": {
+                "1": "las colinas",
+                "2": "irving"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon sold the Exxon Building (1251 Avenue of the Americas), its former headquarters in Rockefeller Center, to a unit of Mitsui Real Estate Development Co. Ltd. in 1986 for $610 million, and in 1989, moved its headquarters from Manhattan, New York City to the Las Colinas area of Irving, Texas."
+            ],
+            "arguments": {
+                "1": "las colinas",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "boston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "boston",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "boston",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "boston",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "2000 to present\n\nIn 2002, the company sold its stake in the Cerrej\u00f3n coal mine in Colombia, and copper-mining business in Chile."
+            ],
+            "arguments": {
+                "1": "cerrej\u00f3n",
+                "2": "colombia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "2000 to present\n\nIn 2002, the company sold its stake in the Cerrej\u00f3n coal mine in Colombia, and copper-mining business in Chile."
+            ],
+            "arguments": {
+                "1": "cerrej\u00f3n",
+                "2": "chile"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "2000 to present\n\nIn 2002, the company sold its stake in the Cerrej\u00f3n coal mine in Colombia, and copper-mining business in Chile."
+            ],
+            "arguments": {
+                "1": "colombia",
+                "2": "chile"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2014, the Bureau of Land Management approved their research and development project in Rio Blanco County, Colorado."
+            ],
+            "arguments": {
+                "1": "rio blanco county",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2012, ExxonMobil confirmed a deal for production and exploration activities in the Kurdistan region of Iraq."
+            ],
+            "arguments": {
+                "1": "kurdistan",
+                "2": "iraq"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In these transactions, ExxonMobil gave to LINN interests in the South Belridge and Hugoton gas fields in the exchange of assets in the Permian Basin in Texas and the Delaware Basin in New Mexico."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "new mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On January 9, 2017, it was revealed that Infineum, a joint venture of ExxonMobil and Royal Dutch Shell headquartered in England, conducted business with Iran, Syria, and Sudan while those states were under US sanctions."
+            ],
+            "arguments": {
+                "1": "england",
+                "2": "iran"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On January 9, 2017, it was revealed that Infineum, a joint venture of ExxonMobil and Royal Dutch Shell headquartered in England, conducted business with Iran, Syria, and Sudan while those states were under US sanctions."
+            ],
+            "arguments": {
+                "1": "england",
+                "2": "syria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On January 9, 2017, it was revealed that Infineum, a joint venture of ExxonMobil and Royal Dutch Shell headquartered in England, conducted business with Iran, Syria, and Sudan while those states were under US sanctions."
+            ],
+            "arguments": {
+                "1": "england",
+                "2": "sudan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On January 9, 2017, it was revealed that Infineum, a joint venture of ExxonMobil and Royal Dutch Shell headquartered in England, conducted business with Iran, Syria, and Sudan while those states were under US sanctions."
+            ],
+            "arguments": {
+                "1": "england",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Upstream (oil exploration, extraction, shipping, and wholesale operations) based in Houston, Texas\n    Downstream (marketing, refining, and retail operations) based in Houston\n    Chemical division based in Houston, Texas\n\nUpstream\n\nThe upstream division makes up the majority of ExxonMobil's revenue, accounting for approximately 70% of the total."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Argentina, ExxonMobil holds 0.9 million acres (3,600 km2), Germany 4.9 million acres (20,000 km2), in the Netherlands ExxonMobil owns 1.5 million acres (6,100 km2), in Norway it owns 0.4 million acres (1,600 km2) offshore, and the United Kingdom 0.6 million acres (2,400 km2) offshore."
+            ],
+            "arguments": {
+                "1": "argentina",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Argentina, ExxonMobil holds 0.9 million acres (3,600 km2), Germany 4.9 million acres (20,000 km2), in the Netherlands ExxonMobil owns 1.5 million acres (6,100 km2), in Norway it owns 0.4 million acres (1,600 km2) offshore, and the United Kingdom 0.6 million acres (2,400 km2) offshore."
+            ],
+            "arguments": {
+                "1": "argentina",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Argentina, ExxonMobil holds 0.9 million acres (3,600 km2), Germany 4.9 million acres (20,000 km2), in the Netherlands ExxonMobil owns 1.5 million acres (6,100 km2), in Norway it owns 0.4 million acres (1,600 km2) offshore, and the United Kingdom 0.6 million acres (2,400 km2) offshore."
+            ],
+            "arguments": {
+                "1": "argentina",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Argentina, ExxonMobil holds 0.9 million acres (3,600 km2), Germany 4.9 million acres (20,000 km2), in the Netherlands ExxonMobil owns 1.5 million acres (6,100 km2), in Norway it owns 0.4 million acres (1,600 km2) offshore, and the United Kingdom 0.6 million acres (2,400 km2) offshore."
+            ],
+            "arguments": {
+                "1": "argentina",
+                "2": "the united kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Argentina, ExxonMobil holds 0.9 million acres (3,600 km2), Germany 4.9 million acres (20,000 km2), in the Netherlands ExxonMobil owns 1.5 million acres (6,100 km2), in Norway it owns 0.4 million acres (1,600 km2) offshore, and the United Kingdom 0.6 million acres (2,400 km2) offshore."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Argentina, ExxonMobil holds 0.9 million acres (3,600 km2), Germany 4.9 million acres (20,000 km2), in the Netherlands ExxonMobil owns 1.5 million acres (6,100 km2), in Norway it owns 0.4 million acres (1,600 km2) offshore, and the United Kingdom 0.6 million acres (2,400 km2) offshore."
+            ],
+            "arguments": {
+                "1": "netherlands",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Argentina, ExxonMobil holds 0.9 million acres (3,600 km2), Germany 4.9 million acres (20,000 km2), in the Netherlands ExxonMobil owns 1.5 million acres (6,100 km2), in Norway it owns 0.4 million acres (1,600 km2) offshore, and the United Kingdom 0.6 million acres (2,400 km2) offshore."
+            ],
+            "arguments": {
+                "1": "norway",
+                "2": "the united kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Africa, upstream operations are concentrated in Angola where it owns 0.4 million acres (1,600 km2) offshore, Chad where it owns 46,000 acres (19,000 ha), Equatorial Guinea where it owns 0.1 million acres (400 km2) offshore, and Nigeria where it owns 0.8 million acres (3,200 km2) offshore."
+            ],
+            "arguments": {
+                "1": "angola",
+                "2": "equatorial guinea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Africa, upstream operations are concentrated in Angola where it owns 0.4 million acres (1,600 km2) offshore, Chad where it owns 46,000 acres (19,000 ha), Equatorial Guinea where it owns 0.1 million acres (400 km2) offshore, and Nigeria where it owns 0.8 million acres (3,200 km2) offshore."
+            ],
+            "arguments": {
+                "1": "angola",
+                "2": "nigeria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Africa, upstream operations are concentrated in Angola where it owns 0.4 million acres (1,600 km2) offshore, Chad where it owns 46,000 acres (19,000 ha), Equatorial Guinea where it owns 0.1 million acres (400 km2) offshore, and Nigeria where it owns 0.8 million acres (3,200 km2) offshore."
+            ],
+            "arguments": {
+                "1": "equatorial guinea",
+                "2": "nigeria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "azerbaijan",
+                "2": "indonesia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "azerbaijan",
+                "2": "iraq"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "azerbaijan",
+                "2": "kazakhstan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "azerbaijan",
+                "2": "malaysia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "azerbaijan",
+                "2": "qatar"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "azerbaijan",
+                "2": "yemen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "azerbaijan",
+                "2": "thailand"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "azerbaijan",
+                "2": "the united arab emirates"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "indonesia",
+                "2": "iraq"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "indonesia",
+                "2": "kazakhstan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "indonesia",
+                "2": "malaysia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "indonesia",
+                "2": "qatar"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "indonesia",
+                "2": "yemen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "indonesia",
+                "2": "thailand"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "indonesia",
+                "2": "the united arab emirates"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "iraq",
+                "2": "kazakhstan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "iraq",
+                "2": "malaysia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "iraq",
+                "2": "qatar"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "iraq",
+                "2": "yemen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "iraq",
+                "2": "thailand"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "iraq",
+                "2": "the united arab emirates"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "kazakhstan",
+                "2": "malaysia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "kazakhstan",
+                "2": "qatar"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "kazakhstan",
+                "2": "yemen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "kazakhstan",
+                "2": "thailand"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "kazakhstan",
+                "2": "the united arab emirates"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "malaysia",
+                "2": "qatar"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "malaysia",
+                "2": "yemen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "malaysia",
+                "2": "thailand"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "malaysia",
+                "2": "the united arab emirates"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "qatar",
+                "2": "yemen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "qatar",
+                "2": "thailand"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "qatar",
+                "2": "the united arab emirates"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "yemen",
+                "2": "thailand"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "yemen",
+                "2": "the united arab emirates"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Asia, it holds 9,000 acres (3,600 ha) in Azerbaijan, 1.7 million acres (6,900 km2) in Indonesia, of which 1.3 million acres (5,300 km2) are offshore, 0.7 million acres (2,800 km2) in Iraq, 0.3 million acres (1,200 km2) in Kazakhstan, 0.2 million acres (810 km2) in Malaysia, 65,000 acres (26,000 ha) in Qatar, 10,000 acres (4,000 ha) in Yemen, 21,000 acres (8,500 ha) in Thailand, and 81,000 acres (33,000 ha) in the United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "thailand",
+                "2": "the united arab emirates"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mobil is ExxonMobil's primary retail gasoline brand in California, Florida, New York, New England, the Great Lakes and the Midwest."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mobil is ExxonMobil's primary retail gasoline brand in California, Florida, New York, New England, the Great Lakes and the Midwest."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mobil is ExxonMobil's primary retail gasoline brand in California, Florida, New York, New England, the Great Lakes and the Midwest."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon is the primary brand in the rest of the United States, with the highest concentration of retail outlets located in New Jersey, Pennsylvania, Texas and in the Mid-Atlantic and Southeastern states."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon is the primary brand in the rest of the United States, with the highest concentration of retail outlets located in New Jersey, Pennsylvania, Texas and in the Mid-Atlantic and Southeastern states."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "pennsylvania"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon is the primary brand in the rest of the United States, with the highest concentration of retail outlets located in New Jersey, Pennsylvania, Texas and in the Mid-Atlantic and Southeastern states."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon is the primary brand in the rest of the United States, with the highest concentration of retail outlets located in New Jersey, Pennsylvania, Texas and in the Mid-Atlantic and Southeastern states."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "pennsylvania"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon is the primary brand in the rest of the United States, with the highest concentration of retail outlets located in New Jersey, Pennsylvania, Texas and in the Mid-Atlantic and Southeastern states."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon is the primary brand in the rest of the United States, with the highest concentration of retail outlets located in New Jersey, Pennsylvania, Texas and in the Mid-Atlantic and Southeastern states."
+            ],
+            "arguments": {
+                "1": "pennsylvania",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Esso is ExxonMobil's primary gasoline brand worldwide except in Australia and New Zealand, where the Mobil brand is used exclusively."
+            ],
+            "arguments": {
+                "1": "australia",
+                "2": "new zealand"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Headquarters\n\nExxonMobil's headquarters are located in Irving, Texas."
+            ],
+            "arguments": {
+                "1": "irving",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2015, the company was nearing completion of its new campus located in a northern Houston suburb of Spring, at the intersection of Interstate 45, the Hardy Toll Road, and the Grand Parkway northern extension."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "spring"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is designed to house nearly 10,000 employees with an additional 1,500 employees located in a satellite campus in Hughes Landing in The Woodlands, Texas."
+            ],
+            "arguments": {
+                "1": "the woodlands",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On March 29, 2016, the attorneys general of Massachusetts and the United States Virgin Islands announced investigations."
+            ],
+            "arguments": {
+                "1": "massachusetts",
+                "2": "the united states virgin islands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New Jersey settlement\n\nIn 2004, the New Jersey Department of Environmental Protection sued ExxonMobil for $8.9 billion for lost wetland resources at Constable Hook in Bayonne and Bayway Refinery in Linden."
+            ],
+            "arguments": {
+                "1": "bayonne",
+                "2": "linden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "ExxonMobil increasingly drills in terrains leased to them by dictatorships, such as those in Chad and Equatorial Guinea."
+            ],
+            "arguments": {
+                "1": "chad",
+                "2": "equatorial guinea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It notes that the company shut down its operations in Indonesia to distance itself from the abuses committed against the population by that country's army, and that it decided to drill in Chad only after the World Bank agreed to ensure that the oil royalties were used for the population's benefit."
+            ],
+            "arguments": {
+                "1": "indonesia",
+                "2": "chad"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As a precaution against a possible explosion, officials in Laurel, Montana evacuated about 140 people on Saturday (July 2) just after midnight, then allowed them to return at 4 am."
+            ],
+            "arguments": {
+                "1": "laurel",
+                "2": "montana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mayflower oil spill\n\nOn March 29, 2013, the Pegasus Pipeline, owned by ExxonMobil and carrying Canadian Wabasca heavy crude, ruptured in Mayflower, Arkansas, releasing about 3,190 barrels (507 m3) of oil and forcing the evacuation of 22 homes."
+            ],
+            "arguments": {
+                "1": "mayflower",
+                "2": "arkansas"
+            }
+        }
+    ]
+}{
+    "document": "ExxonMobil.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1898, Standard Oil of New Jersey acquired controlling stake in Imperial Oil of Canada."
+            ],
+            "arguments": {
+                "1": "Standard Oil of New Jersey",
+                "2": "controlling stake",
+                "3": "",
+                "4": "",
+                "5": "Canada"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1919, Jersey Standard acquired a 50% share in Humble Oil & Refining Co., a Texas oil producer."
+            ],
+            "arguments": {
+                "1": "Jersey Standard",
+                "2": "a 50% share",
+                "3": "",
+                "4": "",
+                "5": "a Texas oil producer"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In the following years it acquired or established Tropical Oil Company of Colombia (1920), Standard Oil Company of Venezuela (1921), and Creole Petroleum Company of Venezuela (1928).\n\n"
+            ],
+            "arguments": {
+                "1": "it",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "For this reason, Socony purchased a 45% interest in Magnolia Petroleum Co., a major refiner, marketer and pipeline transporter, in 1918."
+            ],
+            "arguments": {
+                "1": "Socony",
+                "2": "a 45% interest",
+                "3": "",
+                "4": "",
+                "5": ","
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1926, Socony purchased General Petroleum Corporation of California."
+            ],
+            "arguments": {
+                "1": "Socony",
+                "2": "General Petroleum Corporation",
+                "3": "",
+                "4": "",
+                "5": "California"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1932, Jersey Standard acquired foreign assets of the Pan American Petroleum and Transport Company."
+            ],
+            "arguments": {
+                "1": "Jersey Standard",
+                "2": "foreign assets",
+                "3": "",
+                "4": "",
+                "5": "the Pan American Petroleum and Transport Company"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1940, Socony-Vacuum purchased the Gilmore Oil Company of California, which in 1945 was merged with another subsidiary, General Petroleum Corporation."
+            ],
+            "arguments": {
+                "1": "Socony-Vacuum",
+                "2": "the Gilmore Oil Company",
+                "3": "",
+                "4": "",
+                "5": "California"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1948, Jersey Standard and Socony-Vacuum acquired interests in the Arab-American Oil Company (Aramco).\n"
+            ],
+            "arguments": {
+                "1": "Jersey Standard",
+                "2": "interests",
+                "3": "",
+                "4": "",
+                "5": ")"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1967, Humble Oil purchased all remaining Signal stations from Standard Oil Company of California (Chevron)"
+            ],
+            "arguments": {
+                "1": "Humble Oil",
+                "2": "all remaining Signal stations",
+                "3": "",
+                "4": "",
+                "5": "Chevron"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1965, Jersey Standard started to acquire coal assets through its affiliate Carter Oil (later renamed Exxon Coal, U.S.A.)."
+            ],
+            "arguments": {
+                "1": "Jersey Standard",
+                "2": "coal assets",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1967, Mobil acquired a 28% strategic stake in the German fuel chain Aral.\n\n"
+            ],
+            "arguments": {
+                "1": "Mobil",
+                "2": "a 28% strategic stake",
+                "3": "",
+                "4": "",
+                "5": "Aral"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1973, Exxon acquired the Ray Point uranium ore processing facility which was shortly afterwards decommissioned.\n"
+            ],
+            "arguments": {
+                "1": "Exxon",
+                "2": "the Ray Point uranium ore processing facility",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Mobil diversified its activities into retail sale and packaging by acquiring the parent company of Montgomery Ward and Container Corporation of America.\n\n"
+            ],
+            "arguments": {
+                "1": "Mobil",
+                "2": "the parent company",
+                "3": "",
+                "4": "",
+                "5": "America"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "At the same year, Exxon entered into the oil shale industry by buying a 60% stake in the Colony Shale Oil Project in Colorado, United States, and 50% stake in the Rundle oil shale deposit in Queensland, Australia."
+            ],
+            "arguments": {
+                "1": "Exxon",
+                "2": "a 60% stake",
+                "3": "",
+                "4": "",
+                "5": "Australia"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Formally, Mobil was bought by Exxon."
+            ],
+            "arguments": {
+                "1": "Exxon",
+                "2": "Mobil",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "As a result, BP acquired all fuels assets, two base oil plants, and a substantial part of the joint venture's finished lubricants business, while ExxonMobil acquired other base oil plants and a part of the finished lubricants business."
+            ],
+            "arguments": {
+                "1": "ExxonMobil",
+                "2": "other base oil plants",
+                "3": "",
+                "4": "",
+                "5": "the finished lubricants business"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The stake in Aral was sold to Vega Oel, later acquired by BP."
+            ],
+            "arguments": {
+                "1": "BP",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "MEGAS was acquired by Duke Energy and the stake in Thyssengas was acquired by RWE."
+            ],
+            "arguments": {
+                "1": "RWE",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations."
+            ],
+            "arguments": {
+                "1": "ExxonMobil",
+                "2": "Tosco Corporation gas stations",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The Benicia Refinery and 340 Exxon-branded stations in California were bought by Valero Energy Corporation in 2000.\n"
+            ],
+            "arguments": {
+                "1": "Valero Energy Corporation",
+                "2": "The Benicia Refinery",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2010, ExxonMobil bought XTO Energy, the company focused on development and production of unconventional resources.\n\n"
+            ],
+            "arguments": {
+                "1": "ExxonMobil",
+                "2": "XTO Energy",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "By this time, as a result of numerous mergers and rebranding, the remaining Standard Oil companies that previously objected to the Esso name had been acquired by BP."
+            ],
+            "arguments": {
+                "1": "BP",
+                "2": "the remaining Standard Oil companies",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "ExxonMobil.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "With 37 oil refineries in 21 countries constituting a combined daily refining capacity of 6.3 million barrels (1,000,000 m3), ExxonMobil is the largest refiner in the world, a title that was also associated with Standard Oil since its incorporation in 1870.\n\n"
+            ],
+            "arguments": {
+                "1": "ExxonMobil",
+                "2": "Oil",
+                "3": "refiner",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "John Duston Archbold was the first president of Jersey Standard."
+            ],
+            "arguments": {
+                "1": "Archbold",
+                "2": "Standard",
+                "3": "president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1919, Jersey Standard acquired a 50% share in Humble Oil & Refining Co., a Texas oil producer."
+            ],
+            "arguments": {
+                "1": "Standard",
+                "2": "Co.",
+                "3": "producer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "For this reason, Socony purchased a 45% interest in Magnolia Petroleum Co., a major refiner, marketer and pipeline transporter, in 1918."
+            ],
+            "arguments": {
+                "1": "Socony",
+                "2": "Co.",
+                "3": "refiner",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "As of February 6, 2019, the current ExxonMobil board members are:\n\n    Susan Avery, Woods Hole Oceanographic Institution president emerita\n    Angela F. Braly, former president and CEO of WellPoint\n    "
+            ],
+            "arguments": {
+                "1": "Braly",
+                "2": "WellPoint",
+                "3": "CEO; president",
+                "4": ""
+            }
+        }
+    ]
+}

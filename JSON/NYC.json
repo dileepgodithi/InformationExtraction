@@ -1,0 +1,3496 @@
+{
+    "document": "NYC.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "The City of New York, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States and in the U.S. state of New York."
+            ],
+            "arguments": {
+                "1": "the city of new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The City of New York, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States and in the U.S. state of New York."
+            ],
+            "arguments": {
+                "1": "the city of new york",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The City of New York, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States and in the U.S. state of New York."
+            ],
+            "arguments": {
+                "1": "new york city (",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The City of New York, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States and in the U.S. state of New York."
+            ],
+            "arguments": {
+                "1": "new york city (",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The City of New York, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States and in the U.S. state of New York."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The City of New York, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States and in the U.S. state of New York."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The City of New York, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States and in the U.S. state of New York."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With an estimated 2017 population of 8,622,698 distributed over a land area of about 302.6 square miles (784 km2), New York is also the most densely populated major city in the United States."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Situated on one of the world's largest natural harbors, New York City consists of five boroughs, each of which is a separate county of the State of New York."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the state of new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York City is home to more than 3.2 million residents born outside the United States, the largest foreign-born population of any city in the world."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The city and its surroundings came under English control in 1664 and were renamed New York after King Charles II of England granted the lands to his brother, the Duke of York."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "england"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York served as the capital of the United States from 1785 until 1790."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "James's older brother, King Charles II, had appointed the Duke proprietor of the former territory of New Netherland, including the city of New Amsterdam, which England had recently seized from the Dutch."
+            ],
+            "arguments": {
+                "1": "new amsterdam",
+                "2": "england"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the precolonial era, the area of present-day New York City was inhabited by Algonquian Native Americans, including the Lenape, whose homeland, known as Lenapehoking, included Staten Island; the western portion of Long Island, including the area that would become Brooklyn and Queens; Manhattan; the Bronx; and the Lower Hudson Valley."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "long island"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the precolonial era, the area of present-day New York City was inhabited by Algonquian Native Americans, including the Lenape, whose homeland, known as Lenapehoking, included Staten Island; the western portion of Long Island, including the area that would become Brooklyn and Queens; Manhattan; the Bronx; and the Lower Hudson Valley."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the precolonial era, the area of present-day New York City was inhabited by Algonquian Native Americans, including the Lenape, whose homeland, known as Lenapehoking, included Staten Island; the western portion of Long Island, including the area that would become Brooklyn and Queens; Manhattan; the Bronx; and the Lower Hudson Valley."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the precolonial era, the area of present-day New York City was inhabited by Algonquian Native Americans, including the Lenape, whose homeland, known as Lenapehoking, included Staten Island; the western portion of Long Island, including the area that would become Brooklyn and Queens; Manhattan; the Bronx; and the Lower Hudson Valley."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the precolonial era, the area of present-day New York City was inhabited by Algonquian Native Americans, including the Lenape, whose homeland, known as Lenapehoking, included Staten Island; the western portion of Long Island, including the area that would become Brooklyn and Queens; Manhattan; the Bronx; and the Lower Hudson Valley."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the precolonial era, the area of present-day New York City was inhabited by Algonquian Native Americans, including the Lenape, whose homeland, known as Lenapehoking, included Staten Island; the western portion of Long Island, including the area that would become Brooklyn and Queens; Manhattan; the Bronx; and the Lower Hudson Valley."
+            ],
+            "arguments": {
+                "1": "long island",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the precolonial era, the area of present-day New York City was inhabited by Algonquian Native Americans, including the Lenape, whose homeland, known as Lenapehoking, included Staten Island; the western portion of Long Island, including the area that would become Brooklyn and Queens; Manhattan; the Bronx; and the Lower Hudson Valley."
+            ],
+            "arguments": {
+                "1": "long island",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the precolonial era, the area of present-day New York City was inhabited by Algonquian Native Americans, including the Lenape, whose homeland, known as Lenapehoking, included Staten Island; the western portion of Long Island, including the area that would become Brooklyn and Queens; Manhattan; the Bronx; and the Lower Hudson Valley."
+            ],
+            "arguments": {
+                "1": "long island",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the precolonial era, the area of present-day New York City was inhabited by Algonquian Native Americans, including the Lenape, whose homeland, known as Lenapehoking, included Staten Island; the western portion of Long Island, including the area that would become Brooklyn and Queens; Manhattan; the Bronx; and the Lower Hudson Valley."
+            ],
+            "arguments": {
+                "1": "long island",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Hudson sailed roughly 150 miles (240 km) north, past the site of the present-day New York State capital city of Albany, in the belief that it might be an oceanic tributary before the river became too shallow to continue."
+            ],
+            "arguments": {
+                "1": "new york state",
+                "2": "albany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Dutch rule\nA permanent European presence in New Netherland began in 1624 \u2013 making New York the 12th oldest continuously occupied European-established settlement in the continental United States \u2013 with the founding of a Dutch fur trading settlement on Governors Island."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It extended from the lower tip of Manhattan to modern day Wall Street,where a 12 foot wooden stockade was built in 1653 to protect against Native American and British Raids."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "british raids"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The English promptly renamed the fledgling city \"New York\" after the Duke of York (the future King James II of England)."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "england"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On August 24, 1673, during the Third Anglo-Dutch War, Dutch captain Anthony Colve seized the colony of New York from England at the behest of Cornelis Evertsen the Youngest and rechristened it \"New Orange\" after William III, the Prince of Orange."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "england"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York was the last capital of the U.S. under the Articles of Confederation and the first capital under the Constitution of the United States."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1789, the first President of the United States, George Washington, was inaugurated; the first United States Congress and the Supreme Court of the United States each assembled for the first time, and the United States Bill of Rights was drafted, all at Federal Hall on Wall Street."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "the united states bill of rights"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By 1790, New York had surpassed Philadelphia to become the largest city in the United States, but by the end of that year, pursuant to the Residence Act, the national capital was moved to Philadelphia."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By 1790, New York had surpassed Philadelphia to become the largest city in the United States, but by the end of that year, pursuant to the Residence Act, the national capital was moved to Philadelphia."
+            ],
+            "arguments": {
+                "1": "philadelphia",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Modern history\nIn 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "the county of new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Modern history\nIn 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Modern history\nIn 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "the county of richmond"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Modern history\nIn 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "the county of queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Modern history\nIn 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens."
+            ],
+            "arguments": {
+                "1": "the county of new york",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Modern history\nIn 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens."
+            ],
+            "arguments": {
+                "1": "the county of new york",
+                "2": "the county of queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Modern history\nIn 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "the county of richmond"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Modern history\nIn 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "the county of queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Modern history\nIn 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens."
+            ],
+            "arguments": {
+                "1": "the county of richmond",
+                "2": "the county of queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Returning World War II veterans created a post-war economic boom and the development of large housing tracts in eastern Queens and Nassau County as well as similar suburban areas in New Jersey."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "nassau county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Returning World War II veterans created a post-war economic boom and the development of large housing tracts in eastern Queens and Nassau County as well as similar suburban areas in New Jersey."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Returning World War II veterans created a post-war economic boom and the development of large housing tracts in eastern Queens and Nassau County as well as similar suburban areas in New Jersey."
+            ],
+            "arguments": {
+                "1": "nassau county",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United Nations Headquarters was completed in 1952, solidifying New York's global geopolitical influence, and the rise of abstract expressionism in the city precipitated New York's displacement of Paris as the center of the art world."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "paris"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nNew York City is situated in the Northeastern United States, in southeastern New York State, approximately halfway between Washington, D.C. and Boston."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the northeastern united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nNew York City is situated in the Northeastern United States, in southeastern New York State, approximately halfway between Washington, D.C. and Boston."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "new york state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nNew York City is situated in the Northeastern United States, in southeastern New York State, approximately halfway between Washington, D.C. and Boston."
+            ],
+            "arguments": {
+                "1": "the northeastern united states",
+                "2": "new york state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nNew York City is situated in the Northeastern United States, in southeastern New York State, approximately halfway between Washington, D.C. and Boston."
+            ],
+            "arguments": {
+                "1": "the northeastern united states",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nNew York City is situated in the Northeastern United States, in southeastern New York State, approximately halfway between Washington, D.C. and Boston."
+            ],
+            "arguments": {
+                "1": "the northeastern united states",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nNew York City is situated in the Northeastern United States, in southeastern New York State, approximately halfway between Washington, D.C. and Boston."
+            ],
+            "arguments": {
+                "1": "the northeastern united states",
+                "2": "boston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nNew York City is situated in the Northeastern United States, in southeastern New York State, approximately halfway between Washington, D.C. and Boston."
+            ],
+            "arguments": {
+                "1": "new york state",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nNew York City is situated in the Northeastern United States, in southeastern New York State, approximately halfway between Washington, D.C. and Boston."
+            ],
+            "arguments": {
+                "1": "new york state",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nNew York City is situated in the Northeastern United States, in southeastern New York State, approximately halfway between Washington, D.C. and Boston."
+            ],
+            "arguments": {
+                "1": "new york state",
+                "2": "boston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Most of New York City is built on the three islands of Long Island, Manhattan, and Staten Island."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "long island"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Most of New York City is built on the three islands of Long Island, Manhattan, and Staten Island."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Between New York City and Troy, New York, the river is an estuary."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "troy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Between New York City and Troy, New York, the river is an estuary."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Between New York City and Troy, New York, the river is an estuary."
+            ],
+            "arguments": {
+                "1": "troy",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Hudson River separates the city from the U.S. state of New Jersey."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Harlem River, another tidal strait between the East and Hudson Rivers, separates most of Manhattan from the Bronx."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Bronx River, which flows through the Bronx and Westchester County, is the only entirely fresh water river in the city."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "westchester county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cityscapes\nArchitecture\nNew York has architecturally noteworthy buildings in a wide range of styles and from distinct time periods, from the saltbox style Pieter Claesen Wyckoff House in Brooklyn, the oldest section of which dates to 1656, to the modern One World Trade Center, the skyscraper at Ground Zero in Lower Manhattan and the most expensive office tower in the world by construction cost."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In neighborhoods such as Riverdale (in the Bronx), Ditmas Park (in Brooklyn), and Douglaston (in Queens), large single-family homes are common in various architectural styles such as Tudor Revival and Victorian."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "ditmas park"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In neighborhoods such as Riverdale (in the Bronx), Ditmas Park (in Brooklyn), and Douglaston (in Queens), large single-family homes are common in various architectural styles such as Tudor Revival and Victorian."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In neighborhoods such as Riverdale (in the Bronx), Ditmas Park (in Brooklyn), and Douglaston (in Queens), large single-family homes are common in various architectural styles such as Tudor Revival and Victorian."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In neighborhoods such as Riverdale (in the Bronx), Ditmas Park (in Brooklyn), and Douglaston (in Queens), large single-family homes are common in various architectural styles such as Tudor Revival and Victorian."
+            ],
+            "arguments": {
+                "1": "ditmas park",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In neighborhoods such as Riverdale (in the Bronx), Ditmas Park (in Brooklyn), and Douglaston (in Queens), large single-family homes are common in various architectural styles such as Tudor Revival and Victorian."
+            ],
+            "arguments": {
+                "1": "ditmas park",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In neighborhoods such as Riverdale (in the Bronx), Ditmas Park (in Brooklyn), and Douglaston (in Queens), large single-family homes are common in various architectural styles such as Tudor Revival and Victorian."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "If the boroughs were each independent cities, four of the boroughs (Brooklyn, Queens, Manhattan, and the Bronx) would be among the ten most populous cities in the United States (Staten island would be ranked 37th) ; these same boroughs are coterminous with the four most densely populated counties in the United States (New York [Manhattan], Kings [Brooklyn], Bronx, and Queens)."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Manhattan (New York County) is the geographically smallest and most densely populated borough, is home to Central Park and most of the city's skyscrapers, and may be locally known simply as The City."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "new york county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Manhattan (New York County) is the geographically smallest and most densely populated borough, is home to Central Park and most of the city's skyscrapers, and may be locally known simply as The City."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "the city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Manhattan (New York County) is the geographically smallest and most densely populated borough, is home to Central Park and most of the city's skyscrapers, and may be locally known simply as The City."
+            ],
+            "arguments": {
+                "1": "new york county",
+                "2": "the city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Manhattan's (New York County's) population density of 72,033 people per square mile (27,812/km\u00b2) in 2015 makes it the highest of any county in the United States and higher than the density of any individual American city."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Manhattan's (New York County's) population density of 72,033 people per square mile (27,812/km\u00b2) in 2015 makes it the highest of any county in the United States and higher than the density of any individual American city."
+            ],
+            "arguments": {
+                "1": "new york county's",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Manhattan is the cultural, administrative, and financial center of New York City and contains the headquarters of many major multinational corporations, the United Nations Headquarters, Wall Street, and a number of important universities."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several small islands also compose part of the borough of Manhattan, including Randall's Island, Wards Island, and Roosevelt Island in the East River, and Governors Island and Liberty Island to the south in New York Harbor."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "roosevelt island"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Brooklyn (Kings County), on the western tip of Long Island, is the city's most populous borough."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "kings county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Queens (Queens County), on Long Island north and east of Brooklyn, is geographically the largest borough, the most ethnically diverse county in the United States, and the most ethnically diverse urban area in the world."
+            ],
+            "arguments": {
+                "1": "queens county",
+                "2": "long island"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Queens (Queens County), on Long Island north and east of Brooklyn, is geographically the largest borough, the most ethnically diverse county in the United States, and the most ethnically diverse urban area in the world."
+            ],
+            "arguments": {
+                "1": "queens county",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Queens (Queens County), on Long Island north and east of Brooklyn, is geographically the largest borough, the most ethnically diverse county in the United States, and the most ethnically diverse urban area in the world."
+            ],
+            "arguments": {
+                "1": "queens county",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Queens (Queens County), on Long Island north and east of Brooklyn, is geographically the largest borough, the most ethnically diverse county in the United States, and the most ethnically diverse urban area in the world."
+            ],
+            "arguments": {
+                "1": "long island",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Queens (Queens County), on Long Island north and east of Brooklyn, is geographically the largest borough, the most ethnically diverse county in the United States, and the most ethnically diverse urban area in the world."
+            ],
+            "arguments": {
+                "1": "long island",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Queens (Queens County), on Long Island north and east of Brooklyn, is geographically the largest borough, the most ethnically diverse county in the United States, and the most ethnically diverse urban area in the world."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Additionally, two of the three busiest airports serving the New York metropolitan area, John F. Kennedy International Airport and LaGuardia Airport, are located in Queens."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "(The third is Newark Liberty International Airport in Newark, New Jersey.)"
+            ],
+            "arguments": {
+                "1": "newark",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Bronx (Bronx County) is New York City's northernmost borough and the only New York City borough with a majority of it a part of the mainland United States."
+            ],
+            "arguments": {
+                "1": "new york city's",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Bronx (Bronx County) is New York City's northernmost borough and the only New York City borough with a majority of it a part of the mainland United States."
+            ],
+            "arguments": {
+                "1": "new york city's",
+                "2": "united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Bronx (Bronx County) is New York City's northernmost borough and the only New York City borough with a majority of it a part of the mainland United States."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is the location of Yankee Stadium, the baseball park of the New York Yankees, and home to the largest cooperatively owned housing complex in the United States, Co-op City."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "co-op city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winters are cold and damp, and prevailing wind patterns that blow offshore temper the moderating effects of the Atlantic Ocean; yet the Atlantic and the partial shielding from colder air by the Appalachian Mountains keep the city warmer in the winter than inland North American cities at similar or lesser latitudes such as Pittsburgh, Cincinnati, and Indianapolis."
+            ],
+            "arguments": {
+                "1": "pittsburgh",
+                "2": "cincinnati"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winters are cold and damp, and prevailing wind patterns that blow offshore temper the moderating effects of the Atlantic Ocean; yet the Atlantic and the partial shielding from colder air by the Appalachian Mountains keep the city warmer in the winter than inland North American cities at similar or lesser latitudes such as Pittsburgh, Cincinnati, and Indianapolis."
+            ],
+            "arguments": {
+                "1": "pittsburgh",
+                "2": "indianapolis"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winters are cold and damp, and prevailing wind patterns that blow offshore temper the moderating effects of the Atlantic Ocean; yet the Atlantic and the partial shielding from colder air by the Appalachian Mountains keep the city warmer in the winter than inland North American cities at similar or lesser latitudes such as Pittsburgh, Cincinnati, and Indianapolis."
+            ],
+            "arguments": {
+                "1": "cincinnati",
+                "2": "indianapolis"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In its 2018 ParkScore ranking, The Trust for Public Land reported that the park system in New York City was the ninth best park system among the fifty most populous U.S. cities."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Statue of Liberty National Monument and Ellis Island Immigration Museum are managed by the National Park Service and are in both the states of New York and New Jersey."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Central Park, an 843-acre (3.41 km2) park in middle-upper Manhattan, is the most visited urban park in the United States and one of the most filmed locations in the world, with 40 million visitors in 2013."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Prospect Park in Brooklyn has a 90-acre (360,000 m2) meadow, a lake, and extensive woodlands."
+            ],
+            "arguments": {
+                "1": "prospect park",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Flushing Meadows\u2013Corona Park in Queens, with its 897 acres (363 ha) making it the city's fourth largest park, was the setting for the 1939 World's Fair and the 1964 World's Fair and is host to the USTA Billie Jean King National Tennis Center and the annual United States Open Tennis Championships tournament."
+            ],
+            "arguments": {
+                "1": "corona park",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Military installations\nNew York City is home to Fort Hamilton, the U.S. military's only active duty installation within the city."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Brooklyn facility was established in 1825 on the site of a small battery utilized during the American Revolution, and it is one of America's longest serving military forts."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Demographics\nNew York City is the most populous city in the United States, with an estimated record high of 8,622,698 residents as of 2017, incorporating more immigration into the city than outmigration since the 2010 United States Census."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "More than twice as many people live in New York City as in the second-most populous U.S. city (Los Angeles), and within a smaller area."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "More than twice as many people live in New York City as in the second-most populous U.S. city (Los Angeles), and within a smaller area."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "More than twice as many people live in New York City as in the second-most populous U.S. city (Los Angeles), and within a smaller area."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York City's population is about 43% of New York State's population and about 36% of the population of the New York metropolitan area."
+            ],
+            "arguments": {
+                "1": "new york city's",
+                "2": "new york state's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York City's population is about 43% of New York State's population and about 36% of the population of the New York metropolitan area."
+            ],
+            "arguments": {
+                "1": "new york city's",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York City's population is about 43% of New York State's population and about 36% of the population of the New York metropolitan area."
+            ],
+            "arguments": {
+                "1": "new york state's",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Population density\nIn 2017, the city had an estimated population density of 28,491 inhabitants per square mile (11,000/km2), rendering it the most densely populated of all municipalities housing over 100,000 residents in the United States, with several small cities (of fewer than 100,000) in adjacent Hudson County, New Jersey having greater density, as per the 2010 Census."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "hudson county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Population density\nIn 2017, the city had an estimated population density of 28,491 inhabitants per square mile (11,000/km2), rendering it the most densely populated of all municipalities housing over 100,000 residents in the United States, with several small cities (of fewer than 100,000) in adjacent Hudson County, New Jersey having greater density, as per the 2010 Census."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically co-extensive with New York County, the borough of Manhattan's 2017 population density of 72,918 inhabitants per square mile (28,154/km2) makes it the highest of any county in the United States and higher than the density of any individual American city."
+            ],
+            "arguments": {
+                "1": "new york county",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically co-extensive with New York County, the borough of Manhattan's 2017 population density of 72,918 inhabitants per square mile (28,154/km2) makes it the highest of any county in the United States and higher than the density of any individual American city."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Throughout its history, New York has been a major port of entry for immigrants into the United States."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Asian Americans in New York City, according to the 2010 Census, number more than one million, greater than the combined totals of San Francisco and Los Angeles."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "san francisco"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Asian Americans in New York City, according to the 2010 Census, number more than one million, greater than the combined totals of San Francisco and Los Angeles."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York contains the highest total Asian population of any U.S. city proper."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New York City borough of Queens is home to the state's largest Asian American population and the largest Andean (Colombian, Ecuadorian, Peruvian, and Bolivian) populations in the United States, and is also the most ethnically diverse urban area in the world."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinese population constitutes the fastest-growing nationality in New York State; multiple satellites of the original Manhattan Chinatown, in Brooklyn, and around Flushing, Queens, are thriving as traditionally urban enclaves \u2013 while also expanding rapidly eastward into suburban Nassau County on Long Island, as the New York metropolitan region and New York State have become the top destinations for new Chinese immigrants, respectively, and large-scale Chinese immigration continues into New York City and surrounding areas, with the largest metropolitan Chinese diaspora outside Asia, including an estimated 812,410 individuals in 2015."
+            ],
+            "arguments": {
+                "1": "new york state",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinese population constitutes the fastest-growing nationality in New York State; multiple satellites of the original Manhattan Chinatown, in Brooklyn, and around Flushing, Queens, are thriving as traditionally urban enclaves \u2013 while also expanding rapidly eastward into suburban Nassau County on Long Island, as the New York metropolitan region and New York State have become the top destinations for new Chinese immigrants, respectively, and large-scale Chinese immigration continues into New York City and surrounding areas, with the largest metropolitan Chinese diaspora outside Asia, including an estimated 812,410 individuals in 2015."
+            ],
+            "arguments": {
+                "1": "new york state",
+                "2": "flushing"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinese population constitutes the fastest-growing nationality in New York State; multiple satellites of the original Manhattan Chinatown, in Brooklyn, and around Flushing, Queens, are thriving as traditionally urban enclaves \u2013 while also expanding rapidly eastward into suburban Nassau County on Long Island, as the New York metropolitan region and New York State have become the top destinations for new Chinese immigrants, respectively, and large-scale Chinese immigration continues into New York City and surrounding areas, with the largest metropolitan Chinese diaspora outside Asia, including an estimated 812,410 individuals in 2015."
+            ],
+            "arguments": {
+                "1": "new york state",
+                "2": "nassau county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinese population constitutes the fastest-growing nationality in New York State; multiple satellites of the original Manhattan Chinatown, in Brooklyn, and around Flushing, Queens, are thriving as traditionally urban enclaves \u2013 while also expanding rapidly eastward into suburban Nassau County on Long Island, as the New York metropolitan region and New York State have become the top destinations for new Chinese immigrants, respectively, and large-scale Chinese immigration continues into New York City and surrounding areas, with the largest metropolitan Chinese diaspora outside Asia, including an estimated 812,410 individuals in 2015."
+            ],
+            "arguments": {
+                "1": "new york state",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinese population constitutes the fastest-growing nationality in New York State; multiple satellites of the original Manhattan Chinatown, in Brooklyn, and around Flushing, Queens, are thriving as traditionally urban enclaves \u2013 while also expanding rapidly eastward into suburban Nassau County on Long Island, as the New York metropolitan region and New York State have become the top destinations for new Chinese immigrants, respectively, and large-scale Chinese immigration continues into New York City and surrounding areas, with the largest metropolitan Chinese diaspora outside Asia, including an estimated 812,410 individuals in 2015."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "flushing"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinese population constitutes the fastest-growing nationality in New York State; multiple satellites of the original Manhattan Chinatown, in Brooklyn, and around Flushing, Queens, are thriving as traditionally urban enclaves \u2013 while also expanding rapidly eastward into suburban Nassau County on Long Island, as the New York metropolitan region and New York State have become the top destinations for new Chinese immigrants, respectively, and large-scale Chinese immigration continues into New York City and surrounding areas, with the largest metropolitan Chinese diaspora outside Asia, including an estimated 812,410 individuals in 2015."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "nassau county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinese population constitutes the fastest-growing nationality in New York State; multiple satellites of the original Manhattan Chinatown, in Brooklyn, and around Flushing, Queens, are thriving as traditionally urban enclaves \u2013 while also expanding rapidly eastward into suburban Nassau County on Long Island, as the New York metropolitan region and New York State have become the top destinations for new Chinese immigrants, respectively, and large-scale Chinese immigration continues into New York City and surrounding areas, with the largest metropolitan Chinese diaspora outside Asia, including an estimated 812,410 individuals in 2015."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinese population constitutes the fastest-growing nationality in New York State; multiple satellites of the original Manhattan Chinatown, in Brooklyn, and around Flushing, Queens, are thriving as traditionally urban enclaves \u2013 while also expanding rapidly eastward into suburban Nassau County on Long Island, as the New York metropolitan region and New York State have become the top destinations for new Chinese immigrants, respectively, and large-scale Chinese immigration continues into New York City and surrounding areas, with the largest metropolitan Chinese diaspora outside Asia, including an estimated 812,410 individuals in 2015."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2012, 6.3% of New York City was of Chinese ethnicity, with nearly three-fourths living in either Queens or Brooklyn, geographically on Long Island."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "flushing",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "flushing",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "flushing",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "flushing",
+                "2": "nepal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "flushing",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "nepal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "nepal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "nepal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A community numbering 20,000 Korean-Chinese (Chaoxianzu or Joseonjok) is centered in Flushing, Queens, while New York City is also home to the largest Tibetan population outside China, India, and Nepal, also centered in Queens."
+            ],
+            "arguments": {
+                "1": "nepal",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At 2.7 million in 2012, New York's non-Hispanic white population is larger than the non-Hispanic white populations of Los Angeles (1.1 million), Chicago (865,000), and Houston (550,000) combined."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At 2.7 million in 2012, New York's non-Hispanic white population is larger than the non-Hispanic white populations of Los Angeles (1.1 million), Chicago (865,000), and Houston (550,000) combined."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At 2.7 million in 2012, New York's non-Hispanic white population is larger than the non-Hispanic white populations of Los Angeles (1.1 million), Chicago (865,000), and Houston (550,000) combined."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At 2.7 million in 2012, New York's non-Hispanic white population is larger than the non-Hispanic white populations of Los Angeles (1.1 million), Chicago (865,000), and Houston (550,000) combined."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At 2.7 million in 2012, New York's non-Hispanic white population is larger than the non-Hispanic white populations of Los Angeles (1.1 million), Chicago (865,000), and Houston (550,000) combined."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At 2.7 million in 2012, New York's non-Hispanic white population is larger than the non-Hispanic white populations of Los Angeles (1.1 million), Chicago (865,000), and Houston (550,000) combined."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Arab Americans number over 160,000 in New York City, with the highest concentration in Brooklyn."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Central Asians, primarily Uzbek Americans, are a rapidly growing segment of the city's non-Hispanic white population, enumerating over 30,000, and including over half of all Central Asian immigrants to the United States, most settling in Queens or Brooklyn."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Central Asians, primarily Uzbek Americans, are a rapidly growing segment of the city's non-Hispanic white population, enumerating over 30,000, and including over half of all Central Asian immigrants to the United States, most settling in Queens or Brooklyn."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Central Asians, primarily Uzbek Americans, are a rapidly growing segment of the city's non-Hispanic white population, enumerating over 30,000, and including over half of all Central Asian immigrants to the United States, most settling in Queens or Brooklyn."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The wider New York City metropolitan statistical area, with over 20 million people, about 50% greater than the second-place Los Angeles metropolitan area in the United States, is also ethnically diverse, with the largest foreign-born population of any metropolitan region in the world."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The wider New York City metropolitan statistical area, with over 20 million people, about 50% greater than the second-place Los Angeles metropolitan area in the United States, is also ethnically diverse, with the largest foreign-born population of any metropolitan region in the world."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The wider New York City metropolitan statistical area, with over 20 million people, about 50% greater than the second-place Los Angeles metropolitan area in the United States, is also ethnically diverse, with the largest foreign-born population of any metropolitan region in the world."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New York region continues to be by far the leading metropolitan gateway for legal immigrants admitted into the United States, substantially exceeding the combined totals of Los Angeles and Miami."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New York region continues to be by far the leading metropolitan gateway for legal immigrants admitted into the United States, substantially exceeding the combined totals of Los Angeles and Miami."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "miami"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New York region continues to be by far the leading metropolitan gateway for legal immigrants admitted into the United States, substantially exceeding the combined totals of Los Angeles and Miami."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New York region continues to be by far the leading metropolitan gateway for legal immigrants admitted into the United States, substantially exceeding the combined totals of Los Angeles and Miami."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "miami"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The metropolitan area is also home to 20% of the USA's Indian Americans and at least 20 Little India enclaves, and 15% of all Korean Americans and four Koreatowns; the largest Asian Indian population in the Western Hemisphere; the largest Russian American, Italian American, and African American populations; the largest Dominican American, Puerto Rican American, and South American and second-largest overall Hispanic population in the United States, numbering 4.8 million; and includes multiple established Chinatowns within New York City alone."
+            ],
+            "arguments": {
+                "1": "usa",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The metropolitan area is also home to 20% of the USA's Indian Americans and at least 20 Little India enclaves, and 15% of all Korean Americans and four Koreatowns; the largest Asian Indian population in the Western Hemisphere; the largest Russian American, Italian American, and African American populations; the largest Dominican American, Puerto Rican American, and South American and second-largest overall Hispanic population in the United States, numbering 4.8 million; and includes multiple established Chinatowns within New York City alone."
+            ],
+            "arguments": {
+                "1": "usa",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The metropolitan area is also home to 20% of the USA's Indian Americans and at least 20 Little India enclaves, and 15% of all Korean Americans and four Koreatowns; the largest Asian Indian population in the Western Hemisphere; the largest Russian American, Italian American, and African American populations; the largest Dominican American, Puerto Rican American, and South American and second-largest overall Hispanic population in the United States, numbering 4.8 million; and includes multiple established Chinatowns within New York City alone."
+            ],
+            "arguments": {
+                "1": "usa",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The metropolitan area is also home to 20% of the USA's Indian Americans and at least 20 Little India enclaves, and 15% of all Korean Americans and four Koreatowns; the largest Asian Indian population in the Western Hemisphere; the largest Russian American, Italian American, and African American populations; the largest Dominican American, Puerto Rican American, and South American and second-largest overall Hispanic population in the United States, numbering 4.8 million; and includes multiple established Chinatowns within New York City alone."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The metropolitan area is also home to 20% of the USA's Indian Americans and at least 20 Little India enclaves, and 15% of all Korean Americans and four Koreatowns; the largest Asian Indian population in the Western Hemisphere; the largest Russian American, Italian American, and African American populations; the largest Dominican American, Puerto Rican American, and South American and second-largest overall Hispanic population in the United States, numbering 4.8 million; and includes multiple established Chinatowns within New York City alone."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The metropolitan area is also home to 20% of the USA's Indian Americans and at least 20 Little India enclaves, and 15% of all Korean Americans and four Koreatowns; the largest Asian Indian population in the Western Hemisphere; the largest Russian American, Italian American, and African American populations; the largest Dominican American, Puerto Rican American, and South American and second-largest overall Hispanic population in the United States, numbering 4.8 million; and includes multiple established Chinatowns within New York City alone."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ecuador, Colombia, Guyana, Peru, and Brazil were the top source countries from South America for legal immigrants to the New York City region in 2013; the Dominican Republic, Jamaica, Haiti, and Trinidad and Tobago in the Caribbean; Egypt, Ghana, and Nigeria from Africa; and El Salvador, Honduras, and Guatemala in Central America."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "honduras"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ecuador, Colombia, Guyana, Peru, and Brazil were the top source countries from South America for legal immigrants to the New York City region in 2013; the Dominican Republic, Jamaica, Haiti, and Trinidad and Tobago in the Caribbean; Egypt, Ghana, and Nigeria from Africa; and El Salvador, Honduras, and Guatemala in Central America."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "guatemala"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ecuador, Colombia, Guyana, Peru, and Brazil were the top source countries from South America for legal immigrants to the New York City region in 2013; the Dominican Republic, Jamaica, Haiti, and Trinidad and Tobago in the Caribbean; Egypt, Ghana, and Nigeria from Africa; and El Salvador, Honduras, and Guatemala in Central America."
+            ],
+            "arguments": {
+                "1": "the dominican republic",
+                "2": "guatemala"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sexual orientation and gender identity\nThe New York metropolitan area is home to a prominent self-identifying gay and bisexual community estimated at nearly 570,000 individuals, the largest in the United States and one of the world's largest."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Transgender contribution\nNew York City is home to the largest transgender population in the world, estimated at more than 50,000 in 2018, concentrated in Manhattan and Queens."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Transgender contribution\nNew York City is home to the largest transgender population in the world, estimated at more than 50,000 in 2018, concentrated in Manhattan and Queens."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Transgender contribution\nNew York City is home to the largest transgender population in the world, estimated at more than 50,000 in 2018, concentrated in Manhattan and Queens."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the first quarter of 2014, the average weekly wage in New York County (Manhattan) was $2,749, representing the highest total among large counties in the United States."
+            ],
+            "arguments": {
+                "1": "new york county",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the first quarter of 2014, the average weekly wage in New York County (Manhattan) was $2,749, representing the highest total among large counties in the United States."
+            ],
+            "arguments": {
+                "1": "new york county",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the first quarter of 2014, the average weekly wage in New York County (Manhattan) was $2,749, representing the highest total among large counties in the United States."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York also had the highest density of millionaires per capita among major U.S. cities in 2014, at 4.6% of residents."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy\nCity economic overview\nNew York is a global hub of business and commerce, as a center for banking and finance, retailing, world trade, transportation, tourism, real estate, new media, traditional media, advertising, legal services, accountancy, insurance, theater, fashion, and the arts in the United States; while Silicon Alley, metonymous for New York's broad-spectrum high technology sphere, continues to expand."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy\nCity economic overview\nNew York is a global hub of business and commerce, as a center for banking and finance, retailing, world trade, transportation, tourism, real estate, new media, traditional media, advertising, legal services, accountancy, insurance, theater, fashion, and the arts in the United States; while Silicon Alley, metonymous for New York's broad-spectrum high technology sphere, continues to expand."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "new york's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy\nCity economic overview\nNew York is a global hub of business and commerce, as a center for banking and finance, retailing, world trade, transportation, tourism, real estate, new media, traditional media, advertising, legal services, accountancy, insurance, theater, fashion, and the arts in the United States; while Silicon Alley, metonymous for New York's broad-spectrum high technology sphere, continues to expand."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "new york's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of 2013, the global advertising agencies of Omnicom Group and Interpublic Group, both based in Manhattan, had combined annual revenues of approximately US$21 billion, reflecting New York City's role as the top global center for the advertising industry, which is metonymously referred to as \"Madison Avenue\"."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "new york city's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Entrepreneurs were forming a \"Chocolate District\" in Brooklyn as of 2014, while Godiva, one of the world's largest chocolatiers, continues to be headquartered in Manhattan."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York is also the principal commercial banking center of the United States."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Manhattan contained over 500 million square feet (46.5 million m2) of office space in 2015, making it the largest office market in the United States, while Midtown Manhattan, with nearly 400 million square feet (37.2 million m2) in 2015, is the largest central business district in the world."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Manhattan contained over 500 million square feet (46.5 million m2) of office space in 2015, making it the largest office market in the United States, while Midtown Manhattan, with nearly 400 million square feet (37.2 million m2) in 2015, is the largest central business district in the world."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "midtown manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tech and biotech\nSilicon Alley, centered in Manhattan, has evolved into a metonym for the sphere encompassing the New York City metropolitan region's high technology industries involving the Internet, new media, telecommunications, digital media, software development, game design, financial technology (\"FinTech\"), and other fields within information technology that are supported by its entrepreneurship ecosystem and venture capital investments."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2015, Silicon Alley generated over US$7.3 billion in venture capital investment across a broad spectrum of high technology enterprises, most based in Manhattan, with others in Brooklyn, Queens, and elsewhere in the region."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tech:NYC, founded in 2016, is a non-profit organization which represents New York City\u2019s technology industry with government, civic institutions, in business, and in the media, and whose primary goals are to further augment New York's substantial tech talent base and to advocate for policies that will nurture tech companies to grow in the city."
+            ],
+            "arguments": {
+                "1": "new york city\u2019s",
+                "2": "new york's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2014 Manhattan was home to six of the top ten ZIP Codes in the United States by median housing price."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2019, the most expensive home sale ever in the United States achieved completion in Manhattan, at a selling price of US$238 million, for a 24,000 square feet (2,200 m2) penthouse apartment overlooking Central Park."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "I Love New York (stylized I \u2764 NY) is both a logo and a song that are the basis of an advertising campaign and have been used since 1977 to promote tourism in New York City, and later to promote New York State as well."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "new york state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major attractions in the boroughs outside Manhattan include Flushing Meadows-Corona Park and the Unisphere in Queens; the Bronx Zoo; Coney Island, Brooklyn; and the New York Botanical Garden in the Bronx."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major attractions in the boroughs outside Manhattan include Flushing Meadows-Corona Park and the Unisphere in Queens; the Bronx Zoo; Coney Island, Brooklyn; and the New York Botanical Garden in the Bronx."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "coney island"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major attractions in the boroughs outside Manhattan include Flushing Meadows-Corona Park and the Unisphere in Queens; the Bronx Zoo; Coney Island, Brooklyn; and the New York Botanical Garden in the Bronx."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major attractions in the boroughs outside Manhattan include Flushing Meadows-Corona Park and the Unisphere in Queens; the Bronx Zoo; Coney Island, Brooklyn; and the New York Botanical Garden in the Bronx."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major attractions in the boroughs outside Manhattan include Flushing Meadows-Corona Park and the Unisphere in Queens; the Bronx Zoo; Coney Island, Brooklyn; and the New York Botanical Garden in the Bronx."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "coney island"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major attractions in the boroughs outside Manhattan include Flushing Meadows-Corona Park and the Unisphere in Queens; the Bronx Zoo; Coney Island, Brooklyn; and the New York Botanical Garden in the Bronx."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major attractions in the boroughs outside Manhattan include Flushing Meadows-Corona Park and the Unisphere in Queens; the Bronx Zoo; Coney Island, Brooklyn; and the New York Botanical Garden in the Bronx."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major attractions in the boroughs outside Manhattan include Flushing Meadows-Corona Park and the Unisphere in Queens; the Bronx Zoo; Coney Island, Brooklyn; and the New York Botanical Garden in the Bronx."
+            ],
+            "arguments": {
+                "1": "coney island",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major attractions in the boroughs outside Manhattan include Flushing Meadows-Corona Park and the Unisphere in Queens; the Bronx Zoo; Coney Island, Brooklyn; and the New York Botanical Garden in the Bronx."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of 2012, New York City was the second largest center for filmmaking and television production in the United States, producing about 200 feature films annually, employing 130,000 individuals."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The filmed entertainment industry has been growing in New York, contributing nearly US$9 billion to the New York City economy alone as of 2015."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By volume, New York is the world leader in independent film production \u2013 one-third of all American independent films are produced in New York City."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the first five months of 2014 alone, location filming for television pilots in New York City exceeded the record production levels for all of 2013, with New York surpassing Los Angeles as the top North American city for the same distinction during the 2013/2014 cycle."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the first five months of 2014 alone, location filming for television pilots in New York City exceeded the record production levels for all of 2013, with New York surpassing Los Angeles as the top North American city for the same distinction during the 2013/2014 cycle."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Two of the three national daily newspapers in the United States are New York papers: The Wall Street Journal and The New York Times, which has won the most Pulitzer Prizes for journalism."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Higher education and research\nOver 600,000 students are enrolled in New York City's over 120 higher education institutions, the highest number of any city in the United States and higher than other major global cities like London and Tokyo, including over half million in the City University of New York (CUNY) system alone in 2014."
+            ],
+            "arguments": {
+                "1": "new york city's",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Higher education and research\nOver 600,000 students are enrolled in New York City's over 120 higher education institutions, the highest number of any city in the United States and higher than other major global cities like London and Tokyo, including over half million in the City University of New York (CUNY) system alone in 2014."
+            ],
+            "arguments": {
+                "1": "new york city's",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Higher education and research\nOver 600,000 students are enrolled in New York City's over 120 higher education institutions, the highest number of any city in the United States and higher than other major global cities like London and Tokyo, including over half million in the City University of New York (CUNY) system alone in 2014."
+            ],
+            "arguments": {
+                "1": "new york city's",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Higher education and research\nOver 600,000 students are enrolled in New York City's over 120 higher education institutions, the highest number of any city in the United States and higher than other major global cities like London and Tokyo, including over half million in the City University of New York (CUNY) system alone in 2014."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Higher education and research\nOver 600,000 students are enrolled in New York City's over 120 higher education institutions, the highest number of any city in the United States and higher than other major global cities like London and Tokyo, including over half million in the City University of New York (CUNY) system alone in 2014."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Higher education and research\nOver 600,000 students are enrolled in New York City's over 120 higher education institutions, the highest number of any city in the United States and higher than other major global cities like London and Tokyo, including over half million in the City University of New York (CUNY) system alone in 2014."
+            ],
+            "arguments": {
+                "1": "london",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York City has the most postgraduate life sciences degrees awarded annually in the United States, with 127 Nobel laureates having roots in local institutions as of 2005; while in 2012, 43,523 licensed physicians were practicing in New York City."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The graduates of SUNY Maritime College in the Bronx earned the highest average annual salary of any university graduates in the United States, US$144,000 as of 2017."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Bellevue is the designated hospital for treatment of the President of the United States and other world leaders if they become sick or injured while in New York City."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The president of HHC is Ramanathan Raju, MD, a surgeon and former CEO of the Cook County health system in Illinois."
+            ],
+            "arguments": {
+                "1": "md",
+                "2": "cook county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The president of HHC is Ramanathan Raju, MD, a surgeon and former CEO of the Cook County health system in Illinois."
+            ],
+            "arguments": {
+                "1": "md",
+                "2": "illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The president of HHC is Ramanathan Raju, MD, a surgeon and former CEO of the Cook County health system in Illinois."
+            ],
+            "arguments": {
+                "1": "cook county",
+                "2": "illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2014, New York City had the third lowest murder rate among the largest U.S. cities, having become significantly safer after a spike in crime in the 1970s through 1990s."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By 2002, New York City's crime rate was similar to that of Provo, Utah, and was ranked 197th in crime among the 216 U.S. cities with populations greater than 100,000."
+            ],
+            "arguments": {
+                "1": "new york city's",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By 2002, New York City's crime rate was similar to that of Provo, Utah, and was ranked 197th in crime among the 216 U.S. cities with populations greater than 100,000."
+            ],
+            "arguments": {
+                "1": "provo",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By 2002, New York City's crime rate was similar to that of Provo, Utah, and was ranked 197th in crime among the 216 U.S. cities with populations greater than 100,000."
+            ],
+            "arguments": {
+                "1": "utah",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One office, at 11 Metrotech Center in Brooklyn, houses Manhattan/Citywide, Brooklyn, and Staten Island Fire Communications; the Bronx and Queens offices are in separate buildings."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Public library system\nThe New York Public Library, which has the largest collection of any public library system in the United States, serves Manhattan, the Bronx, and Staten Island."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Public library system\nThe New York Public Library, which has the largest collection of any public library system in the United States, serves Manhattan, the Bronx, and Staten Island."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Pace\nOne of the most common traits attributed to New York City is its fast pace, which spawned the term New York minute."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Lincoln Center for the Performing Arts, anchoring Lincoln Square on the Upper West Side of Manhattan, is home to numerous influential arts organizations, including the Metropolitan Opera, New York City Opera, New York Philharmonic, and New York City Ballet, as well as the Vivian Beaumont Theater, the Juilliard School, Jazz at Lincoln Center, and Alice Tully Hall."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Lincoln Center for the Performing Arts, anchoring Lincoln Square on the Upper West Side of Manhattan, is home to numerous influential arts organizations, including the Metropolitan Opera, New York City Opera, New York Philharmonic, and New York City Ballet, as well as the Vivian Beaumont Theater, the Juilliard School, Jazz at Lincoln Center, and Alice Tully Hall."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "new york city ballet"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Lincoln Center for the Performing Arts, anchoring Lincoln Square on the Upper West Side of Manhattan, is home to numerous influential arts organizations, including the Metropolitan Opera, New York City Opera, New York Philharmonic, and New York City Ballet, as well as the Vivian Beaumont Theater, the Juilliard School, Jazz at Lincoln Center, and Alice Tully Hall."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "new york city ballet"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Visual arts\nNew York City is home to hundreds of cultural institutions and historic sites, many of which are internationally known.Museum Mile is the name for a section of Fifth Avenue running from 82nd to 105th streets on the Upper East Side of Manhattan, in an area sometimes called Upper Carnegie Hill."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Madison Square Garden, its predecessor, the original Yankee Stadium and Ebbets Field, are sporting venues located in New York City, the latter two having been commemorated on U.S. postage stamps."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is one of only five metro areas (Los Angeles, Chicago, Baltimore\u2013Washington, and the San Francisco Bay Area being the others) to have two baseball teams."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is one of only five metro areas (Los Angeles, Chicago, Baltimore\u2013Washington, and the San Francisco Bay Area being the others) to have two baseball teams."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "baltimore"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is one of only five metro areas (Los Angeles, Chicago, Baltimore\u2013Washington, and the San Francisco Bay Area being the others) to have two baseball teams."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is one of only five metro areas (Los Angeles, Chicago, Baltimore\u2013Washington, and the San Francisco Bay Area being the others) to have two baseball teams."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "baltimore"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is one of only five metro areas (Los Angeles, Chicago, Baltimore\u2013Washington, and the San Francisco Bay Area being the others) to have two baseball teams."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is one of only five metro areas (Los Angeles, Chicago, Baltimore\u2013Washington, and the San Francisco Bay Area being the others) to have two baseball teams."
+            ],
+            "arguments": {
+                "1": "baltimore",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The city's two current Major League Baseball teams are the New York Mets, who play at Citi Field in Queens, and the New York Yankees, who play at Yankee Stadium in the Bronx."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The city is represented in the National Football League by the New York Giants and the New York Jets, although both teams play their home games at MetLife Stadium in nearby East Rutherford, New Jersey, which hosted Super Bowl XLVIII in 2014."
+            ],
+            "arguments": {
+                "1": "east rutherford",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New York Islanders, traditionally representing Nassau and Suffolk Counties of Long Island, currently play at Barclays Center in Brooklyn and are planning a return to Nassau County by way of a new arena just outside the border with Queens at Belmont Park."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "nassau county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New Jersey Devils play at Prudential Center in nearby Newark, New Jersey and traditionally represent the counties of neighboring New Jersey which are coextensive with the boundaries of the New York metropolitan area and media market."
+            ],
+            "arguments": {
+                "1": "newark",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New Jersey Devils play at Prudential Center in nearby Newark, New Jersey and traditionally represent the counties of neighboring New Jersey which are coextensive with the boundaries of the New York metropolitan area and media market."
+            ],
+            "arguments": {
+                "1": "newark",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New Jersey Devils play at Prudential Center in nearby Newark, New Jersey and traditionally represent the counties of neighboring New Jersey which are coextensive with the boundaries of the New York metropolitan area and media market."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In soccer, New York City is represented by New York City FC of Major League Soccer, who play their home games at Yankee Stadium and the New York Red Bulls, who play their home games at Red Bull Arena in nearby Harrison, New Jersey."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "harrison"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In soccer, New York City is represented by New York City FC of Major League Soccer, who play their home games at Yankee Stadium and the New York Red Bulls, who play their home games at Red Bull Arena in nearby Harrison, New Jersey."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In soccer, New York City is represented by New York City FC of Major League Soccer, who play their home games at Yankee Stadium and the New York Red Bulls, who play their home games at Red Bull Arena in nearby Harrison, New Jersey."
+            ],
+            "arguments": {
+                "1": "harrison",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Cosmos play their home games at James M. Shuart Stadium on the campus of Hofstra University, just outside the New York City limits in Hempstead, New York."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "hempstead"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Cosmos play their home games at James M. Shuart Stadium on the campus of Hofstra University, just outside the New York City limits in Hempstead, New York."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Cosmos play their home games at James M. Shuart Stadium on the campus of Hofstra University, just outside the New York City limits in Hempstead, New York."
+            ],
+            "arguments": {
+                "1": "hempstead",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Rapid transit\nMass transit in New York City, most of which runs 24 hours a day, accounts for one in every three users of mass transit in the United States, and two-thirds of the nation's rail riders live in the New York City Metropolitan Area."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "hong kong"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "paris"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "seoul"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "hong kong",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "hong kong",
+                "2": "paris"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "hong kong",
+                "2": "seoul"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "hong kong",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "london",
+                "2": "paris"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "london",
+                "2": "seoul"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "london",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "seoul"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Nearly all of New York's subway system is open 24 hours a day, in contrast to the overnight shutdown common to systems in most cities, including Hong Kong, London, Paris, Seoul, and Tokyo."
+            ],
+            "arguments": {
+                "1": "seoul",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York is the only US city in which a majority (52%) of households do not have a car; only 22% of Manhattanites own a car."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York is the only US city in which a majority (52%) of households do not have a car; only 22% of Manhattanites own a car."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "manhattanites"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York is the only US city in which a majority (52%) of households do not have a car; only 22% of Manhattanites own a car."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "manhattanites"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "boston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "boston",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "boston",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "boston",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "philadelphia",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "philadelphia",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Like the New York City Subway, the PATH operates 24 hours a day; meaning three of the six rapid transit systems in the world which operate on 24-hour schedules are wholly or partly in New York (the others are a portion of the Chicago 'L', the PATCO Speedline serving Philadelphia, and the Copenhagen Metro)."
+            ],
+            "arguments": {
+                "1": "path",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Like the New York City Subway, the PATH operates 24 hours a day; meaning three of the six rapid transit systems in the world which operate on 24-hour schedules are wholly or partly in New York (the others are a portion of the Chicago 'L', the PATCO Speedline serving Philadelphia, and the Copenhagen Metro)."
+            ],
+            "arguments": {
+                "1": "path",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Like the New York City Subway, the PATH operates 24 hours a day; meaning three of the six rapid transit systems in the world which operate on 24-hour schedules are wholly or partly in New York (the others are a portion of the Chicago 'L', the PATCO Speedline serving Philadelphia, and the Copenhagen Metro)."
+            ],
+            "arguments": {
+                "1": "path",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Like the New York City Subway, the PATH operates 24 hours a day; meaning three of the six rapid transit systems in the world which operate on 24-hour schedules are wholly or partly in New York (the others are a portion of the Chicago 'L', the PATCO Speedline serving Philadelphia, and the Copenhagen Metro)."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Like the New York City Subway, the PATH operates 24 hours a day; meaning three of the six rapid transit systems in the world which operate on 24-hour schedules are wholly or partly in New York (the others are a portion of the Chicago 'L', the PATCO Speedline serving Philadelphia, and the Copenhagen Metro)."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Like the New York City Subway, the PATH operates 24 hours a day; meaning three of the six rapid transit systems in the world which operate on 24-hour schedules are wholly or partly in New York (the others are a portion of the Chicago 'L', the PATCO Speedline serving Philadelphia, and the Copenhagen Metro)."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Air\nNew York's airspace is the busiest in the United States and one of the world's busiest air transportation corridors."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other commercial airports in or serving the New York metropolitan area include Long Island MacArthur Airport, Trenton\u2013Mercer Airport and Westchester County Airport."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "trenton"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Unlike the rest of the United States, New York State prohibits right or left turns on red in cities with a population greater than one million, to reduce traffic collisions and increase pedestrian safety."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "new york state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "River crossings\nNew York City is located on one of the world's largest natural harbors, and the boroughs of Manhattan and Staten Island are (primarily) coterminous with islands of the same names, while Queens and Brooklyn are located at the west end of the larger Long Island, and The Bronx is located at the southern tip of New York State's mainland."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "new york state's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "River crossings\nNew York City is located on one of the world's largest natural harbors, and the boroughs of Manhattan and Staten Island are (primarily) coterminous with islands of the same names, while Queens and Brooklyn are located at the west end of the larger Long Island, and The Bronx is located at the southern tip of New York State's mainland."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "staten island"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "River crossings\nNew York City is located on one of the world's largest natural harbors, and the boroughs of Manhattan and Staten Island are (primarily) coterminous with islands of the same names, while Queens and Brooklyn are located at the west end of the larger Long Island, and The Bronx is located at the southern tip of New York State's mainland."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "new york state's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "River crossings\nNew York City is located on one of the world's largest natural harbors, and the boroughs of Manhattan and Staten Island are (primarily) coterminous with islands of the same names, while Queens and Brooklyn are located at the west end of the larger Long Island, and The Bronx is located at the southern tip of New York State's mainland."
+            ],
+            "arguments": {
+                "1": "staten island",
+                "2": "new york state's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "River crossings\nNew York City is located on one of the world's largest natural harbors, and the boroughs of Manhattan and Staten Island are (primarily) coterminous with islands of the same names, while Queens and Brooklyn are located at the west end of the larger Long Island, and The Bronx is located at the southern tip of New York State's mainland."
+            ],
+            "arguments": {
+                "1": "queens",
+                "2": "new york state's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "River crossings\nNew York City is located on one of the world's largest natural harbors, and the boroughs of Manhattan and Staten Island are (primarily) coterminous with islands of the same names, while Queens and Brooklyn are located at the west end of the larger Long Island, and The Bronx is located at the southern tip of New York State's mainland."
+            ],
+            "arguments": {
+                "1": "brooklyn",
+                "2": "new york state's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "River crossings\nNew York City is located on one of the world's largest natural harbors, and the boroughs of Manhattan and Staten Island are (primarily) coterminous with islands of the same names, while Queens and Brooklyn are located at the west end of the larger Long Island, and The Bronx is located at the southern tip of New York State's mainland."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "new york state's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The George Washington Bridge is the world's busiest motor vehicle bridge, connecting Manhattan to Bergen County, New Jersey."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "bergen county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The George Washington Bridge is the world's busiest motor vehicle bridge, connecting Manhattan to Bergen County, New Jersey."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The George Washington Bridge is the world's busiest motor vehicle bridge, connecting Manhattan to Bergen County, New Jersey."
+            ],
+            "arguments": {
+                "1": "bergen county",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Lincoln Tunnel, which carries 120,000 vehicles a day under the Hudson River between New Jersey and Midtown Manhattan, is the busiest vehicular tunnel in the world."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "midtown manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Brooklyn-Battery Tunnel (officially known as the Hugh L. Carey Tunnel) runs underneath Battery Park and connects the Financial District at the southern tip of Manhattan to Red Hook in Brooklyn."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "red hook"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Brooklyn-Battery Tunnel (officially known as the Hugh L. Carey Tunnel) runs underneath Battery Park and connects the Financial District at the southern tip of Manhattan to Red Hook in Brooklyn."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Brooklyn-Battery Tunnel (officially known as the Hugh L. Carey Tunnel) runs underneath Battery Park and connects the Financial District at the southern tip of Manhattan to Red Hook in Brooklyn."
+            ],
+            "arguments": {
+                "1": "red hook",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mass transit use in New York City is the highest in the United States."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York's high rate of public transit use, over 200,000 daily cyclists as of 2014, and many pedestrian commuters make it the most energy-efficient major city in the United States."
+            ],
+            "arguments": {
+                "1": "new york's",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In both its 2011 and 2015 rankings, Walk Score named New York City the most walkable large city in the United States, and in 2018, Stacker ranked New York the most walkable U.S. city."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In both its 2011 and 2015 rankings, Walk Score named New York City the most walkable large city in the United States, and in 2018, Stacker ranked New York the most walkable U.S. city."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In both its 2011 and 2015 rankings, Walk Score named New York City the most walkable large city in the United States, and in 2018, Stacker ranked New York the most walkable U.S. city."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As a result of the watershed's integrity and undisturbed natural water filtration system, New York is one of only four major cities in the United States the majority of whose drinking water is pure enough not to require purification by water treatment plants."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "3, an integral part of the New York City water supply system, is the largest capital construction project in the city's history, with segments serving Manhattan and The Bronx completed, and with segments serving Brooklyn and Queens planned for construction in 2020."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "3, an integral part of the New York City water supply system, is the largest capital construction project in the city's history, with segments serving Manhattan and The Bronx completed, and with segments serving Brooklyn and Queens planned for construction in 2020."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "3, an integral part of the New York City water supply system, is the largest capital construction project in the city's history, with segments serving Manhattan and The Bronx completed, and with segments serving Brooklyn and Queens planned for construction in 2020."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "3, an integral part of the New York City water supply system, is the largest capital construction project in the city's history, with segments serving Manhattan and The Bronx completed, and with segments serving Brooklyn and Queens planned for construction in 2020."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "3, an integral part of the New York City water supply system, is the largest capital construction project in the city's history, with segments serving Manhattan and The Bronx completed, and with segments serving Brooklyn and Queens planned for construction in 2020."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "3, an integral part of the New York City water supply system, is the largest capital construction project in the city's history, with segments serving Manhattan and The Bronx completed, and with segments serving Brooklyn and Queens planned for construction in 2020."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Environmental revitalization\nNewtown Creek, a 3.5-mile (6-kilometer) a long estuary that forms part of the border between the boroughs of Brooklyn and Queens, has been designated a Superfund site for environmental clean-up and remediation of the waterway's recreational and economic resources for many communities."
+            ],
+            "arguments": {
+                "1": "newtown creek",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Environmental revitalization\nNewtown Creek, a 3.5-mile (6-kilometer) a long estuary that forms part of the border between the boroughs of Brooklyn and Queens, has been designated a Superfund site for environmental clean-up and remediation of the waterway's recreational and economic resources for many communities."
+            ],
+            "arguments": {
+                "1": "newtown creek",
+                "2": "queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One of the most heavily used bodies of water in the Port of New York and New Jersey, it had been one of the most contaminated industrial sites in the country, containing years of discarded toxins, an estimated 30 million US gallons (110,000 m3) of spilled oil, including the Greenpoint oil spill, raw sewage from New York City's sewer system, and other accumulation."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "greenpoint"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New York City Administrative Code, the New York City Rules, and the City Record are the code of local laws, compilation of regulations, and official journal, respectively."
+            ],
+            "arguments": {
+                "1": "new york city administrative code",
+                "2": "the city record"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Uniquely among major American cities, New York is divided between, and is host to the main branches of, two different US district courts: the District Court for the Southern District of New York, whose main courthouse is on Foley Square near City Hall in Manhattan and whose jurisdiction includes Manhattan and the Bronx; and the District Court for the Eastern District of New York, whose main courthouse is in Brooklyn and whose jurisdiction includes Brooklyn, Queens, and Staten Island."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Uniquely among major American cities, New York is divided between, and is host to the main branches of, two different US district courts: the District Court for the Southern District of New York, whose main courthouse is on Foley Square near City Hall in Manhattan and whose jurisdiction includes Manhattan and the Bronx; and the District Court for the Eastern District of New York, whose main courthouse is in Brooklyn and whose jurisdiction includes Brooklyn, Queens, and Staten Island."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Uniquely among major American cities, New York is divided between, and is host to the main branches of, two different US district courts: the District Court for the Southern District of New York, whose main courthouse is on Foley Square near City Hall in Manhattan and whose jurisdiction includes Manhattan and the Bronx; and the District Court for the Eastern District of New York, whose main courthouse is in Brooklyn and whose jurisdiction includes Brooklyn, Queens, and Staten Island."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Uniquely among major American cities, New York is divided between, and is host to the main branches of, two different US district courts: the District Court for the Southern District of New York, whose main courthouse is on Foley Square near City Hall in Manhattan and whose jurisdiction includes Manhattan and the Bronx; and the District Court for the Eastern District of New York, whose main courthouse is in Brooklyn and whose jurisdiction includes Brooklyn, Queens, and Staten Island."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Uniquely among major American cities, New York is divided between, and is host to the main branches of, two different US district courts: the District Court for the Southern District of New York, whose main courthouse is on Foley Square near City Hall in Manhattan and whose jurisdiction includes Manhattan and the Bronx; and the District Court for the Eastern District of New York, whose main courthouse is in Brooklyn and whose jurisdiction includes Brooklyn, Queens, and Staten Island."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Uniquely among major American cities, New York is divided between, and is host to the main branches of, two different US district courts: the District Court for the Southern District of New York, whose main courthouse is on Foley Square near City Hall in Manhattan and whose jurisdiction includes Manhattan and the Bronx; and the District Court for the Eastern District of New York, whose main courthouse is in Brooklyn and whose jurisdiction includes Brooklyn, Queens, and Staten Island."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Uniquely among major American cities, New York is divided between, and is host to the main branches of, two different US district courts: the District Court for the Southern District of New York, whose main courthouse is on Foley Square near City Hall in Manhattan and whose jurisdiction includes Manhattan and the Bronx; and the District Court for the Eastern District of New York, whose main courthouse is in Brooklyn and whose jurisdiction includes Brooklyn, Queens, and Staten Island."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Uniquely among major American cities, New York is divided between, and is host to the main branches of, two different US district courts: the District Court for the Southern District of New York, whose main courthouse is on Foley Square near City Hall in Manhattan and whose jurisdiction includes Manhattan and the Bronx; and the District Court for the Eastern District of New York, whose main courthouse is in Brooklyn and whose jurisdiction includes Brooklyn, Queens, and Staten Island."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Uniquely among major American cities, New York is divided between, and is host to the main branches of, two different US district courts: the District Court for the Southern District of New York, whose main courthouse is on Foley Square near City Hall in Manhattan and whose jurisdiction includes Manhattan and the Bronx; and the District Court for the Eastern District of New York, whose main courthouse is in Brooklyn and whose jurisdiction includes Brooklyn, Queens, and Staten Island."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Uniquely among major American cities, New York is divided between, and is host to the main branches of, two different US district courts: the District Court for the Southern District of New York, whose main courthouse is on Foley Square near City Hall in Manhattan and whose jurisdiction includes Manhattan and the Bronx; and the District Court for the Eastern District of New York, whose main courthouse is in Brooklyn and whose jurisdiction includes Brooklyn, Queens, and Staten Island."
+            ],
+            "arguments": {
+                "1": "bronx",
+                "2": "brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The US Court of Appeals for the Second Circuit and US Court of International Trade are also based in New York, also on Foley Square in Manhattan."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York is the most important source of political fundraising in the United States, as four of the top five ZIP Codes in the nation for political contributions are in Manhattan."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York is the most important source of political fundraising in the United States, as four of the top five ZIP Codes in the nation for political contributions are in Manhattan."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York is the most important source of political fundraising in the United States, as four of the top five ZIP Codes in the nation for political contributions are in Manhattan."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "manhattan"
+            }
+        }
+    ]
+}{
+    "document": "NYC.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1626, the Dutch colonial Director-General Peter Minuit, acting as charged by the Dutch West India Company, purchased the island of Manhattan from the Canarsie, a small Lenape band, for 60 guilders (about $1,000 in 2006)."
+            ],
+            "arguments": {
+                "1": "the Dutch colonial",
+                "2": "the island",
+                "3": "about $1,000",
+                "4": "",
+                "5": "Manhattan"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "A disproved legend claims that Manhattan was purchased for $24 worth of glass beads.\n\n"
+            ],
+            "arguments": {
+                "1": "A disproved legend",
+                "2": "Manhattan",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In October 2014, the Anbang Insurance Group, based in China, purchased the Waldorf Astoria New York for US$1.95 billion, making it the world's most expensive hotel ever sold.\n\n"
+            ],
+            "arguments": {
+                "1": "the Anbang Insurance Group",
+                "2": "the Waldorf Astoria New York",
+                "3": "US$ 1.95 billion",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "NYC.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "The first documented visit into New York Harbor by a European was in 1524 by Giovanni da Verrazzano, a Florentine explorer in the service of the French crown."
+            ],
+            "arguments": {
+                "1": "Florentine",
+                "2": "Verrazzano",
+                "3": "explorer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Flushing Meadows\u2013Corona Park in Queens, with its 897 acres (363 ha) making it the city's fourth largest park, was the setting for the 1939 World's Fair and the 1964 World's Fair and is host to the USTA Billie Jean King National Tennis Center and the annual United States Open Tennis Championships tournament.\n"
+            ],
+            "arguments": {
+                "1": "Meadows",
+                "2": "Center",
+                "3": "host",
+                "4": ""
+            }
+        }
+    ]
+}

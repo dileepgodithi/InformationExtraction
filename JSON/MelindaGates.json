@@ -1,0 +1,118 @@
+{
+    "document": "MelindaGates.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life\n\nMelinda Ann French was born on August 15, 1964 in Dallas, Texas."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Melinda graduated as valedictorian from Ursuline Academy of Dallas in 1982."
+            ],
+            "arguments": {
+                "1": "melinda",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1994, she married Gates in a private ceremony held in Lanai, Hawaii."
+            ],
+            "arguments": {
+                "1": "lanai",
+                "2": "hawaii"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In November 2006, Melinda was awarded the Insignia of the Order of the Aztec Eagle, together with Bill, who was awarded the Placard of the same order, both for their philanthropic work around the world in the areas of health and education, particularly in Mexico, and specifically in the program \"Un pas de lectores\"."
+            ],
+            "arguments": {
+                "1": "melinda",
+                "2": "mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2007, Gates received an honorary doctorate in medicine from the Karolinska Institute in Stockholm, Sweden."
+            ],
+            "arguments": {
+                "1": "stockholm",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In recognition of the foundation's philanthropic activities in India, Bill and Melinda jointly received India's third-highest civilian honor, Padma Bhushan, in 2015."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "melinda"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2017, President Franois Hollande awarded Gates and her husband with France's highest national award, the Legion of Honour, in Paris for their charity efforts."
+            ],
+            "arguments": {
+                "1": "france",
+                "2": "paris"
+            }
+        }
+    ]
+}{
+    "document": "MelindaGates.txt",
+    "extraction": []
+}{
+    "document": "MelindaGates.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "She is the second of four children to Raymond Joseph French Jr., an aerospace engineer, and Elaine Agnes Amerland, a homemaker."
+            ],
+            "arguments": {
+                "1": "Jr.",
+                "2": "Amerland",
+                "3": "homemaker; engineer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Melinda, a Roman Catholic, attended St. Monica Catholic School, where she was the top student in her class year."
+            ],
+            "arguments": {
+                "1": "Melinda",
+                "2": "School",
+                "3": "student",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "After graduation, Melinda joined Microsoft as a marketing manager, where she was responsible for leading the development of various multimedia products."
+            ],
+            "arguments": {
+                "1": "she",
+                "2": "Microsoft",
+                "3": "manager",
+                "4": ""
+            }
+        }
+    ]
+}

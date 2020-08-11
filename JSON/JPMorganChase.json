@@ -1,0 +1,532 @@
+{
+    "document": "JPMorganChase.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chase brand is used for credit card services in the United States and Canada, the bank's retail banking activities in the United States, and commercial banking."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Both the retail and commercial bank and the bank's corporate headquarters are located at 270 Park Avenue in Midtown Manhattan, New York City."
+            ],
+            "arguments": {
+                "1": "midtown manhattan",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The acquisition gave Chase access to 339 additional branches in New York, New Jersey, and Connecticut."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The acquisition gave Chase access to 339 additional branches in New York, New Jersey, and Connecticut."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "connecticut"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The acquisition gave Chase access to 339 additional branches in New York, New Jersey, and Connecticut."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "connecticut"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The regional office is in London with offices in Bournemouth, Glasgow, and Edinburgh for asset management, private banking, and investment."
+            ],
+            "arguments": {
+                "1": "london",
+                "2": "bournemouth, glasgow"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The regional office is in London with offices in Bournemouth, Glasgow, and Edinburgh for asset management, private banking, and investment."
+            ],
+            "arguments": {
+                "1": "london",
+                "2": "edinburgh"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The regional office is in London with offices in Bournemouth, Glasgow, and Edinburgh for asset management, private banking, and investment."
+            ],
+            "arguments": {
+                "1": "bournemouth, glasgow",
+                "2": "edinburgh"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "History\nThe Bank began operations in Japan in 1924, in Australia during the later part of the nineteenth century, and in Indonesia during the early 1920s."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "History\nThe Bank began operations in Japan in 1924, in Australia during the later part of the nineteenth century, and in Indonesia during the early 1920s."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "indonesia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "History\nThe Bank began operations in Japan in 1924, in Australia during the later part of the nineteenth century, and in Indonesia during the early 1920s."
+            ],
+            "arguments": {
+                "1": "australia",
+                "2": "indonesia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The bank has operated in Saudi Arabia and India since the 1930s."
+            ],
+            "arguments": {
+                "1": "saudi arabia",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An office of JPMorgan was opened in Taiwan in 1970, in Russia (Soviet Union) in 1973, and Nordic operations began during the same year."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An office of JPMorgan was opened in Taiwan in 1970, in Russia (Soviet Union) in 1973, and Nordic operations began during the same year."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "soviet union"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An office of JPMorgan was opened in Taiwan in 1970, in Russia (Soviet Union) in 1973, and Nordic operations began during the same year."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "soviet union"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Jefferson County, Alabama\nIn November 2009, a week after Birmingham, Alabama Mayor Larry Langford was convicted for financial crimes related to bond swaps for Jefferson County, Alabama, JPMorgan Chase & Co. agreed to a $722 million settlement with the U.S. Securities and Exchange Commission to end a probe into the sales of derivatives that allegedly contributed to the near-bankruptcy of the county."
+            ],
+            "arguments": {
+                "1": "jefferson county",
+                "2": "birmingham"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Jefferson County, Alabama\nIn November 2009, a week after Birmingham, Alabama Mayor Larry Langford was convicted for financial crimes related to bond swaps for Jefferson County, Alabama, JPMorgan Chase & Co. agreed to a $722 million settlement with the U.S. Securities and Exchange Commission to end a probe into the sales of derivatives that allegedly contributed to the near-bankruptcy of the county."
+            ],
+            "arguments": {
+                "1": "alabama",
+                "2": "birmingham"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In May 2011, the United States District Court for the Northern District of California certified the class action lawsuit."
+            ],
+            "arguments": {
+                "1": "the united states district court",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Various newspapers reported in September 2013 that the Federal Bureau of Investigation (FBI) and US Attorney's Office in Manhattan were investigating whether employees withheld information or made false statements during the FERC investigation."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The lawsuit, which was filed on behalf of shareholders against Chief Executive Jamie Dimon and other high-ranking JPMorgan employees, used statements made by Bernie Madoff during interviews conducted while in prison in Butner, North Carolina claiming that JPMorgan officials knew of the fraud."
+            ],
+            "arguments": {
+                "1": "butner",
+                "2": "north carolina"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Chase, the U.S. and Canada, retail, commercial, and credit card bank is headquartered in Chicago at the Chase Tower, Chicago, Illinois."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Notable former employees\nBusiness\nWinthrop Aldrich \u2013 son of the late Senator Nelson Aldrich\nAndrew Crockett \u2013 former general manager of the Bank for International Settlements (1994\u20132003)\nPierre Danon \u2013 chairman of Eircom\nDina Dublon \u2013 member of the board of directors of Microsoft, Accenture and PepsiCo and former Executive Vice President and Chief Financial Officer of JPMorgan Chase\nMaria Elena Lagomasino \u2013 member of the board of directors of The Coca-Cola Company and former CEO of JPMorgan Private Bank\nJacob A. Frenkel \u2013 Governor of the Bank of Israel\nThomas W. Lamont \u2013 acting head of J.P. Morgan & Co. on Black Tuesday\nRobert I. Lipp \u2013 former CEO of The Travelers Companies\nMarjorie Magner \u2013 chairman of Gannett Company\nHenry S. Morgan \u2013 co-founder of Morgan Stanley, son of J. P. Morgan, Jr. and grandson of financier J. P. Morgan\nLewis Reford \u2013 Canadian political candidate\nDavid Rockefeller \u2013 patriarch of the Rockefeller family\nHarold Stanley \u2013 former JPMorgan partner, co-founder of Morgan Stanley\nJan Stenbeck \u2013 former owner of Investment AB Kinnevik\nDon M. Wilson III \u2013 former Chief Risk Officer (CRO) of J. P. Morgan and current member of the board of directors at Bank of Montreal\nCharlie Scharf, current CEO of Visa\nPolitics and public service\nFrederick Ma \u2013 Hong Kong Secretary for Commerce and Economic Development (2007\u201308)\nTony Blair \u2013 Prime Minister of the United Kingdom (1997\u20132007)\nWilliam M. Daley \u2013 U.S. Secretary of Commerce (1997\u20132000), U.S. White House Chief of Staff (2011\u20132012)\nMichael Forsyth, Baron Forsyth of Drumlean \u2013 Secretary of State for Scotland (1995\u201397)\nThomas S. Gates, Jr. \u2013 U.S. Secretary of Defense (1959\u201361)\nDavid Laws \u2013 UK Chief Secretary to the Treasury (May 2010) Minister of State for Schools\nRick Lazio \u2013 member of the U.S. House of Representatives (1993\u20132001)\nAntony Leung \u2013 Financial Secretary of Hong Kong (2001\u201303)\nDwight Morrow \u2013 U.S."
+            ],
+            "arguments": {
+                "1": "hong kong",
+                "2": "the united kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Notable former employees\nBusiness\nWinthrop Aldrich \u2013 son of the late Senator Nelson Aldrich\nAndrew Crockett \u2013 former general manager of the Bank for International Settlements (1994\u20132003)\nPierre Danon \u2013 chairman of Eircom\nDina Dublon \u2013 member of the board of directors of Microsoft, Accenture and PepsiCo and former Executive Vice President and Chief Financial Officer of JPMorgan Chase\nMaria Elena Lagomasino \u2013 member of the board of directors of The Coca-Cola Company and former CEO of JPMorgan Private Bank\nJacob A. Frenkel \u2013 Governor of the Bank of Israel\nThomas W. Lamont \u2013 acting head of J.P. Morgan & Co. on Black Tuesday\nRobert I. Lipp \u2013 former CEO of The Travelers Companies\nMarjorie Magner \u2013 chairman of Gannett Company\nHenry S. Morgan \u2013 co-founder of Morgan Stanley, son of J. P. Morgan, Jr. and grandson of financier J. P. Morgan\nLewis Reford \u2013 Canadian political candidate\nDavid Rockefeller \u2013 patriarch of the Rockefeller family\nHarold Stanley \u2013 former JPMorgan partner, co-founder of Morgan Stanley\nJan Stenbeck \u2013 former owner of Investment AB Kinnevik\nDon M. Wilson III \u2013 former Chief Risk Officer (CRO) of J. P. Morgan and current member of the board of directors at Bank of Montreal\nCharlie Scharf, current CEO of Visa\nPolitics and public service\nFrederick Ma \u2013 Hong Kong Secretary for Commerce and Economic Development (2007\u201308)\nTony Blair \u2013 Prime Minister of the United Kingdom (1997\u20132007)\nWilliam M. Daley \u2013 U.S. Secretary of Commerce (1997\u20132000), U.S. White House Chief of Staff (2011\u20132012)\nMichael Forsyth, Baron Forsyth of Drumlean \u2013 Secretary of State for Scotland (1995\u201397)\nThomas S. Gates, Jr. \u2013 U.S. Secretary of Defense (1959\u201361)\nDavid Laws \u2013 UK Chief Secretary to the Treasury (May 2010) Minister of State for Schools\nRick Lazio \u2013 member of the U.S. House of Representatives (1993\u20132001)\nAntony Leung \u2013 Financial Secretary of Hong Kong (2001\u201303)\nDwight Morrow \u2013 U.S."
+            ],
+            "arguments": {
+                "1": "the united kingdom",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Notable former employees\nBusiness\nWinthrop Aldrich \u2013 son of the late Senator Nelson Aldrich\nAndrew Crockett \u2013 former general manager of the Bank for International Settlements (1994\u20132003)\nPierre Danon \u2013 chairman of Eircom\nDina Dublon \u2013 member of the board of directors of Microsoft, Accenture and PepsiCo and former Executive Vice President and Chief Financial Officer of JPMorgan Chase\nMaria Elena Lagomasino \u2013 member of the board of directors of The Coca-Cola Company and former CEO of JPMorgan Private Bank\nJacob A. Frenkel \u2013 Governor of the Bank of Israel\nThomas W. Lamont \u2013 acting head of J.P. Morgan & Co. on Black Tuesday\nRobert I. Lipp \u2013 former CEO of The Travelers Companies\nMarjorie Magner \u2013 chairman of Gannett Company\nHenry S. Morgan \u2013 co-founder of Morgan Stanley, son of J. P. Morgan, Jr. and grandson of financier J. P. Morgan\nLewis Reford \u2013 Canadian political candidate\nDavid Rockefeller \u2013 patriarch of the Rockefeller family\nHarold Stanley \u2013 former JPMorgan partner, co-founder of Morgan Stanley\nJan Stenbeck \u2013 former owner of Investment AB Kinnevik\nDon M. Wilson III \u2013 former Chief Risk Officer (CRO) of J. P. Morgan and current member of the board of directors at Bank of Montreal\nCharlie Scharf, current CEO of Visa\nPolitics and public service\nFrederick Ma \u2013 Hong Kong Secretary for Commerce and Economic Development (2007\u201308)\nTony Blair \u2013 Prime Minister of the United Kingdom (1997\u20132007)\nWilliam M. Daley \u2013 U.S. Secretary of Commerce (1997\u20132000), U.S. White House Chief of Staff (2011\u20132012)\nMichael Forsyth, Baron Forsyth of Drumlean \u2013 Secretary of State for Scotland (1995\u201397)\nThomas S. Gates, Jr. \u2013 U.S. Secretary of Defense (1959\u201361)\nDavid Laws \u2013 UK Chief Secretary to the Treasury (May 2010) Minister of State for Schools\nRick Lazio \u2013 member of the U.S. House of Representatives (1993\u20132001)\nAntony Leung \u2013 Financial Secretary of Hong Kong (2001\u201303)\nDwight Morrow \u2013 U.S."
+            ],
+            "arguments": {
+                "1": "the united kingdom",
+                "2": "scotland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Notable former employees\nBusiness\nWinthrop Aldrich \u2013 son of the late Senator Nelson Aldrich\nAndrew Crockett \u2013 former general manager of the Bank for International Settlements (1994\u20132003)\nPierre Danon \u2013 chairman of Eircom\nDina Dublon \u2013 member of the board of directors of Microsoft, Accenture and PepsiCo and former Executive Vice President and Chief Financial Officer of JPMorgan Chase\nMaria Elena Lagomasino \u2013 member of the board of directors of The Coca-Cola Company and former CEO of JPMorgan Private Bank\nJacob A. Frenkel \u2013 Governor of the Bank of Israel\nThomas W. Lamont \u2013 acting head of J.P. Morgan & Co. on Black Tuesday\nRobert I. Lipp \u2013 former CEO of The Travelers Companies\nMarjorie Magner \u2013 chairman of Gannett Company\nHenry S. Morgan \u2013 co-founder of Morgan Stanley, son of J. P. Morgan, Jr. and grandson of financier J. P. Morgan\nLewis Reford \u2013 Canadian political candidate\nDavid Rockefeller \u2013 patriarch of the Rockefeller family\nHarold Stanley \u2013 former JPMorgan partner, co-founder of Morgan Stanley\nJan Stenbeck \u2013 former owner of Investment AB Kinnevik\nDon M. Wilson III \u2013 former Chief Risk Officer (CRO) of J. P. Morgan and current member of the board of directors at Bank of Montreal\nCharlie Scharf, current CEO of Visa\nPolitics and public service\nFrederick Ma \u2013 Hong Kong Secretary for Commerce and Economic Development (2007\u201308)\nTony Blair \u2013 Prime Minister of the United Kingdom (1997\u20132007)\nWilliam M. Daley \u2013 U.S. Secretary of Commerce (1997\u20132000), U.S. White House Chief of Staff (2011\u20132012)\nMichael Forsyth, Baron Forsyth of Drumlean \u2013 Secretary of State for Scotland (1995\u201397)\nThomas S. Gates, Jr. \u2013 U.S. Secretary of Defense (1959\u201361)\nDavid Laws \u2013 UK Chief Secretary to the Treasury (May 2010) Minister of State for Schools\nRick Lazio \u2013 member of the U.S. House of Representatives (1993\u20132001)\nAntony Leung \u2013 Financial Secretary of Hong Kong (2001\u201303)\nDwight Morrow \u2013 U.S."
+            ],
+            "arguments": {
+                "1": "the united kingdom",
+                "2": "uk"
+            }
+        }
+    ]
+}{
+    "document": "JPMorganChase.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "Weakened by the real estate collapse in the early 1990s, it was acquired by Chemical Bank in 1996, retaining the Chase name."
+            ],
+            "arguments": {
+                "1": "the real estate collapse",
+                "2": "it",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1999, it acquired San Francisco-based Hambrecht & Quist for $1.35 billion."
+            ],
+            "arguments": {
+                "1": "it",
+                "2": "San Francisco-based Hambrecht & Quist",
+                "3": "$1.35 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In April 2000, UK-based Robert Fleming & Co. was purchased by the new Chase Manhattan Bank for $7.7 billion.\n\n"
+            ],
+            "arguments": {
+                "1": "the new Chase Manhattan Bank",
+                "2": "UK-based Robert Fleming & Co.",
+                "3": "$ 7.7 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1996, Chemical Bank acquired Chase Manhattan."
+            ],
+            "arguments": {
+                "1": "Chemical Bank",
+                "2": "Chase Manhattan",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1984, the group finally purchased the Purdue National Corporation of Lafayette Indiana, uniting a history between the two figures of Salmon Portland Chase and John Purdue."
+            ],
+            "arguments": {
+                "1": "the group",
+                "2": "the Purdue National Corporation of Lafayette Indiana",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "With the beginning of interstate banking they spread into other states, always renaming acquired banks \"Bank One\", though for a long time they resisted combining them into one bank."
+            ],
+            "arguments": {
+                "1": "they",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On March 16, 2008, after a weekend of intense negotiations between JPMorgan, Bear, and the federal government, JPMorgan Chase announced that it had plans to acquire Bear Stearns in a stock swap worth $2.00 per share or $240 million pending shareholder approval scheduled within 90 days."
+            ],
+            "arguments": {
+                "1": "JPMorgan Chase",
+                "2": "Bear Stearns",
+                "3": "$240 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Under the revised terms, JPMorgan also immediately acquired a 39.5% stake in Bear Stearns (using newly issued shares) at the new offer price and gained a commitment from the board (representing another 10% of the share capital) that its members would vote in favor of the new deal."
+            ],
+            "arguments": {
+                "1": "JPMorgan",
+                "2": "a 39.5% stake",
+                "3": "",
+                "4": "",
+                "5": "Bear Stearns"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On September 25, 2008, JPMorgan Chase bought most of the banking operations of Washington Mutual from the receivership of the Federal Deposit Insurance Corporation."
+            ],
+            "arguments": {
+                "1": "JPMorgan Chase",
+                "2": "most",
+                "3": "",
+                "4": "",
+                "5": "the Federal Deposit Insurance Corporation"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Through the acquisition, JPMorgan now owns the former accounts of Providian Financial, a credit card issuer WaMu acquired in 2005."
+            ],
+            "arguments": {
+                "1": "JPMorgan",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Other recent acquisitions\nIn 2006, JPMorgan Chase purchased Collegiate Funding Services, a portfolio company of private equity firm Lightyear Capital, for $663 million."
+            ],
+            "arguments": {
+                "1": "JPMorgan Chase",
+                "2": "Collegiate Funding Services",
+                "3": "$663 million",
+                "4": "",
+                "5": "private equity firm Lightyear Capital"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In April 2006, JPMorgan Chase acquired Bank of New York Mellon's retail and small business banking network."
+            ],
+            "arguments": {
+                "1": "JPMorgan Chase",
+                "2": "Bank of New York Mellon's",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In March 2008, JPMorgan acquired the UK-based carbon offsetting company ClimateCare.\n\n"
+            ],
+            "arguments": {
+                "1": "JPMorgan",
+                "2": "ClimateCare",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In November 2009, JPMorgan announced it would acquire the balance of JPMorgan Cazenove, an advisory and underwriting joint venture established in 2004 with the Cazenove Group, for GBP1 billion.\n\n"
+            ],
+            "arguments": {
+                "1": "it",
+                "2": "the balance",
+                "3": "",
+                "4": "",
+                "5": ","
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In January 2013, JPMorgan acquired Bloomspot, a San Francisco-based startup in the \"deals\" space for $35 million."
+            ],
+            "arguments": {
+                "1": "JPMorgan",
+                "2": "Bloomspot",
+                "3": "$ 35 million",
+                "4": "",
+                "5": "the \"deals\" space"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Bernie Madoff opened a business account at Chemical Bank in 1986 and maintained it until 2008, long after Chemical acquired Chase.\n\n"
+            ],
+            "arguments": {
+                "1": "Chemical",
+                "2": "Chase",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The bank moved some of its operations to the JPMorgan Chase Tower in Houston, when it purchased Texas Commerce Bank.\n\n"
+            ],
+            "arguments": {
+                "1": "it",
+                "2": "Texas Commerce Bank",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "JPMorganChase.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "\u2014Aaron Burr was able to create a bank by sneaking a clause into a charter for a company, called the Manhattan Company, to provide clean water to New York City."
+            ],
+            "arguments": {
+                "1": "Burr",
+                "2": "Company",
+                "3": "charter",
+                "4": "City"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1824, the company amended its charter to perform banking activities and created the Chemical Bank of New York."
+            ],
+            "arguments": {
+                "1": "company",
+                "2": "York",
+                "3": "charter",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1988, the company once again began operating exclusively as J.P. Morgan & Co.\n\nBank One Corporation\nIn 2004, JPMorgan Chase merged with Chicago-based Bank One Corp., bringing on board current Chairman and CEO Jamie Dimon as president and COO and designating him as CEO William B. Harrison, Jr.'s successor."
+            ],
+            "arguments": {
+                "1": "Jr.",
+                "2": "COO",
+                "3": "CEO; president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Leadership\nJamie Dimon is the Chairman and CEO of JPMorgan Chase."
+            ],
+            "arguments": {
+                "1": "Dimon",
+                "2": "Chase",
+                "3": "CEO",
+                "4": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,2165 @@
+{
+    "document": "Europe.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Islands are generally grouped with the nearest continental landmass, hence Iceland is generally considered to be part of Europe, while the nearby island of Greenland is usually assigned to North America."
+            ],
+            "arguments": {
+                "1": "iceland",
+                "2": "greenland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Throughout the Middle Ages and into the 18th century, the traditional division of the landmass of Eurasia into two continents, Europe and Asia, followed Ptolemy, with the boundary following the Turkish Straits, the Black Sea, the Kerch Strait, the Sea of Azov and the Don (ancient Tanais)."
+            ],
+            "arguments": {
+                "1": "eurasia",
+                "2": "tanais"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other hominid remains, dating back roughly 1 million years, have been discovered in Atapuerca, Spain."
+            ],
+            "arguments": {
+                "1": "atapuerca",
+                "2": "spain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Neanderthal man (named after the Neandertal valley in Germany) appeared in Europe 150,000 years ago (115,000 years ago it is found already in Poland) and disappeared from the fossil record about 28,000 years ago, with their final refuge being present-day Portugal."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "poland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Neanderthal man (named after the Neandertal valley in Germany) appeared in Europe 150,000 years ago (115,000 years ago it is found already in Poland) and disappeared from the fossil record about 28,000 years ago, with their final refuge being present-day Portugal."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "portugal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Neanderthal man (named after the Neandertal valley in Germany) appeared in Europe 150,000 years ago (115,000 years ago it is found already in Poland) and disappeared from the fossil record about 28,000 years ago, with their final refuge being present-day Portugal."
+            ],
+            "arguments": {
+                "1": "poland",
+                "2": "portugal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Neanderthals were supplanted by modern humans (Cro-Magnons), who appeared in Europe around 43,000 to 40,000 years ago.The earliest sites in Europe dated 48,000 years ago areRiparo Mochi (Italy), Geissenkl\u00f6sterle (Germany), and Isturitz (France)\n\nThe European Neolithic period\u2014marked by the cultivation of crops and the raising of livestock, increased numbers of settlements and the widespread use of pottery\u2014began around 7000 BC in Greece and the Balkans, probably influenced by earlier farming practices in Anatolia and the Near East."
+            ],
+            "arguments": {
+                "1": "greece",
+                "2": "anatolia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Greeks city-state, the polis, was the fundamental political unit of classical Greece."
+            ],
+            "arguments": {
+                "1": "greeks city",
+                "2": "greece"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the course of the 5th century BC, several of the Greek city states would ultimately check the Achaemenid Persian advance in Europe through the Greco-Persian Wars, considered a pivotal moment in world history, as the 50 years of peace that followed are known as Golden Age of Athens, the seminal period of ancient Greece that laid many of the foundations of Western civilization."
+            ],
+            "arguments": {
+                "1": "athens",
+                "2": "greece"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Roman Republic ended in 27 BC, when Augustus proclaimed the Roman Empire."
+            ],
+            "arguments": {
+                "1": "the roman republic",
+                "2": "the roman empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Constantine also permanently moved the capital of the empire from Rome to the city of Byzantium, which was renamed Constantinople in his honour (modern-day Istanbul) in 330 AD."
+            ],
+            "arguments": {
+                "1": "rome",
+                "2": "byzantium"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Constantine also permanently moved the capital of the empire from Rome to the city of Byzantium, which was renamed Constantinople in his honour (modern-day Istanbul) in 330 AD."
+            ],
+            "arguments": {
+                "1": "rome",
+                "2": "istanbul"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Constantine also permanently moved the capital of the empire from Rome to the city of Byzantium, which was renamed Constantinople in his honour (modern-day Istanbul) in 330 AD."
+            ],
+            "arguments": {
+                "1": "byzantium",
+                "2": "istanbul"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While the Roman empire in the west continued to decline, Roman traditions and the Roman state remained strong in the predominantly Greek-speaking Eastern Roman Empire, also known as the Byzantine Empire."
+            ],
+            "arguments": {
+                "1": "eastern roman empire",
+                "2": "the byzantine empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The powerful West Slavic state of Great Moravia spread its territory all the way south to the Balkans, reaching its largest territorial extent under Svatopluk I and causing a series of armed conflicts with East Francia."
+            ],
+            "arguments": {
+                "1": "west slavic",
+                "2": "great moravia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An East-West Schism in 1054 split the former Roman Empire religiously, with the Eastern Orthodox Church in the Byzantine Empire and the Roman Catholic Church in the former Western Roman Empire."
+            ],
+            "arguments": {
+                "1": "roman empire",
+                "2": "the byzantine empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An East-West Schism in 1054 split the former Roman Empire religiously, with the Eastern Orthodox Church in the Byzantine Empire and the Roman Catholic Church in the former Western Roman Empire."
+            ],
+            "arguments": {
+                "1": "the byzantine empire",
+                "2": "western roman empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Patrons in Italy, including the Medici family of Florentine bankers and the Popes in Rome, funded prolific quattrocento and cinquecento artists such as Raphael, Michelangelo, and Leonardo da Vinci."
+            ],
+            "arguments": {
+                "1": "italy",
+                "2": "rome"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During this forty-year period, two popes\u2014one in Avignon and one in Rome\u2014claimed rulership over the Church."
+            ],
+            "arguments": {
+                "1": "avignon",
+                "2": "rome"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This weakened the influence of the Holy Roman Empire and eventually led to the Thirty Years War (1618\u20131648), which crippled the Holy Roman Empire and devastated much of Germany, killing between 25 and 40 percent of its population."
+            ],
+            "arguments": {
+                "1": "the holy roman empire",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the aftermath of the Peace of Westphalia, France rose to predominance within Europe."
+            ],
+            "arguments": {
+                "1": "the peace of westphalia",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "From the Union of Krewo (1385) central and eastern Europe was dominated by Kingdom of Poland and Grand Duchy of Lithuania."
+            ],
+            "arguments": {
+                "1": "kingdom",
+                "2": "poland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "From the Union of Krewo (1385) central and eastern Europe was dominated by Kingdom of Poland and Grand Duchy of Lithuania."
+            ],
+            "arguments": {
+                "1": "kingdom",
+                "2": "lithuania"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "From the Union of Krewo (1385) central and eastern Europe was dominated by Kingdom of Poland and Grand Duchy of Lithuania."
+            ],
+            "arguments": {
+                "1": "poland",
+                "2": "grand duchy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "From the Union of Krewo (1385) central and eastern Europe was dominated by Kingdom of Poland and Grand Duchy of Lithuania."
+            ],
+            "arguments": {
+                "1": "poland",
+                "2": "lithuania"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "From the Union of Krewo (1385) central and eastern Europe was dominated by Kingdom of Poland and Grand Duchy of Lithuania."
+            ],
+            "arguments": {
+                "1": "grand duchy",
+                "2": "lithuania"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Further east, the Nogai Horde and Kazakh Khanate frequently raided the Slavic-speaking areas of Russia, Ukraine and Poland for hundreds of years, until the Russian expansion and conquest of most of northern Eurasia (i.e."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "eurasia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Further east, the Nogai Horde and Kazakh Khanate frequently raided the Slavic-speaking areas of Russia, Ukraine and Poland for hundreds of years, until the Russian expansion and conquest of most of northern Eurasia (i.e."
+            ],
+            "arguments": {
+                "1": "ukraine",
+                "2": "eurasia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Further east, the Nogai Horde and Kazakh Khanate frequently raided the Slavic-speaking areas of Russia, Ukraine and Poland for hundreds of years, until the Russian expansion and conquest of most of northern Eurasia (i.e."
+            ],
+            "arguments": {
+                "1": "poland",
+                "2": "eurasia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As the dissolution of the Ottoman Empire seemed imminent, the Great Powers struggled to safeguard their strategic and commercial interests in the Ottoman domains."
+            ],
+            "arguments": {
+                "1": "the ottoman empire",
+                "2": "ottoman"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Russian Empire stood to benefit from the decline, whereas the Habsburg Empire and Britain perceived the preservation of the Ottoman Empire to be in their best interests."
+            ],
+            "arguments": {
+                "1": "the habsburg empire",
+                "2": "the ottoman empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Russian Empire stood to benefit from the decline, whereas the Habsburg Empire and Britain perceived the preservation of the Ottoman Empire to be in their best interests."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "the ottoman empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "the kingdom of italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "ataturk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "turkish republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "the weimar republic",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "the weimar republic",
+                "2": "the kingdom of italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "the weimar republic",
+                "2": "ataturk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "the weimar republic",
+                "2": "turkish republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "the kingdom of italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "ataturk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "turkish republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "the kingdom of italy",
+                "2": "ataturk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "the kingdom of italy",
+                "2": "turkish republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The social revolutions sweeping through Russia also affected other European nations following The Great War: in 1919, with the Weimar Republic in Germany, and the First Austrian Republic; in 1922, with Mussolini's one party fascist government in the Kingdom of Italy, and in Ataturk's Turkish Republic, adopting the Western alphabet, and state secularism.Economic instability, caused in part by debts incurred in the First World War and 'loans' to Germany played havoc in Europe in the late 1920s and 1930s."
+            ],
+            "arguments": {
+                "1": "ataturk",
+                "2": "turkish republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1933, Hitler became the leader of Germany and began to work towards his goal of building Greater Germany."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "greater germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1938, Austria became a part of Germany following the Anschluss."
+            ],
+            "arguments": {
+                "1": "austria",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Later that year, following the Munich Agreement signed by Germany, France, the United Kingdom and Italy, Germany annexed the Sudetenland, which was a part of Czechoslovakia inhabited by ethnic Germans, and in early 1939, the remainder of Czechoslovakia was split into the Protectorate of Bohemia and Moravia, controlled by Germany, and the Slovak Republic."
+            ],
+            "arguments": {
+                "1": "the united kingdom",
+                "2": "czechoslovakia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Later that year, following the Munich Agreement signed by Germany, France, the United Kingdom and Italy, Germany annexed the Sudetenland, which was a part of Czechoslovakia inhabited by ethnic Germans, and in early 1939, the remainder of Czechoslovakia was split into the Protectorate of Bohemia and Moravia, controlled by Germany, and the Slovak Republic."
+            ],
+            "arguments": {
+                "1": "italy",
+                "2": "czechoslovakia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Later that year, following the Munich Agreement signed by Germany, France, the United Kingdom and Italy, Germany annexed the Sudetenland, which was a part of Czechoslovakia inhabited by ethnic Germans, and in early 1939, the remainder of Czechoslovakia was split into the Protectorate of Bohemia and Moravia, controlled by Germany, and the Slovak Republic."
+            ],
+            "arguments": {
+                "1": "sudetenland",
+                "2": "czechoslovakia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Later that year, following the Munich Agreement signed by Germany, France, the United Kingdom and Italy, Germany annexed the Sudetenland, which was a part of Czechoslovakia inhabited by ethnic Germans, and in early 1939, the remainder of Czechoslovakia was split into the Protectorate of Bohemia and Moravia, controlled by Germany, and the Slovak Republic."
+            ],
+            "arguments": {
+                "1": "czechoslovakia",
+                "2": "moravia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With tensions mounting between Germany and Poland over the future of Danzig, the Germans turned to the Soviets, and signed the Molotov\u2013Ribbentrop Pact, which allowed the Soviets to invade the Baltic states and parts of Poland and Romania."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "danzig"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With tensions mounting between Germany and Poland over the future of Danzig, the Germans turned to the Soviets, and signed the Molotov\u2013Ribbentrop Pact, which allowed the Soviets to invade the Baltic states and parts of Poland and Romania."
+            ],
+            "arguments": {
+                "1": "poland",
+                "2": "danzig"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With tensions mounting between Germany and Poland over the future of Danzig, the Germans turned to the Soviets, and signed the Molotov\u2013Ribbentrop Pact, which allowed the Soviets to invade the Baltic states and parts of Poland and Romania."
+            ],
+            "arguments": {
+                "1": "danzig",
+                "2": "romania"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On 7 December 1941 Japan's attack on Pearl Harbor drew the United States into the conflict as allies of the British Empire and other allied forces."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "the british empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On 7 December 1941 Japan's attack on Pearl Harbor drew the United States into the conflict as allies of the British Empire and other allied forces."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "the british empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An arc of uplands also exists along the north-western seaboard, which begins in the western parts of the islands of Britain and Ireland, and then continues along the mountainous, fjord-cut spine of Norway."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "ireland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An arc of uplands also exists along the north-western seaboard, which begins in the western parts of the islands of Britain and Ireland, and then continues along the mountainous, fjord-cut spine of Norway."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An arc of uplands also exists along the north-western seaboard, which begins in the western parts of the islands of Britain and Ireland, and then continues along the mountainous, fjord-cut spine of Norway."
+            ],
+            "arguments": {
+                "1": "ireland",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sub-regions like Iceland, Britain, and Ireland are special cases."
+            ],
+            "arguments": {
+                "1": "iceland",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sub-regions like Iceland, Britain, and Ireland are special cases."
+            ],
+            "arguments": {
+                "1": "iceland",
+                "2": "ireland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sub-regions like Iceland, Britain, and Ireland are special cases."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "ireland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Therefore, the average temperature throughout the year of Naples is 16 \u00b0C (61 \u00b0F), while it is only 12 \u00b0C (54 \u00b0F) in New York City which is almost on the same latitude."
+            ],
+            "arguments": {
+                "1": "naples",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "berlin",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "berlin",
+                "2": "calgary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "berlin",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "berlin",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "berlin",
+                "2": "irkutsk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "calgary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "irkutsk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "calgary",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "calgary",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "calgary",
+                "2": "irkutsk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "irkutsk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 \u00b0C (14 \u00b0F) higher than those in Calgary, and they are almost 22 \u00b0C (40 \u00b0F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "irkutsk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "However, Churchill, Manitoba, Canada, is on roughly the same latitude and has an average temperature of \u22126.5 \u00b0C (20.3 \u00b0F), giving it a nearly subarctic climate."
+            ],
+            "arguments": {
+                "1": "manitoba",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For instance, Edinburgh is warmer than Belgrade during the coldest month of the year, although Belgrade is located around 10 latitudes farther south."
+            ],
+            "arguments": {
+                "1": "edinburgh",
+                "2": "belgrade"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The country with the smallest percentage of forested area is Iceland (1%), while the most forested country is Finland (77%)."
+            ],
+            "arguments": {
+                "1": "iceland",
+                "2": "finland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A narrow east-west tongue of Eurasian grassland (the steppe) extends eastwards from Ukraine and southern Russia and ends in Hungary and traverses into taiga to the north."
+            ],
+            "arguments": {
+                "1": "ukraine",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A narrow east-west tongue of Eurasian grassland (the steppe) extends eastwards from Ukraine and southern Russia and ends in Hungary and traverses into taiga to the north."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Today, the brown bear lives primarily in the Balkan peninsula, Scandinavia, and Russia; a small number also persist in other countries across Europe (Austria, Pyrenees etc."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "austria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This includes \u00c5land (a region of Finland), two constituent countries of the Kingdom of Denmark (other than Denmark itself), three Crown dependencies, and two British Overseas Territories."
+            ],
+            "arguments": {
+                "1": "finland",
+                "2": "the kingdom of denmark"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This includes \u00c5land (a region of Finland), two constituent countries of the Kingdom of Denmark (other than Denmark itself), three Crown dependencies, and two British Overseas Territories."
+            ],
+            "arguments": {
+                "1": "finland",
+                "2": "denmark"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This includes \u00c5land (a region of Finland), two constituent countries of the Kingdom of Denmark (other than Denmark itself), three Crown dependencies, and two British Overseas Territories."
+            ],
+            "arguments": {
+                "1": "the kingdom of denmark",
+                "2": "denmark"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Not included are the three countries of the United Kingdom with devolved powers and the two Autonomous Regions of Portugal, which despite having a unique degree of autonomy, are not largely self-governing in matters other than international affairs."
+            ],
+            "arguments": {
+                "1": "the united kingdom",
+                "2": "portugal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The richer states tend to be in the West; some of the Central and Eastern European economies are still emerging from the collapse of the Soviet Union and the breakup of Yugoslavia."
+            ],
+            "arguments": {
+                "1": "the soviet union",
+                "2": "yugoslavia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Reunification (1991\u2013present)\nWith the fall of communism in Central and Eastern Europe in 1991, the post-socialist states began free market reforms: Poland, Hungary, and Slovenia adopted them reasonably quickly, while Ukraine and Russia are still in the process of doing so."
+            ],
+            "arguments": {
+                "1": "ukraine",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "After East and West Germany were reunited in 1990, the economy of West Germany struggled as it had to support and largely rebuild the infrastructure of East Germany."
+            ],
+            "arguments": {
+                "1": "west germany",
+                "2": "east germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, fears of a sovereign debt crisis developed concerning some countries in Europe, especially Greece, Ireland, Spain, and Portugal."
+            ],
+            "arguments": {
+                "1": "greece",
+                "2": "ireland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, fears of a sovereign debt crisis developed concerning some countries in Europe, especially Greece, Ireland, Spain, and Portugal."
+            ],
+            "arguments": {
+                "1": "greece",
+                "2": "spain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, fears of a sovereign debt crisis developed concerning some countries in Europe, especially Greece, Ireland, Spain, and Portugal."
+            ],
+            "arguments": {
+                "1": "greece",
+                "2": "portugal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, fears of a sovereign debt crisis developed concerning some countries in Europe, especially Greece, Ireland, Spain, and Portugal."
+            ],
+            "arguments": {
+                "1": "ireland",
+                "2": "spain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, fears of a sovereign debt crisis developed concerning some countries in Europe, especially Greece, Ireland, Spain, and Portugal."
+            ],
+            "arguments": {
+                "1": "ireland",
+                "2": "portugal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, fears of a sovereign debt crisis developed concerning some countries in Europe, especially Greece, Ireland, Spain, and Portugal."
+            ],
+            "arguments": {
+                "1": "spain",
+                "2": "portugal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "European ancestry predominates in North America, and to a lesser degree in South America (particularly in Uruguay, Argentina, Chile and Brazil, while most of the other Latin American countries also have a considerable population of European origins)."
+            ],
+            "arguments": {
+                "1": "uruguay",
+                "2": "argentina"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "European ancestry predominates in North America, and to a lesser degree in South America (particularly in Uruguay, Argentina, Chile and Brazil, while most of the other Latin American countries also have a considerable population of European origins)."
+            ],
+            "arguments": {
+                "1": "uruguay",
+                "2": "chile"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "European ancestry predominates in North America, and to a lesser degree in South America (particularly in Uruguay, Argentina, Chile and Brazil, while most of the other Latin American countries also have a considerable population of European origins)."
+            ],
+            "arguments": {
+                "1": "uruguay",
+                "2": "brazil"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "European ancestry predominates in North America, and to a lesser degree in South America (particularly in Uruguay, Argentina, Chile and Brazil, while most of the other Latin American countries also have a considerable population of European origins)."
+            ],
+            "arguments": {
+                "1": "argentina",
+                "2": "chile"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "European ancestry predominates in North America, and to a lesser degree in South America (particularly in Uruguay, Argentina, Chile and Brazil, while most of the other Latin American countries also have a considerable population of European origins)."
+            ],
+            "arguments": {
+                "1": "argentina",
+                "2": "brazil"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "European ancestry predominates in North America, and to a lesser degree in South America (particularly in Uruguay, Argentina, Chile and Brazil, while most of the other Latin American countries also have a considerable population of European origins)."
+            ],
+            "arguments": {
+                "1": "chile",
+                "2": "brazil"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Romance languages are spoken primarily in south-western Europe as well as in Romania and Moldova, in Eastern Europe."
+            ],
+            "arguments": {
+                "1": "romania",
+                "2": "moldova"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "komi",
+                "2": "mari"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "komi",
+                "2": "moksha"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "komi",
+                "2": "udmurt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "komi",
+                "2": "estonia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "komi",
+                "2": "finland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "komi",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "komi",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "mari",
+                "2": "moksha"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "mari",
+                "2": "udmurt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "mari",
+                "2": "estonia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "mari",
+                "2": "finland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "mari",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "mari",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "moksha",
+                "2": "udmurt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "moksha",
+                "2": "estonia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "moksha",
+                "2": "finland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "moksha",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "moksha",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "udmurt",
+                "2": "estonia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "udmurt",
+                "2": "finland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "udmurt",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "udmurt",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "estonia",
+                "2": "finland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "estonia",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "estonia",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "finland",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "finland",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "hungary",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major cities\nThe four most populous cities of Europe are Istanbul, Moscow, Paris and London, each have over 10 million residents, and as such have been described as megacities."
+            ],
+            "arguments": {
+                "1": "istanbul",
+                "2": "moscow"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major cities\nThe four most populous cities of Europe are Istanbul, Moscow, Paris and London, each have over 10 million residents, and as such have been described as megacities."
+            ],
+            "arguments": {
+                "1": "istanbul",
+                "2": "paris"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major cities\nThe four most populous cities of Europe are Istanbul, Moscow, Paris and London, each have over 10 million residents, and as such have been described as megacities."
+            ],
+            "arguments": {
+                "1": "istanbul",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major cities\nThe four most populous cities of Europe are Istanbul, Moscow, Paris and London, each have over 10 million residents, and as such have been described as megacities."
+            ],
+            "arguments": {
+                "1": "moscow",
+                "2": "paris"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major cities\nThe four most populous cities of Europe are Istanbul, Moscow, Paris and London, each have over 10 million residents, and as such have been described as megacities."
+            ],
+            "arguments": {
+                "1": "moscow",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major cities\nThe four most populous cities of Europe are Istanbul, Moscow, Paris and London, each have over 10 million residents, and as such have been described as megacities."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Istanbul has the highest total population, one third lies on the Asian side of the Bosporus, making Moscow the most populous city entirely in Europe.The next largest cities in order of population are Saint Petersburg, Madrid, Berlin and Rome, each having over 3 million residents."
+            ],
+            "arguments": {
+                "1": "moscow",
+                "2": "saint petersburg"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Istanbul has the highest total population, one third lies on the Asian side of the Bosporus, making Moscow the most populous city entirely in Europe.The next largest cities in order of population are Saint Petersburg, Madrid, Berlin and Rome, each having over 3 million residents."
+            ],
+            "arguments": {
+                "1": "saint petersburg",
+                "2": "madrid"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Istanbul has the highest total population, one third lies on the Asian side of the Bosporus, making Moscow the most populous city entirely in Europe.The next largest cities in order of population are Saint Petersburg, Madrid, Berlin and Rome, each having over 3 million residents."
+            ],
+            "arguments": {
+                "1": "saint petersburg",
+                "2": "berlin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Istanbul has the highest total population, one third lies on the Asian side of the Bosporus, making Moscow the most populous city entirely in Europe.The next largest cities in order of population are Saint Petersburg, Madrid, Berlin and Rome, each having over 3 million residents."
+            ],
+            "arguments": {
+                "1": "saint petersburg",
+                "2": "rome"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Istanbul has the highest total population, one third lies on the Asian side of the Bosporus, making Moscow the most populous city entirely in Europe.The next largest cities in order of population are Saint Petersburg, Madrid, Berlin and Rome, each having over 3 million residents."
+            ],
+            "arguments": {
+                "1": "madrid",
+                "2": "berlin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Istanbul has the highest total population, one third lies on the Asian side of the Bosporus, making Moscow the most populous city entirely in Europe.The next largest cities in order of population are Saint Petersburg, Madrid, Berlin and Rome, each having over 3 million residents."
+            ],
+            "arguments": {
+                "1": "madrid",
+                "2": "rome"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Istanbul has the highest total population, one third lies on the Asian side of the Bosporus, making Moscow the most populous city entirely in Europe.The next largest cities in order of population are Saint Petersburg, Madrid, Berlin and Rome, each having over 3 million residents."
+            ],
+            "arguments": {
+                "1": "berlin",
+                "2": "rome"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "madrid"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "barcelona"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "berlin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "rome"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "milan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "athens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "paris",
+                "2": "warsaw"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "madrid",
+                "2": "barcelona"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "madrid",
+                "2": "berlin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "madrid",
+                "2": "rome"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "madrid",
+                "2": "milan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "madrid",
+                "2": "athens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "madrid",
+                "2": "warsaw"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "barcelona",
+                "2": "berlin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "barcelona",
+                "2": "rome"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "barcelona",
+                "2": "milan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "barcelona",
+                "2": "athens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "barcelona",
+                "2": "warsaw"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "berlin",
+                "2": "rome"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "berlin",
+                "2": "milan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "berlin",
+                "2": "athens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "berlin",
+                "2": "warsaw"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "rome",
+                "2": "milan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "rome",
+                "2": "athens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "rome",
+                "2": "warsaw"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "milan",
+                "2": "athens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "milan",
+                "2": "warsaw"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "athens",
+                "2": "warsaw"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "bosnia and herzegovina",
+                "2": "albania"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "bosnia and herzegovina",
+                "2": "kosovo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "bosnia and herzegovina",
+                "2": "kazakhstan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "bosnia and herzegovina",
+                "2": "north cyprus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "bosnia and herzegovina",
+                "2": "turkey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "bosnia and herzegovina",
+                "2": "azerbaijan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "bosnia and herzegovina",
+                "2": "north caucasus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "albania",
+                "2": "kosovo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "albania",
+                "2": "kazakhstan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "albania",
+                "2": "north cyprus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "albania",
+                "2": "turkey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "albania",
+                "2": "azerbaijan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "albania",
+                "2": "north caucasus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "kosovo",
+                "2": "kazakhstan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "kosovo",
+                "2": "north cyprus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "kosovo",
+                "2": "turkey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "kosovo",
+                "2": "azerbaijan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "kosovo",
+                "2": "north caucasus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "kazakhstan",
+                "2": "north cyprus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "kazakhstan",
+                "2": "turkey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "kazakhstan",
+                "2": "azerbaijan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "kazakhstan",
+                "2": "north caucasus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "north cyprus",
+                "2": "turkey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "north cyprus",
+                "2": "azerbaijan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "north cyprus",
+                "2": "north caucasus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "turkey",
+                "2": "azerbaijan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "turkey",
+                "2": "north caucasus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "azerbaijan",
+                "2": "north caucasus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other religions, including Judaism, Hinduism, and Buddhism are minority religions (though Tibetan Buddhism is the majority religion of Russia's Republic of Kalmykia)."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "republic of kalmykia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "the czech republic",
+                "2": "estonia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "the czech republic",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "the czech republic",
+                "2": "east germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "the czech republic",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "estonia",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "estonia",
+                "2": "east germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "estonia",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "sweden",
+                "2": "east germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "sweden",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "east germany",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "External links\nCouncil of Europe\nEuropean Union\nThe Columbia Gazetteer of the World Online Columbia University Press\n\"Introducing Europe\" from Lonely Planet Travel Guides and Information\nHistorical Maps\n\nBorders in Europe 3000BC to the present Geacron Historical atlas\nOnline history of Europe in 21 maps"
+            ],
+            "arguments": {
+                "1": "the columbia gazetteer",
+                "2": "online"
+            }
+        }
+    ]
+}{
+    "document": "Europe.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "The growing wealth and independence acquired by some coastal cities gave the Maritime Republics a leading role in the European scene.\n\n"
+            ],
+            "arguments": {
+                "1": "some coastal cities",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "Europe.txt",
+    "extraction": []
+}

@@ -1,0 +1,1199 @@
+{
+    "document": "CitiGroup.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Current operations\nCitigroup is the holding company for the following divisions:\n\nCitigroup Global Markets, Inc., Citigroup Global Markets Limited (UK), and Citigroup Global Markets Japan - broker dealers, including one of 24 primary dealers in United States Treasury securities."
+            ],
+            "arguments": {
+                "1": "uk",
+                "2": "united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Citibank is the 4th largest retail bank in the United States based on deposits, and it has Citibank branded branches in countries throughout the world, with the exception of Mexico which is under a separate subsidiary called Banamex."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The company organically entered the leasing and credit card sectors, and its introduction of U.S. dollar\u2013denominated certificates of deposit in London marked the first new negotiable instrument in market since 1888."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "citi",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "citi",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New sales and service centers were also opened in Moscow and St. Petersburg."
+            ],
+            "arguments": {
+                "1": "moscow",
+                "2": "st. petersburg"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The spin-off of CCA created Napier Park Global Capital, a $6.8 billion hedge fund with more than 100 employees in New York and London and managed by Jim O\u2019Brien and Jonathan Dorfman."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "london"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "el salvador"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "guatemala"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "nicaragua"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "panama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "peru"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "the czech republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "egypt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "costa rica",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "el salvador",
+                "2": "guatemala"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "el salvador",
+                "2": "nicaragua"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "el salvador",
+                "2": "panama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "el salvador",
+                "2": "peru"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "el salvador",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "el salvador",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "el salvador",
+                "2": "the czech republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "el salvador",
+                "2": "egypt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "el salvador",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "el salvador",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guatemala",
+                "2": "nicaragua"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guatemala",
+                "2": "panama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guatemala",
+                "2": "peru"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guatemala",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guatemala",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guatemala",
+                "2": "the czech republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guatemala",
+                "2": "egypt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guatemala",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guatemala",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "nicaragua",
+                "2": "panama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "nicaragua",
+                "2": "peru"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "nicaragua",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "nicaragua",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "nicaragua",
+                "2": "the czech republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "nicaragua",
+                "2": "egypt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "nicaragua",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "nicaragua",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "panama",
+                "2": "peru"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "panama",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "panama",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "panama",
+                "2": "the czech republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "panama",
+                "2": "egypt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "panama",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "panama",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "peru",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "peru",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "peru",
+                "2": "the czech republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "peru",
+                "2": "egypt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "peru",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "peru",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "the czech republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "egypt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guam",
+                "2": "the czech republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guam",
+                "2": "egypt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guam",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "guam",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "the czech republic",
+                "2": "egypt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "the czech republic",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "the czech republic",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "egypt",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "egypt",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "south korea",
+                "2": "hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In February 2016, Citi sold its retail and commercial banking operations in Panama and Costa Rica to the Bank of Nova Scotia (Scotiabank) for $360 million."
+            ],
+            "arguments": {
+                "1": "panama",
+                "2": "costa rica"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Citi continues to offer corporate and institutional banking and wealth management in Panama and Costa Rica."
+            ],
+            "arguments": {
+                "1": "panama",
+                "2": "costa rica"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Offices\nNew York City\nCitigroup Center, a diagonal-roof skyscraper located in Midtown Manhattan, New York City, is Citigroup's most famous office building, which despite popular belief is not the company's headquarters building."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "midtown manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Citigroup also owns a building in Tribeca, Manhattan at 388 Greenwich Street that serves as headquarters for its Investment and Corporate Banking operations and was the former headquarters of the Travelers Group."
+            ],
+            "arguments": {
+                "1": "tribeca",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "All of Citigroup's New York City real estate, excluding the company's Smith Barney division and Wall Street trading division, lies along the New York City Subway's IND Queens Boulevard Line, served by the E and \u200bM trains."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "new york city subway's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Consequently, the company's Midtown buildings\u2014including 787 Seventh Avenue, 666 Fifth Avenue, 399 Park Avenue, 485 Lexington, 153 East 53rd Street (Citigroup Center) in Manhattan, and One Court Square in Long Island City, Queens, are all on the short four-stop corridor of the Queens Boulevard Line between Court Square and Seventh Avenue."
+            ],
+            "arguments": {
+                "1": "midtown",
+                "2": "lexington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Consequently, the company's Midtown buildings\u2014including 787 Seventh Avenue, 666 Fifth Avenue, 399 Park Avenue, 485 Lexington, 153 East 53rd Street (Citigroup Center) in Manhattan, and One Court Square in Long Island City, Queens, are all on the short four-stop corridor of the Queens Boulevard Line between Court Square and Seventh Avenue."
+            ],
+            "arguments": {
+                "1": "midtown",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Consequently, the company's Midtown buildings\u2014including 787 Seventh Avenue, 666 Fifth Avenue, 399 Park Avenue, 485 Lexington, 153 East 53rd Street (Citigroup Center) in Manhattan, and One Court Square in Long Island City, Queens, are all on the short four-stop corridor of the Queens Boulevard Line between Court Square and Seventh Avenue."
+            ],
+            "arguments": {
+                "1": "midtown",
+                "2": "long island city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Consequently, the company's Midtown buildings\u2014including 787 Seventh Avenue, 666 Fifth Avenue, 399 Park Avenue, 485 Lexington, 153 East 53rd Street (Citigroup Center) in Manhattan, and One Court Square in Long Island City, Queens, are all on the short four-stop corridor of the Queens Boulevard Line between Court Square and Seventh Avenue."
+            ],
+            "arguments": {
+                "1": "lexington",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Consequently, the company's Midtown buildings\u2014including 787 Seventh Avenue, 666 Fifth Avenue, 399 Park Avenue, 485 Lexington, 153 East 53rd Street (Citigroup Center) in Manhattan, and One Court Square in Long Island City, Queens, are all on the short four-stop corridor of the Queens Boulevard Line between Court Square and Seventh Avenue."
+            ],
+            "arguments": {
+                "1": "lexington",
+                "2": "long island city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Consequently, the company's Midtown buildings\u2014including 787 Seventh Avenue, 666 Fifth Avenue, 399 Park Avenue, 485 Lexington, 153 East 53rd Street (Citigroup Center) in Manhattan, and One Court Square in Long Island City, Queens, are all on the short four-stop corridor of the Queens Boulevard Line between Court Square and Seventh Avenue."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "long island city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On June 6, 2007, FInRA announced more than $15 million in fines and restitution against Citigroup Global Markets, Inc., to settle charges related to misleading documents and inadequate disclosure in retirement seminars and meetings for BellSouth Corp. employees in North Carolina and South Carolina."
+            ],
+            "arguments": {
+                "1": "north carolina",
+                "2": "south carolina"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "FInRA found that Citigroup did not properly supervise a team of brokers located in Charlotte, N.C., who used misleading sales materials during dozens of seminars and meetings for hundreds of BellSouth employees."
+            ],
+            "arguments": {
+                "1": "charlotte",
+                "2": "n.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "\"Of the current plutonomies (namely United States, United Kingdom, and Canada), they describe six key drivers: \"...an ongoing [bio-]technological revolution; capitalist-friendly governments and tax regimes; globalization that re-arranges global supply chains with mobile well-capitalized elites and immigrants; greater financial complexity and innovation; the rule of law, and patent protection are all well.\""
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "united kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "\"Of the current plutonomies (namely United States, United Kingdom, and Canada), they describe six key drivers: \"...an ongoing [bio-]technological revolution; capitalist-friendly governments and tax regimes; globalization that re-arranges global supply chains with mobile well-capitalized elites and immigrants; greater financial complexity and innovation; the rule of law, and patent protection are all well.\""
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "\"Of the current plutonomies (namely United States, United Kingdom, and Canada), they describe six key drivers: \"...an ongoing [bio-]technological revolution; capitalist-friendly governments and tax regimes; globalization that re-arranges global supply chains with mobile well-capitalized elites and immigrants; greater financial complexity and innovation; the rule of law, and patent protection are all well.\""
+            ],
+            "arguments": {
+                "1": "united kingdom",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Terra Securities scandal\nIn November 2007 it became public that Citigroup was heavily involved in the Terra Securities scandal, which involved investments by eight municipalities of Norway in various hedge funds in the United States bond market."
+            ],
+            "arguments": {
+                "1": "norway",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the company named Edward Skyler, formerly in New York City government and at Bloomberg L.P., to its senior public and governmental relations position."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "bloomberg l.p."
+            }
+        }
+    ]
+}{
+    "document": "CitiGroup.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "Two years later, Weill mastered the buyout of Primerica Financial Services\u2014a conglomerate that had already bought life insurance company A L Williams as well as brokerage firm Smith Barney."
+            ],
+            "arguments": {
+                "1": "that",
+                "2": "life insurance company A L Williams",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Meanwhile, the distinctive Travelers red umbrella logo, which was also acquired in the deal, was applied to all the businesses within the newly named organization."
+            ],
+            "arguments": {
+                "1": "",
+                "2": "which",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "During this period, Travelers acquired Shearson Lehman\u2014a retail brokerage and asset management firm that was headed by Weill until 1985\u2014and merged it with Smith Barney.\n\n"
+            ],
+            "arguments": {
+                "1": "Travelers",
+                "2": "Shearson Lehman",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In November 1997, Travelers Group (which had been renamed again in April 1995 when they merged with Aetna Property and Casualty, Inc.), acquired Salomon Brothers, a major bond dealer and bulge bracket investment bank, in a $9 billion transaction."
+            ],
+            "arguments": {
+                "1": "Travelers Group",
+                "2": "Salomon Brothers",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In the transaction, Travelers Group acquired all Citicorp shares for $70 billion in stock, issuing 2.5 new Citigroup shares for each Citicorp share."
+            ],
+            "arguments": {
+                "1": "Travelers Group",
+                "2": "all Citicorp shares",
+                "3": "$ 70 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2000, Citigroup acquired Associates First Capital Corporation for $31.1 billion in stock, which, until 1989, had been owned by Gulf+Western (now part of National Amusements), and later by Ford Motor Credit Company."
+            ],
+            "arguments": {
+                "1": "Citigroup",
+                "2": "Associates First Capital Corporation",
+                "3": "$31.1 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "It was also difficult to sell insurance directly to its customers since most customers were accustomed to purchasing insurance through a broker.\n\n"
+            ],
+            "arguments": {
+                "1": "It",
+                "2": "insurance",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The group bought and sold $90 billion of residential mortgages annually."
+            ],
+            "arguments": {
+                "1": "The group",
+                "2": "",
+                "3": "$90 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In return the bank gave the U.S. Treasury $27 billion of preferred shares and warrants to acquire common stock."
+            ],
+            "arguments": {
+                "1": "the bank",
+                "2": "common stock",
+                "3": "$27 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In November 2015, Springleaf acquired OneMain Financial from Citigroup.\n\n"
+            ],
+            "arguments": {
+                "1": "Springleaf",
+                "2": "OneMain Financial",
+                "3": "",
+                "4": "",
+                "5": "Citigroup"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The lawsuit was on behalf of investors who purchased certificates in one of two mortgage-backed securities trusts from Citigroup Mortgage Loan Trust Inc in 2007.\n\n"
+            ],
+            "arguments": {
+                "1": "who",
+                "2": "certificates",
+                "3": "",
+                "4": "",
+                "5": "Citigroup Mortgage Loan Trust Inc"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Citigroup was criticized for disrupting the European bond market by rapidly selling \u20ac11 billion worth of bonds on August 2, 2004 on the MTS Group trading platform, driving down the price, and then buying it back at cheaper prices.\n\n"
+            ],
+            "arguments": {
+                "1": "",
+                "2": "it",
+                "3": "\u20ac11 billion worth",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "CitiGroup.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Its roots came from Commercial Credit, a subsidiary of Control Data Corporation that was taken private by Weill in November 1986 after taking charge of the company earlier that year."
+            ],
+            "arguments": {
+                "1": "roots",
+                "2": "Weill",
+                "3": "private",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In November 1997, Travelers Group (which had been renamed again in April 1995 when they merged with Aetna Property and Casualty, Inc.), acquired Salomon Brothers, a major bond dealer and bulge bracket investment bank, in a $9 billion transaction."
+            ],
+            "arguments": {
+                "1": "they",
+                "2": ",",
+                "3": "dealer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Joe J. Plumeri worked on the post-merger integration of the two companies and was appointed CEO of Citibank North America by Weill and Reed."
+            ],
+            "arguments": {
+                "1": "Plumeri",
+                "2": "America",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 2014 Citigroup\u2019s PAC contributed $804,000 to campaigns of various members of Congress, i.e. 162 members of the House, including 72 Democrats, where donations averaged about $5,000 per candidate."
+            ],
+            "arguments": {
+                "1": "donations",
+                "2": "House",
+                "3": "candidate",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Since then, they have been a part of an enormously influential coterie of advisers\"; Howard Wolfson, the former communications director for Hillary Clinton's presidential campaign and Mr. Bloomberg's re-election bid; and Gary Ginsberg, now at Time Warner and formerly at News Corporation.\n\n"
+            ],
+            "arguments": {
+                "1": "Ginsberg",
+                "2": "Corporation",
+                "3": "director",
+                "4": ""
+            }
+        }
+    ]
+}

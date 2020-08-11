@@ -1,0 +1,1884 @@
+{
+    "document": "China.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "China, officially the People's Republic of China (PRC), is a country in East Asia and the world's most populous country, with a population of around 1.404 billion."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "the people's republic of china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China, officially the People's Republic of China (PRC), is a country in East Asia and the world's most populous country, with a population of around 1.404 billion."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "prc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China, officially the People's Republic of China (PRC), is a country in East Asia and the world's most populous country, with a population of around 1.404 billion."
+            ],
+            "arguments": {
+                "1": "the people's republic of china",
+                "2": "prc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinese Civil War resulted in a division of territory in 1949, when the Communist Party of China established the People's Republic of China, a unitary one-party sovereign state on Mainland China, while the Kuomintang-led government retreated to the island of Taiwan."
+            ],
+            "arguments": {
+                "1": "the people's republic of china",
+                "2": "taiwan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The PRC is a permanent member of the United Nations Security Council as it replaced the ROC in 1971, as well as an active global partner of ASEAN Plus mechanism."
+            ],
+            "arguments": {
+                "1": "prc",
+                "2": "roc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The fossilized teeth of Homo sapiens (dated to 125,000\u201380,000 years ago) have been discovered in Fuyan Cave in Dao County, Hunan."
+            ],
+            "arguments": {
+                "1": "dao county",
+                "2": "hunan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Chinese proto-writing existed in Jiahu around 7000 BCE, Damaidi around 6000 BCE, Dadiwan from 5800\u20135400 BCE, and Banpo dating from the 5th millennium BCE."
+            ],
+            "arguments": {
+                "1": "jiahu",
+                "2": "damaidi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "His dynasty also conquered the Yue tribes in Guangxi, Guangdong, and Vietnam."
+            ],
+            "arguments": {
+                "1": "guangxi",
+                "2": "guangdong"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "His dynasty also conquered the Yue tribes in Guangxi, Guangdong, and Vietnam."
+            ],
+            "arguments": {
+                "1": "guangxi",
+                "2": "vietnam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "His dynasty also conquered the Yue tribes in Guangxi, Guangdong, and Vietnam."
+            ],
+            "arguments": {
+                "1": "guangdong",
+                "2": "vietnam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Han expanded the empire's territory considerably, with military campaigns reaching Central Asia, Mongolia, South Korea, and Yunnan, and the recovery of Guangdong and northern Vietnam from Nanyue."
+            ],
+            "arguments": {
+                "1": "guangdong",
+                "2": "nanyue"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Han expanded the empire's territory considerably, with military campaigns reaching Central Asia, Mongolia, South Korea, and Yunnan, and the recovery of Guangdong and northern Vietnam from Nanyue."
+            ],
+            "arguments": {
+                "1": "vietnam",
+                "2": "nanyue"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The scholar-official stratum became a supporting force of industry and commerce in the tax boycott movements, which, together with the famines and defense against Japanese invasions of Korea (1592\u201398) and Manchu invasions led to an exhausted treasury."
+            ],
+            "arguments": {
+                "1": "korea",
+                "2": "manchu"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The First Sino-Japanese War (1894\u201395) resulted in Qing China's loss of influence in the Korean Peninsula, as well as the cession of Taiwan to Japan."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Kuomintang moved the nation's capital to Nanjing and implemented \"political tutelage\", an intermediate stage of political development outlined in Sun Yat-sen's San-min program for transforming China into a modern democratic state."
+            ],
+            "arguments": {
+                "1": "nanjing",
+                "2": "san-min"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Kuomintang moved the nation's capital to Nanjing and implemented \"political tutelage\", an intermediate stage of political development outlined in Sun Yat-sen's San-min program for transforming China into a modern democratic state."
+            ],
+            "arguments": {
+                "1": "nanjing",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Kuomintang moved the nation's capital to Nanjing and implemented \"political tutelage\", an intermediate stage of political development outlined in Sun Yat-sen's San-min program for transforming China into a modern democratic state."
+            ],
+            "arguments": {
+                "1": "san-min",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "After the surrender of Japan in 1945, Taiwan, including the Pescadores, was returned to Chinese control."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "taiwan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Constitutional rule was established in 1947, but because of the ongoing unrest, many provisions of the ROC constitution were never implemented in mainland China."
+            ],
+            "arguments": {
+                "1": "roc",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "People's Republic of China (1949\u2013present)\n\nMajor combat in the Chinese Civil War ended in 1949 with the Communist Party in control of most of mainland China, and the Kuomintang retreating offshore, reducing the ROC's territory to only Taiwan, Hainan, and their surrounding islands."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "roc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "People's Republic of China (1949\u2013present)\n\nMajor combat in the Chinese Civil War ended in 1949 with the Communist Party in control of most of mainland China, and the Kuomintang retreating offshore, reducing the ROC's territory to only Taiwan, Hainan, and their surrounding islands."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "taiwan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "People's Republic of China (1949\u2013present)\n\nMajor combat in the Chinese Civil War ended in 1949 with the Communist Party in control of most of mainland China, and the Kuomintang retreating offshore, reducing the ROC's territory to only Taiwan, Hainan, and their surrounding islands."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "hainan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1950, the People's Liberation Army succeeded in capturing Hainan from the ROC and incorporating Tibet."
+            ],
+            "arguments": {
+                "1": "hainan",
+                "2": "roc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1950, the People's Liberation Army succeeded in capturing Hainan from the ROC and incorporating Tibet."
+            ],
+            "arguments": {
+                "1": "hainan",
+                "2": "tibet"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1950, the People's Liberation Army succeeded in capturing Hainan from the ROC and incorporating Tibet."
+            ],
+            "arguments": {
+                "1": "roc",
+                "2": "tibet"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In modern US history studies, the founding of PRC China is often termed as \"the loss of China\" as reflected in US state policy documents of the time, which thinkers such as Noam Chomsky call the beginning of McCarthyism."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "prc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In modern US history studies, the founding of PRC China is often termed as \"the loss of China\" as reflected in US state policy documents of the time, which thinkers such as Noam Chomsky call the beginning of McCarthyism."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In modern US history studies, the founding of PRC China is often termed as \"the loss of China\" as reflected in US state policy documents of the time, which thinkers such as Noam Chomsky call the beginning of McCarthyism."
+            ],
+            "arguments": {
+                "1": "prc",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China's coastline along the Pacific Ocean is 14,500 kilometers (9,000 mi) long and is bounded by the Bohai, Yellow, East China and South China seas."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "bohai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China's coastline along the Pacific Ocean is 14,500 kilometers (9,000 mi) long and is bounded by the Bohai, Yellow, East China and South China seas."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "yellow"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China's coastline along the Pacific Ocean is 14,500 kilometers (9,000 mi) long and is bounded by the Bohai, Yellow, East China and South China seas."
+            ],
+            "arguments": {
+                "1": "bohai",
+                "2": "yellow"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Although barrier tree lines planted since the 1970s have reduced the frequency of sandstorms, prolonged drought and poor agricultural practices have resulted in dust storms plaguing northern China each spring, which then spread to other parts of east Asia, including Korea and Japan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Although barrier tree lines planted since the 1970s have reduced the frequency of sandstorms, prolonged drought and poor agricultural practices have resulted in dust storms plaguing northern China each spring, which then spread to other parts of east Asia, including Korea and Japan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Although barrier tree lines planted since the 1970s have reduced the frequency of sandstorms, prolonged drought and poor agricultural practices have resulted in dust storms plaguing northern China each spring, which then spread to other parts of east Asia, including Korea and Japan."
+            ],
+            "arguments": {
+                "1": "korea",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tropical and seasonal rainforests, though confined to Yunnan and Hainan Island, contain a quarter of all the animal and plant species found in China."
+            ],
+            "arguments": {
+                "1": "yunnan",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tropical and seasonal rainforests, though confined to Yunnan and Hainan Island, contain a quarter of all the animal and plant species found in China."
+            ],
+            "arguments": {
+                "1": "hainan island",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Political geography\n\nThe People's Republic of China is the second-largest country in the world by land area after Russia, and is either the third- or fourth-largest by total area, after Russia, Canada and, depending on the definition of total area, the United States."
+            ],
+            "arguments": {
+                "1": "the people's republic of china",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Political geography\n\nThe People's Republic of China is the second-largest country in the world by land area after Russia, and is either the third- or fourth-largest by total area, after Russia, Canada and, depending on the definition of total area, the United States."
+            ],
+            "arguments": {
+                "1": "the people's republic of china",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Political geography\n\nThe People's Republic of China is the second-largest country in the world by land area after Russia, and is either the third- or fourth-largest by total area, after Russia, Canada and, depending on the definition of total area, the United States."
+            ],
+            "arguments": {
+                "1": "the people's republic of china",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Political geography\n\nThe People's Republic of China is the second-largest country in the world by land area after Russia, and is either the third- or fourth-largest by total area, after Russia, Canada and, depending on the definition of total area, the United States."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Political geography\n\nThe People's Republic of China is the second-largest country in the world by land area after Russia, and is either the third- or fourth-largest by total area, after Russia, Canada and, depending on the definition of total area, the United States."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Political geography\n\nThe People's Republic of China is the second-largest country in the world by land area after Russia, and is either the third- or fourth-largest by total area, after Russia, Canada and, depending on the definition of total area, the United States."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China extends across much of East Asia, bordering Vietnam, Laos, and Myanmar (Burma) in Southeast Asia; India, Bhutan, Nepal, Afghanistan, and Pakistan in South Asia; Tajikistan, Kyrgyzstan and Kazakhstan in Central Asia; and Russia, Mongolia, and North Korea in Inner Asia and Northeast Asia."
+            ],
+            "arguments": {
+                "1": "pakistan",
+                "2": "tajikistan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China extends across much of East Asia, bordering Vietnam, Laos, and Myanmar (Burma) in Southeast Asia; India, Bhutan, Nepal, Afghanistan, and Pakistan in South Asia; Tajikistan, Kyrgyzstan and Kazakhstan in Central Asia; and Russia, Mongolia, and North Korea in Inner Asia and Northeast Asia."
+            ],
+            "arguments": {
+                "1": "pakistan",
+                "2": "north korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China extends across much of East Asia, bordering Vietnam, Laos, and Myanmar (Burma) in Southeast Asia; India, Bhutan, Nepal, Afghanistan, and Pakistan in South Asia; Tajikistan, Kyrgyzstan and Kazakhstan in Central Asia; and Russia, Mongolia, and North Korea in Inner Asia and Northeast Asia."
+            ],
+            "arguments": {
+                "1": "tajikistan",
+                "2": "north korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China extends across much of East Asia, bordering Vietnam, Laos, and Myanmar (Burma) in Southeast Asia; India, Bhutan, Nepal, Afghanistan, and Pakistan in South Asia; Tajikistan, Kyrgyzstan and Kazakhstan in Central Asia; and Russia, Mongolia, and North Korea in Inner Asia and Northeast Asia."
+            ],
+            "arguments": {
+                "1": "kazakhstan",
+                "2": "north korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "These 31 provincial-level divisions can be collectively referred to as \"mainland China\", a term which usually excludes two SARs of Hong Kong and Macau."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "hong kong"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "These 31 provincial-level divisions can be collectively referred to as \"mainland China\", a term which usually excludes two SARs of Hong Kong and Macau."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "macau"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1971, the PRC replaced the Republic of China as the sole representative of China in the United Nations and as one of the five permanent members of the United Nations Security Council."
+            ],
+            "arguments": {
+                "1": "prc",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1971, the PRC replaced the Republic of China as the sole representative of China in the United Nations and as one of the five permanent members of the United Nations Security Council."
+            ],
+            "arguments": {
+                "1": "the republic of china",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "brazil",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "brazil",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "brazil",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "brazil",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "brazil",
+                "2": "sanya"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "brazil",
+                "2": "hainan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "sanya"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "hainan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "sanya"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "hainan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "south africa",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "south africa",
+                "2": "sanya"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "south africa",
+                "2": "hainan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "sanya"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "hainan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "sanya",
+                "2": "hainan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Under its interpretation of the One-China policy, Beijing has made it a precondition to establishing diplomatic relations that the other country acknowledges its claim to Taiwan and severs official ties with the government of the Republic of China."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "beijing"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Under its interpretation of the One-China policy, Beijing has made it a precondition to establishing diplomatic relations that the other country acknowledges its claim to Taiwan and severs official ties with the government of the Republic of China."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "taiwan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Under its interpretation of the One-China policy, Beijing has made it a precondition to establishing diplomatic relations that the other country acknowledges its claim to Taiwan and severs official ties with the government of the Republic of China."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "the republic of china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Under its interpretation of the One-China policy, Beijing has made it a precondition to establishing diplomatic relations that the other country acknowledges its claim to Taiwan and severs official ties with the government of the Republic of China."
+            ],
+            "arguments": {
+                "1": "beijing",
+                "2": "the republic of china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Under its interpretation of the One-China policy, Beijing has made it a precondition to establishing diplomatic relations that the other country acknowledges its claim to Taiwan and severs official ties with the government of the Republic of China."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "the republic of china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China is also a founding member of the Shanghai Cooperation Organization (SCO), along with Russia and the Central Asian republics."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has furthermore strengthened its ties with major South American economies, becoming the largest trading partner of Brazil and building strategic links with Argentina."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "brazil"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has furthermore strengthened its ties with major South American economies, becoming the largest trading partner of Brazil and building strategic links with Argentina."
+            ],
+            "arguments": {
+                "1": "brazil",
+                "2": "argentina"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "taiwan province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "kinmen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "matsu"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "fujian province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "roc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "hainan province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "guangdong province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "taiwan province",
+                "2": "fujian province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "kinmen",
+                "2": "fujian province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "matsu",
+                "2": "fujian province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "fujian province",
+                "2": "roc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "fujian province",
+                "2": "hainan province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "fujian province",
+                "2": "guangdong province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It regards the island of Taiwan as its Taiwan Province, Kinmen and Matsu as a part of Fujian Province and islands the ROC controls in the South China Sea as a part of Hainan Province and Guangdong Province."
+            ],
+            "arguments": {
+                "1": "roc",
+                "2": "hainan province"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "These claims are controversial because of the complicated Cross-Strait relations, with the PRC treating the One-China policy as one of its most important diplomatic principles."
+            ],
+            "arguments": {
+                "1": "prc",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition to Taiwan, China is also involved in other international territorial disputes."
+            ],
+            "arguments": {
+                "1": "taiwan",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Since the 1990s, China has been involved in negotiations to resolve its disputed land borders, including a disputed border with India and an undefined border with Bhutan."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "bhutan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On 21 May 2014 Xi Jinping, speaking at a conference in Shanghai, pledged to settle China's territorial disputes peacefully."
+            ],
+            "arguments": {
+                "1": "shanghai",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Others, however, warn that economic bubbles and demographic imbalances could slow or even halt China's growth as the century progresses.Some authors also question the definition of \"superpower\", arguing that China's large economy alone would not qualify it as a superpower, and noting that it lacks the military power and cultural influence of the United States."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chinese state is regularly accused of large-scale repression and human rights abuses in Tibet and Xinjiang, including violent police crackdowns and religious suppression."
+            ],
+            "arguments": {
+                "1": "tibet",
+                "2": "xinjiang"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Air and Sea denial weaponry advances have increased the regional threat from the perspective of Japan as well as Washington."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Chinese officials stated that spending on the military will rise to U.S. $173B in 2018. fox\n\nIn August 2018, China tested its first hypersonic flight."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China is also second only to the United States in venture capital activity and is home to a large number of unicorn startup companies."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China is a major owner of US public debt, holding trillions of dollars worth of U.S. Treasury bonds."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "To achieve those ends, China took a series of actions to further the internationalization of the Renminbi."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "renminbi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "singapore"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "the united kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "singapore"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "the united kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "australia",
+                "2": "singapore"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "australia",
+                "2": "the united kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "australia",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "singapore",
+                "2": "the united kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "singapore",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was followed with bilateral agreements to settle trades directly in renminbi with Russia, Japan, Australia, Singapore, the United Kingdom, and Canada."
+            ],
+            "arguments": {
+                "1": "the united kingdom",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2017, China was #2 in international patents application, behind the US but ahead of Japan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2017, China was #2 in international patents application, behind the US but ahead of Japan."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2016, there were 4.7 million STEM (Science, Technology, Engineering and Mathematics) graduates in China, which was more than eight times the corresponding number for the US."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of early 2019, the average mobile connection speed in China was 30 Mbit/s (megabits per second), which is 9% slower than the US."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China Mobile, China Unicom and China Telecom, are the three large providers of mobile and internet in China."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "mobile"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The network includes the Beijing\u2013Guangzhou\u2013Shenzhen High-Speed Railway, the single longest HSR line in the world, and the Beijing\u2013Shanghai High-Speed Railway, which has three of longest railroad bridges in the world."
+            ],
+            "arguments": {
+                "1": "beijing",
+                "2": "guangzhou"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Shanghai Metro, Beijing Subway, Guangzhou Metro, Hong Kong MTR and Shenzhen Metro are among the longest and busiest in the world."
+            ],
+            "arguments": {
+                "1": "guangzhou metro",
+                "2": "hong kong"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Han Chinese \u2013 the world's largest single ethnic group \u2013 outnumber other ethnic groups in every provincial-level division except Tibet and Xinjiang."
+            ],
+            "arguments": {
+                "1": "tibet",
+                "2": "xinjiang"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other ethnic minority languages in southwest China include Zhuang, Thai, Dong and Sui of the Tai-Kadai family, Miao and Yao of the Hmong\u2013Mien family, and Wa of the Austroasiatic family."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "zhuang"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other ethnic minority languages in southwest China include Zhuang, Thai, Dong and Sui of the Tai-Kadai family, Miao and Yao of the Hmong\u2013Mien family, and Wa of the Austroasiatic family."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "thai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Standard Mandarin, a variety of Mandarin based on the Beijing dialect, is the official national language of China and is used as a lingua franca in the country between people of different linguistic backgrounds."
+            ],
+            "arguments": {
+                "1": "beijing",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Mongolian script used in China and the Manchu script are both derived from the Old Uyghur alphabet."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "manchu"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "chongqing"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "shanghai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "beijing"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "guangzhou"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "tianjin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "shenzhen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "wuhan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Gaokao, China's national university entrance exam, is a prerequisite for entrance into most higher education institutions."
+            ],
+            "arguments": {
+                "1": "gaokao",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the annual education expenditure per secondary school student in Beijing totalled \u00a520,023, while in Guizhou, one of the poorest provinces in China, only totalled \u00a53,204."
+            ],
+            "arguments": {
+                "1": "beijing",
+                "2": "guizhou"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the annual education expenditure per secondary school student in Beijing totalled \u00a520,023, while in Guizhou, one of the poorest provinces in China, only totalled \u00a53,204."
+            ],
+            "arguments": {
+                "1": "beijing",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the annual education expenditure per secondary school student in Beijing totalled \u00a520,023, while in Guizhou, one of the poorest provinces in China, only totalled \u00a53,204."
+            ],
+            "arguments": {
+                "1": "guizhou",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China is home to many of the world's tallest religious statues, including the tallest of all, the Spring Temple Buddha in Henan."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "henan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "sichuan",
+                "2": "jiangsu"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "sichuan",
+                "2": "shandong"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "sichuan",
+                "2": "fujian"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "sichuan",
+                "2": "hunan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "sichuan",
+                "2": "anhui"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "sichuan",
+                "2": "zhejiang"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "jiangsu",
+                "2": "shandong"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "jiangsu",
+                "2": "fujian"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "jiangsu",
+                "2": "hunan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "jiangsu",
+                "2": "anhui"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "jiangsu",
+                "2": "zhejiang"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "shandong",
+                "2": "fujian"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "shandong",
+                "2": "hunan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "shandong",
+                "2": "anhui"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "shandong",
+                "2": "zhejiang"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "fujian",
+                "2": "hunan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "fujian",
+                "2": "anhui"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "fujian",
+                "2": "zhejiang"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "hunan",
+                "2": "anhui"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "hunan",
+                "2": "zhejiang"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cuisine\n\nChinese cuisine is highly diverse, drawing on several millennia of culinary history and geographical variety, in which the most influential are known as the \"Eight Major Cuisines\", including Sichuan, Cantonese, Jiangsu, Shandong, Fujian, Hunan, Anhui, and Zhejiang cuisines."
+            ],
+            "arguments": {
+                "1": "anhui",
+                "2": "zhejiang"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China hosted the 2008 Summer Olympics in Beijing, where its athletes received 51 gold medals \u2013 the highest number of gold medals of any participating nation that year."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "beijing"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2011, Shenzhen in Guangdong, China hosted the 2011 Summer Universiade."
+            ],
+            "arguments": {
+                "1": "shenzhen",
+                "2": "guangdong"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2011, Shenzhen in Guangdong, China hosted the 2011 Summer Universiade."
+            ],
+            "arguments": {
+                "1": "guangdong",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China hosted the 2013 East Asian Games in Tianjin and the 2014 Summer Youth Olympics in Nanjing."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "tianjin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China hosted the 2013 East Asian Games in Tianjin and the 2014 Summer Youth Olympics in Nanjing."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "nanjing"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China hosted the 2013 East Asian Games in Tianjin and the 2014 Summer Youth Olympics in Nanjing."
+            ],
+            "arguments": {
+                "1": "tianjin",
+                "2": "nanjing"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Beijing and its nearby city Zhangjiakou of Hebei province will also collaboratively host the 2022 Olympic Winter Games, which will make Beijing the first city in the world to hold both the Summer Olympics and the Winter Olympics."
+            ],
+            "arguments": {
+                "1": "beijing",
+                "2": "hebei"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Beijing and its nearby city Zhangjiakou of Hebei province will also collaboratively host the 2022 Olympic Winter Games, which will make Beijing the first city in the world to hold both the Summer Olympics and the Winter Olympics."
+            ],
+            "arguments": {
+                "1": "zhangjiakou",
+                "2": "hebei"
+            }
+        }
+    ]
+}{
+    "document": "China.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "Since 2010, China has been the world's second-largest economy by nominal GDP and since 2014, the largest economy in the world by purchasing power parity (PPP)."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "PPP",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "China has made significant progress in modernising its air force in recent decades, purchasing Russian fighter jets such as the Sukhoi Su-30, and also manufacturing its own modern fighters, most notably the Chengdu J-10, J-20 and the Shenyang J-11, J-15, J-16, and"
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "Russian fighter jets",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In addition, China has developed or acquired numerous advanced missile systems, including anti-satellite missiles, cruise missiles and submarine-launched nuclear ICBMs."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "numerous advanced missile systems",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "China is the leader in electric vehicles, manufacturing and buying half of all the plug-in electric cars (BEV and PHEV) in the world in 2018."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "half",
+                "3": "",
+                "4": "",
+                "5": ")"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In terms of purchasing power parity (PPP) GDP, China's economy has been the largest in the world since 2014, according to the World Bank."
+            ],
+            "arguments": {
+                "1": "",
+                "2": "power parity",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2017, China bought 36% of all the new industrial robots in the world."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "36%",
+                "3": "",
+                "4": "",
+                "5": "the world"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In just five years -- from 2013 to 2018 -- China bought 1000 planes from Boeing."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "1000 planes",
+                "3": "",
+                "4": "",
+                "5": "Boeing"
+            }
+        }
+    ]
+}{
+    "document": "China.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "The incumbent president is Xi Jinping, who is also the General Secretary of the Communist Party of China and the Chairman of the Central Military Commission, making him China's paramount leader."
+            ],
+            "arguments": {
+                "1": "Jinping",
+                "2": "Commission",
+                "3": "leader",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1971, the PRC replaced the Republic of China as the sole representative of China in the United Nations and as one of the five permanent members of the United Nations Security Council."
+            ],
+            "arguments": {
+                "1": "PRC",
+                "2": "Council",
+                "3": "representative",
+                "4": "China"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "China was also a former member and leader of the Non-Aligned Movement, and still considers itself an advocate for developing countries."
+            ],
+            "arguments": {
+                "1": "itself",
+                "2": "Movement",
+                "3": "leader",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "China is the leader in electric vehicles, manufacturing and buying half of all the plug-in electric cars (BEV and PHEV) in the world in 2018."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "PHEV",
+                "3": "leader",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 2018, Huawei became the largest telecom infrastructure provider and also took the #2 spot from Apple as a smartphone vendor."
+            ],
+            "arguments": {
+                "1": "Huawei",
+                "2": "Apple",
+                "3": "vendor",
+                "4": ""
+            }
+        }
+    ]
+}

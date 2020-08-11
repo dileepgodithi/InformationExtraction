@@ -1,0 +1,578 @@
+{
+    "document": "LaurenePowellJobs.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Powell Jobs resides in Palo Alto, California, with her three children."
+            ],
+            "arguments": {
+                "1": "palo alto",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life and career\n\nPowell Jobs grew up in West Milford, New Jersey."
+            ],
+            "arguments": {
+                "1": "west milford",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Personal life after Steve Jobs's death\n\nShe is reportedly in a romantic relationship with former Washington, D.C. mayor Adrian Fenty."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "east palo alto",
+                "2": "sacramento"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "east palo alto",
+                "2": "san francisco"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "east palo alto",
+                "2": "oakland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "east palo alto",
+                "2": "new orleans"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "east palo alto",
+                "2": "aurora"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "east palo alto",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "east palo alto",
+                "2": "denver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "east palo alto",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "east palo alto",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "sacramento",
+                "2": "san francisco"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "sacramento",
+                "2": "oakland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "sacramento",
+                "2": "new orleans"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "sacramento",
+                "2": "aurora"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "sacramento",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "sacramento",
+                "2": "denver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "sacramento",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "sacramento",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "san francisco",
+                "2": "oakland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "san francisco",
+                "2": "new orleans"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "san francisco",
+                "2": "aurora"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "san francisco",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "san francisco",
+                "2": "denver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "san francisco",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "san francisco",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "oakland",
+                "2": "new orleans"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "oakland",
+                "2": "aurora"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "oakland",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "oakland",
+                "2": "denver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "oakland",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "oakland",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "new orleans",
+                "2": "aurora"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "new orleans",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "new orleans",
+                "2": "denver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "new orleans",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "new orleans",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "aurora",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "aurora",
+                "2": "denver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "aurora",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "aurora",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "denver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "denver",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "denver",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On July 28, 2017, Powell Jobs' organization Emerson Collective (based in Palo Alto, California) acquired majority ownership of The Atlantic."
+            ],
+            "arguments": {
+                "1": "palo alto",
+                "2": "california"
+            }
+        }
+    ]
+}{
+    "document": "LaurenePowellJobs.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "On October 3, 2017, reports indicated Powell Jobs had purchased stake in the ownership group Monumental Sports & Entertainment that includes the NBA's Washington Wizards, NHL's Washington Capitals, and Capital One Arena."
+            ],
+            "arguments": {
+                "1": "Powell Jobs",
+                "2": "stake",
+                "3": "",
+                "4": "",
+                "5": "Entertainment"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In May 2018, she bought a property in San Francisco that had been listed for 16.5 million USD, on Russian Hill.\n"
+            ],
+            "arguments": {
+                "1": "she",
+                "2": "a property",
+                "3": "16.5 million USD",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On July 28, 2017, Powell Jobs' organization Emerson Collective (based in Palo Alto, California) acquired majority ownership of The Atlantic.\n\n"
+            ],
+            "arguments": {
+                "1": "Powell Jobs' organization Emerson Collective",
+                "2": "majority ownership",
+                "3": "",
+                "4": "",
+                "5": "The Atlantic"
+            }
+        }
+    ]
+}{
+    "document": "LaurenePowellJobs.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Powell Jobs (born November 6, 1963) is an American businesswoman, executive and the founder of Emerson Collective, a social impact organization that, among other investing and philanthropic activities, advocates for policies concerning education and immigration reform, social justice and environmental conservation."
+            ],
+            "arguments": {
+                "1": "that",
+                "2": "Collective",
+                "3": "businesswoman; founder",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "She is also co-founder and president of the board of College Track, which prepares disadvantaged high school students for college."
+            ],
+            "arguments": {
+                "1": "which",
+                "2": "Track",
+                "3": "founder; president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Before business school, Powell Jobs worked for Merrill Lynch Asset Management and spent three years at Goldman Sachs as a fixed-income trading strategist.\n\n"
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "Sachs",
+                "3": "strategist",
+                "4": ""
+            }
+        }
+    ]
+}

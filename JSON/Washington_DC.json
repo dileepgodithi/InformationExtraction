@@ -1,0 +1,1288 @@
+{
+    "document": "Washington_DC.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., formally the District of Columbia and commonly referred to as Washington or D.C., is the capital of the United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., formally the District of Columbia and commonly referred to as Washington or D.C., is the capital of the United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., formally the District of Columbia and commonly referred to as Washington or D.C., is the capital of the United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., formally the District of Columbia and commonly referred to as Washington or D.C., is the capital of the United States."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., formally the District of Columbia and commonly referred to as Washington or D.C., is the capital of the United States."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., formally the District of Columbia and commonly referred to as Washington or D.C., is the capital of the United States."
+            ],
+            "arguments": {
+                "1": "the district of columbia",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Founded after the American Revolution as the seat of government of the newly independent country, Washington was named after George Washington, first President of the United States and Founding Father."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Founded after the American Revolution as the seat of government of the newly independent country, Washington was named after George Washington, first President of the United States and Founding Father."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "founding"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As the seat of the United States federal government and several international organizations, Washington is an important world political capital."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The states of Maryland and Virginia each donated land to form the federal district, which included the pre-existing settlements of Georgetown and Alexandria."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "georgetown"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The states of Maryland and Virginia each donated land to form the federal district, which included the pre-existing settlements of Georgetown and Alexandria."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "georgetown"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington had an estimated population of 702,455 as of July 2018, making it the 20th most populous city in the United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Two pre-existing settlements were included in the territory: the port of Georgetown, Maryland, founded in 1751, and the city of Alexandria, Virginia, founded in 1749."
+            ],
+            "arguments": {
+                "1": "georgetown",
+                "2": "alexandria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Two pre-existing settlements were included in the territory: the port of Georgetown, Maryland, founded in 1751, and the city of Alexandria, Virginia, founded in 1749."
+            ],
+            "arguments": {
+                "1": "georgetown",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Two pre-existing settlements were included in the territory: the port of Georgetown, Maryland, founded in 1751, and the city of Alexandria, Virginia, founded in 1749."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "alexandria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Two pre-existing settlements were included in the territory: the port of Georgetown, Maryland, founded in 1751, and the city of Alexandria, Virginia, founded in 1749."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Further, the unincorporated area within the District was organized into two counties: the County of Washington to the east of the Potomac and the County of Alexandria to the west."
+            ],
+            "arguments": {
+                "1": "the county of washington",
+                "2": "the county of alexandria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The city of Alexandria was a major market in the American slave trade, and pro-slavery residents feared that abolitionists in Congress would end slavery in the District, further depressing the economy."
+            ],
+            "arguments": {
+                "1": "alexandria",
+                "2": "district"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Congress passed the Organic Act of 1871, which repealed the individual charters of the cities of Washington and Georgetown, and created a new territorial government for the whole District of Columbia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Congress passed the Organic Act of 1871, which repealed the individual charters of the cities of Washington and Georgetown, and created a new territorial government for the whole District of Columbia."
+            ],
+            "arguments": {
+                "1": "georgetown",
+                "2": "district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\n\nWashington, D.C. is located in the mid-Atlantic region of the U.S. East Coast."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\n\nWashington, D.C. is located in the mid-Atlantic region of the U.S. East Coast."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chesapeake and Ohio Canal starts in Georgetown and was used during the 19th century to bypass the Little Falls of the Potomac River, located at the northwest edge of Washington at the Atlantic Seaboard fall line."
+            ],
+            "arguments": {
+                "1": "ohio",
+                "2": "georgetown"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chesapeake and Ohio Canal starts in Georgetown and was used during the 19th century to bypass the Little Falls of the Potomac River, located at the northwest edge of Washington at the Atlantic Seaboard fall line."
+            ],
+            "arguments": {
+                "1": "ohio",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Chesapeake and Ohio Canal starts in Georgetown and was used during the 19th century to bypass the Little Falls of the Potomac River, located at the northwest edge of Washington at the Atlantic Seaboard fall line."
+            ],
+            "arguments": {
+                "1": "georgetown",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The District has 7,464 acres (30.21 km2) of parkland, about 19% of the city's total area and the second-highest percentage among high-density U.S. cities."
+            ],
+            "arguments": {
+                "1": "district",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This factor contributed to Washington, D.C., being ranked as third in the nation for park access and quality in the 2018 ParkScore ranking of the park systems of the 100 most populous cities in the United States, according to the nonprofit Trust for Public Land."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This factor contributed to Washington, D.C., being ranked as third in the nation for park access and quality in the 2018 ParkScore ranking of the park systems of the 100 most populous cities in the United States, according to the nonprofit Trust for Public Land."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cityscape\n\nWashington, D.C. is a planned city."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Despite popular belief, no law has ever limited buildings to the height of the United States Capitol Building or the 555-foot (169 m) Washington Monument, which remains the District's tallest structure."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "district"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "About 17% of D.C. residents were age 18 or younger in 2010; lower than the U.S. average of 24%."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Of the District's population, 17% is Baptist, 13% is Catholic, 6% is evangelical Protestant, 4% is Methodist, 3% is Episcopalian/Anglican, 3% is Jewish, 2% is Eastern Orthodox, 1% is Pentecostal, 1% is Buddhist, 1% is Adventist, 1% is Lutheran, 1% is Muslim, 1% is Presbyterian, 1% is Mormon, and 1% is Hindu."
+            ],
+            "arguments": {
+                "1": "baptist",
+                "2": "pentecostal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Crime\n\nCrime in Washington, D.C., is concentrated in areas associated with poverty, drug abuse, and gangs."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The more affluent neighborhoods of Northwest Washington are typically safe, especially in areas with concentrations of government operations, such as Downtown Washington, D.C., Foggy Bottom, Embassy Row, and Penn Quarter, but reports of violent crime increase in poorer neighborhoods generally concentrated in the eastern portion of the city."
+            ],
+            "arguments": {
+                "1": "downtown washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington was once described as the \"murder capital\" of the United States during the early 1990s."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On June 26, 2008, the Supreme Court of the United States held in District of Columbia v. Heller that the city's 1976 handgun ban violated the right to keep and bear arms as protected under the Second Amendment."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Between 2009 and 2016, GDP per capita in Washington has consistently ranked on the very top among U.S. states."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In December 2017, 25% of the employees in Washington, D.C., were employed by a federal governmental agency."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Many organizations such as law firms, defense contractors, civilian contractors, nonprofit organizations, lobbying firms, trade unions, industry trade groups, and professional associations have their headquarters in or near Washington, D.C., in order to be close to the federal government."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the 2017 Global Financial Centres Index, Washington was ranked as having the 12th most competitive financial center in the world, and fifth most competitive in the United States (after New York City, San Francisco, Chicago, and Boston)."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the 2017 Global Financial Centres Index, Washington was ranked as having the 12th most competitive financial center in the world, and fifth most competitive in the United States (after New York City, San Francisco, Chicago, and Boston)."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the 2017 Global Financial Centres Index, Washington was ranked as having the 12th most competitive financial center in the world, and fifth most competitive in the United States (after New York City, San Francisco, Chicago, and Boston)."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "san francisco"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the 2017 Global Financial Centres Index, Washington was ranked as having the 12th most competitive financial center in the world, and fifth most competitive in the United States (after New York City, San Francisco, Chicago, and Boston)."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the 2017 Global Financial Centres Index, Washington was ranked as having the 12th most competitive financial center in the world, and fifth most competitive in the United States (after New York City, San Francisco, Chicago, and Boston)."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "boston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Culture\nLandmarks\n\nThe National Mall is a large, open park in downtown Washington between the Lincoln Memorial and the United States Capitol."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states capitol"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Museums\n\nThe Smithsonian Institution is an educational foundation chartered by Congress in 1846 that maintains most of the nation's official museums and galleries in Washington, D.C."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other Smithsonian museums and galleries include: the Anacostia Community Museum in Southeast Washington; the National Postal Museum near Union Station; and the National Zoo in Woodley Park."
+            ],
+            "arguments": {
+                "1": "southeast washington",
+                "2": "woodley park"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are many private art museums in the District of Columbia, which house major collections and exhibits open to the public such as the National Museum of Women in the Arts and The Phillips Collection in Dupont Circle, the first museum of modern art in the United States."
+            ],
+            "arguments": {
+                "1": "the district of columbia",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Arts\n\nWashington, D.C., is a national center for the arts."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The U Street Corridor in Northwest D.C., known as \"Washington's Black Broadway\", is home to institutions like the Howard Theatre, Bohemian Caverns, and the Lincoln Theatre, which hosted music legends such as Washington-native Duke Ellington, John Coltrane, and Miles Davis."
+            ],
+            "arguments": {
+                "1": "northwest d.c.",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sports\n\nWashington is one of 13 cities in the United States with teams from all four major professional men's sports and is home to one major professional women's team."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Washington Redskins (National Football League) play at FedExField in nearby Landover, Maryland."
+            ],
+            "arguments": {
+                "1": "landover",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The D.C. area is home to one regional sports television network, Comcast SportsNet (CSN), based in Bethesda, Maryland."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "bethesda"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The D.C. area is home to one regional sports television network, Comcast SportsNet (CSN), based in Bethesda, Maryland."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The D.C. area is home to one regional sports television network, Comcast SportsNet (CSN), based in Bethesda, Maryland."
+            ],
+            "arguments": {
+                "1": "bethesda",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Media\n\nWashington, D.C., is a prominent center for national and international media."
+            ],
+            "arguments": {
+                "1": "media",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Media\n\nWashington, D.C., is a prominent center for national and international media."
+            ],
+            "arguments": {
+                "1": "media",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Media\n\nWashington, D.C., is a prominent center for national and international media."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have their headquarters in the area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "chevy chase",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have their headquarters in the area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "chevy chase",
+                "2": "silver spring"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have their headquarters in the area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "chevy chase",
+                "2": "arlington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have their headquarters in the area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "chevy chase",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have their headquarters in the area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "silver spring"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have their headquarters in the area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "arlington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have their headquarters in the area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have their headquarters in the area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "silver spring",
+                "2": "arlington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have their headquarters in the area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "silver spring",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have their headquarters in the area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "arlington",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The headquarters of Voice of America, the U.S. government's international news service, is near the Capitol in Southwest Washington."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "southwest washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., observes all federal holidays and also celebrates Emancipation Day on April 16, which commemorates the end of slavery in the District."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "district"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., observes all federal holidays and also celebrates Emancipation Day on April 16, which commemorates the end of slavery in the District."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "district"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The flag of Washington, D.C., was adopted in 1938 and is a variation on George Washington's family coat of arms."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C. is overwhelmingly Democratic, having voted for the Democratic candidate solidly since 1964."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Assisted suicide is also permitted in the district, with a bill legalizing the practice being introduced in 2015, signed by mayor Muriel Bowser in 2016 and going into effect in 2017, making Washington, D.C. the seventh jurisdiction in the United States to have legalized assisted suicide, along with Washington, Oregon, California, Colorado, Hawaii, Montana and Vermont."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Assisted suicide is also permitted in the district, with a bill legalizing the practice being introduced in 2015, signed by mayor Muriel Bowser in 2016 and going into effect in 2017, making Washington, D.C. the seventh jurisdiction in the United States to have legalized assisted suicide, along with Washington, Oregon, California, Colorado, Hawaii, Montana and Vermont."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Assisted suicide is also permitted in the district, with a bill legalizing the practice being introduced in 2015, signed by mayor Muriel Bowser in 2016 and going into effect in 2017, making Washington, D.C. the seventh jurisdiction in the United States to have legalized assisted suicide, along with Washington, Oregon, California, Colorado, Hawaii, Montana and Vermont."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Assisted suicide is also permitted in the district, with a bill legalizing the practice being introduced in 2015, signed by mayor Muriel Bowser in 2016 and going into effect in 2017, making Washington, D.C. the seventh jurisdiction in the United States to have legalized assisted suicide, along with Washington, Oregon, California, Colorado, Hawaii, Montana and Vermont."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Assisted suicide is also permitted in the district, with a bill legalizing the practice being introduced in 2015, signed by mayor Muriel Bowser in 2016 and going into effect in 2017, making Washington, D.C. the seventh jurisdiction in the United States to have legalized assisted suicide, along with Washington, Oregon, California, Colorado, Hawaii, Montana and Vermont."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Assisted suicide is also permitted in the district, with a bill legalizing the practice being introduced in 2015, signed by mayor Muriel Bowser in 2016 and going into effect in 2017, making Washington, D.C. the seventh jurisdiction in the United States to have legalized assisted suicide, along with Washington, Oregon, California, Colorado, Hawaii, Montana and Vermont."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "hawaii"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Assisted suicide is also permitted in the district, with a bill legalizing the practice being introduced in 2015, signed by mayor Muriel Bowser in 2016 and going into effect in 2017, making Washington, D.C. the seventh jurisdiction in the United States to have legalized assisted suicide, along with Washington, Oregon, California, Colorado, Hawaii, Montana and Vermont."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "montana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Assisted suicide is also permitted in the district, with a bill legalizing the practice being introduced in 2015, signed by mayor Muriel Bowser in 2016 and going into effect in 2017, making Washington, D.C. the seventh jurisdiction in the United States to have legalized assisted suicide, along with Washington, Oregon, California, Colorado, Hawaii, Montana and Vermont."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "vermont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Unlike residents of U.S. territories such as Puerto Rico or Guam, which also have non-voting delegates, D.C., residents are subject to all federal taxes."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "puerto rico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Unlike residents of U.S. territories such as Puerto Rico or Guam, which also have non-voting delegates, D.C., residents are subject to all federal taxes."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Unlike residents of U.S. territories such as Puerto Rico or Guam, which also have non-voting delegates, D.C., residents are subject to all federal taxes."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Unlike residents of U.S. territories such as Puerto Rico or Guam, which also have non-voting delegates, D.C., residents are subject to all federal taxes."
+            ],
+            "arguments": {
+                "1": "puerto rico",
+                "2": "guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Unlike residents of U.S. territories such as Puerto Rico or Guam, which also have non-voting delegates, D.C., residents are subject to all federal taxes."
+            ],
+            "arguments": {
+                "1": "puerto rico",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Unlike residents of U.S. territories such as Puerto Rico or Guam, which also have non-voting delegates, D.C., residents are subject to all federal taxes."
+            ],
+            "arguments": {
+                "1": "guam",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "District of Columbia Retrocession to Maryland: As Arlington County in 1846 was retroceded to Virginia, proponents believe the rest of the District of Columbia with the exception of a small strip of land around the Capitol and the White House would be given back to Maryland allowing for DC residents to become Maryland residents as they were prior to the Residence Act of 1790."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "District of Columbia Retrocession to Maryland: As Arlington County in 1846 was retroceded to Virginia, proponents believe the rest of the District of Columbia with the exception of a small strip of land around the Capitol and the White House would be given back to Maryland allowing for DC residents to become Maryland residents as they were prior to the Residence Act of 1790."
+            ],
+            "arguments": {
+                "1": "arlington county",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "District of Columbia Retrocession to Maryland: As Arlington County in 1846 was retroceded to Virginia, proponents believe the rest of the District of Columbia with the exception of a small strip of land around the Capitol and the White House would be given back to Maryland allowing for DC residents to become Maryland residents as they were prior to the Residence Act of 1790."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "District of Columbia Retrocession to Maryland: As Arlington County in 1846 was retroceded to Virginia, proponents believe the rest of the District of Columbia with the exception of a small strip of land around the Capitol and the White House would be given back to Maryland allowing for DC residents to become Maryland residents as they were prior to the Residence Act of 1790."
+            ],
+            "arguments": {
+                "1": "the district of columbia",
+                "2": "dc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "District of Columbia Voting Rights Amendment: this option would allow DC residents to vote in Maryland or Virginia for their congressional representatives, with the District of Columbia remaining an independent entity."
+            ],
+            "arguments": {
+                "1": "dc",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "District of Columbia Voting Rights Amendment: this option would allow DC residents to vote in Maryland or Virginia for their congressional representatives, with the District of Columbia remaining an independent entity."
+            ],
+            "arguments": {
+                "1": "dc",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "District of Columbia Voting Rights Amendment: this option would allow DC residents to vote in Maryland or Virginia for their congressional representatives, with the District of Columbia remaining an independent entity."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "District of Columbia Voting Rights Amendment: this option would allow DC residents to vote in Maryland or Virginia for their congressional representatives, with the District of Columbia remaining an independent entity."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "District of Columbia Voting Rights Amendment: this option would allow DC residents to vote in Maryland or Virginia for their congressional representatives, with the District of Columbia remaining an independent entity."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "the district of columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Each of the listed cities is a national capital except for Sunderland, which includes the town of Washington, the ancestral home of George Washington's family."
+            ],
+            "arguments": {
+                "1": "sunderland",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The District is known for its medical research institutions such as Washington Hospital Center and the Children's National Medical Center, as well as the National Institutes of Health in Bethesda, Maryland."
+            ],
+            "arguments": {
+                "1": "bethesda",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ronald Reagan Washington National Airport is across the Potomac River from downtown Washington in Arlington, Virginia and primarily handles domestic flights."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "arlington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ronald Reagan Washington National Airport is across the Potomac River from downtown Washington in Arlington, Virginia and primarily handles domestic flights."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ronald Reagan Washington National Airport is across the Potomac River from downtown Washington in Arlington, Virginia and primarily handles domestic flights."
+            ],
+            "arguments": {
+                "1": "arlington",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major international flights arrive and depart from Washington Dulles International Airport, 26.3 miles (42.3 km) west of the District in Fairfax and Loudoun counties in Virginia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "district"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major international flights arrive and depart from Washington Dulles International Airport, 26.3 miles (42.3 km) west of the District in Fairfax and Loudoun counties in Virginia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "fairfax"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major international flights arrive and depart from Washington Dulles International Airport, 26.3 miles (42.3 km) west of the District in Fairfax and Loudoun counties in Virginia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "loudoun"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major international flights arrive and depart from Washington Dulles International Airport, 26.3 miles (42.3 km) west of the District in Fairfax and Loudoun counties in Virginia."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major international flights arrive and depart from Washington Dulles International Airport, 26.3 miles (42.3 km) west of the District in Fairfax and Loudoun counties in Virginia."
+            ],
+            "arguments": {
+                "1": "district",
+                "2": "fairfax"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major international flights arrive and depart from Washington Dulles International Airport, 26.3 miles (42.3 km) west of the District in Fairfax and Loudoun counties in Virginia."
+            ],
+            "arguments": {
+                "1": "district",
+                "2": "loudoun"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major international flights arrive and depart from Washington Dulles International Airport, 26.3 miles (42.3 km) west of the District in Fairfax and Loudoun counties in Virginia."
+            ],
+            "arguments": {
+                "1": "district",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major international flights arrive and depart from Washington Dulles International Airport, 26.3 miles (42.3 km) west of the District in Fairfax and Loudoun counties in Virginia."
+            ],
+            "arguments": {
+                "1": "fairfax",
+                "2": "loudoun"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major international flights arrive and depart from Washington Dulles International Airport, 26.3 miles (42.3 km) west of the District in Fairfax and Loudoun counties in Virginia."
+            ],
+            "arguments": {
+                "1": "fairfax",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major international flights arrive and depart from Washington Dulles International Airport, 26.3 miles (42.3 km) west of the District in Fairfax and Loudoun counties in Virginia."
+            ],
+            "arguments": {
+                "1": "loudoun",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Baltimore-Washington International Thurgood Marshall Airport is 31.7 miles (51.0 km) northeast of the District in Anne Arundel County, Maryland."
+            ],
+            "arguments": {
+                "1": "baltimore",
+                "2": "district"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Baltimore-Washington International Thurgood Marshall Airport is 31.7 miles (51.0 km) northeast of the District in Anne Arundel County, Maryland."
+            ],
+            "arguments": {
+                "1": "baltimore",
+                "2": "anne arundel county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Baltimore-Washington International Thurgood Marshall Airport is 31.7 miles (51.0 km) northeast of the District in Anne Arundel County, Maryland."
+            ],
+            "arguments": {
+                "1": "baltimore",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Baltimore-Washington International Thurgood Marshall Airport is 31.7 miles (51.0 km) northeast of the District in Anne Arundel County, Maryland."
+            ],
+            "arguments": {
+                "1": "district",
+                "2": "anne arundel county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Baltimore-Washington International Thurgood Marshall Airport is 31.7 miles (51.0 km) northeast of the District in Anne Arundel County, Maryland."
+            ],
+            "arguments": {
+                "1": "district",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Baltimore-Washington International Thurgood Marshall Airport is 31.7 miles (51.0 km) northeast of the District in Anne Arundel County, Maryland."
+            ],
+            "arguments": {
+                "1": "anne arundel county",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "According to a 2010 study, Washington-area commuters spent 70 hours a year in traffic delays, which tied with Chicago for having the nation's worst road congestion."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "WASA or D.C. Water) is an independent authority of the D.C. government that provides drinking water and wastewater collection in Washington."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The water, sourced from the Potomac River, is treated and stored in the city's Dalecarlia, Georgetown, and McMillan reservoirs."
+            ],
+            "arguments": {
+                "1": "dalecarlia",
+                "2": "georgetown"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The aqueduct provides drinking water for a total of 1.1 million people in the District and Virginia, including Arlington, Falls Church, and a portion of Fairfax County."
+            ],
+            "arguments": {
+                "1": "district",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The aqueduct provides drinking water for a total of 1.1 million people in the District and Virginia, including Arlington, Falls Church, and a portion of Fairfax County."
+            ],
+            "arguments": {
+                "1": "district",
+                "2": "fairfax county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The aqueduct provides drinking water for a total of 1.1 million people in the District and Virginia, including Arlington, Falls Church, and a portion of Fairfax County."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "fairfax county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The aqueduct provides drinking water for a total of 1.1 million people in the District and Virginia, including Arlington, Falls Church, and a portion of Fairfax County."
+            ],
+            "arguments": {
+                "1": "arlington",
+                "2": "fairfax county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The authority also provides sewage treatment services for an additional 1.6 million people in four surrounding Maryland and Virginia counties."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "virginia"
+            }
+        }
+    ]
+}{
+    "document": "Washington_DC.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "WASA purchases water from the historic Washington Aqueduct, which is operated by the Army Corps of Engineers."
+            ],
+            "arguments": {
+                "1": "WASA",
+                "2": "water",
+                "3": "",
+                "4": "",
+                "5": "the Army Corps of Engineers"
+            }
+        }
+    ]
+}{
+    "document": "Washington_DC.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "The Act devolved certain Congressional powers to an elected mayor, currently Muriel Bowser, and the thirteen-member Council of the District of Columbia."
+            ],
+            "arguments": {
+                "1": "Act",
+                "2": "Columbia",
+                "3": "mayor",
+                "4": ""
+            }
+        }
+    ]
+}

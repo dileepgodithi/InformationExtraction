@@ -1,0 +1,798 @@
+{
+    "document": "WarrenBuffet.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Buffett was born in Omaha, Nebraska."
+            ],
+            "arguments": {
+                "1": "omaha",
+                "2": "nebraska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life and education\n\nBuffett was born in 1930 in Omaha, Nebraska, the second of three children and the only son of Leila (n\u00e9e Stahl) and Congressman Howard Buffett."
+            ],
+            "arguments": {
+                "1": "omaha",
+                "2": "nebraska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1942, his father was elected to the first of four terms in the United States Congress, and after moving with his family to Washington, D.C., Warren finished elementary school, attended Alice Deal Junior High School and graduated from Woodrow Wilson High School in 1947, where his senior yearbook picture reads: \"likes math; a future stockbroker.\""
+            ],
+            "arguments": {
+                "1": "the united states congress",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1942, his father was elected to the first of four terms in the United States Congress, and after moving with his family to Washington, D.C., Warren finished elementary school, attended Alice Deal Junior High School and graduated from Woodrow Wilson High School in 1947, where his senior yearbook picture reads: \"likes math; a future stockbroker.\""
+            ],
+            "arguments": {
+                "1": "the united states congress",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1942, his father was elected to the first of four terms in the United States Congress, and after moving with his family to Washington, D.C., Warren finished elementary school, attended Alice Deal Junior High School and graduated from Woodrow Wilson High School in 1947, where his senior yearbook picture reads: \"likes math; a future stockbroker.\""
+            ],
+            "arguments": {
+                "1": "the united states congress",
+                "2": "warren"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He began buying shares in Berkshire from Seabury Stanton, the owner, whom he later fired."
+            ],
+            "arguments": {
+                "1": "berkshire",
+                "2": "seabury stanton"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Interim publisher James W. Hopson announced on July 18, 2013 that the Press of Atlantic City would be sold to Buffett's BH Media Group by ABARTA, a private holding company based in Pittsburgh, U.S. At the Berkshire shareholders meeting in May 2013, Buffett explained that he did not expect to \"move the needle\" at Berkshire with newspaper acquisitions, but he anticipates an annual return of 10 percent."
+            ],
+            "arguments": {
+                "1": "pittsburgh",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Press of Atlantic City became Berkshire's 30th daily newspaper, following other purchases such as Virginia, U.S.' Roanoke Times and The Tulsa World in Oklahoma, U.S.\n\nDuring a presentation to Georgetown University students in Washington, D.C. in late September 2013, Buffett compared the U.S. Federal Reserve to a hedge fund and stated that the bank is generating \"$80 billion or $90 billion a year probably\" in revenue for the U.S. government."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Press of Atlantic City became Berkshire's 30th daily newspaper, following other purchases such as Virginia, U.S.' Roanoke Times and The Tulsa World in Oklahoma, U.S.\n\nDuring a presentation to Georgetown University students in Washington, D.C. in late September 2013, Buffett compared the U.S. Federal Reserve to a hedge fund and stated that the bank is generating \"$80 billion or $90 billion a year probably\" in revenue for the U.S. government."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Press of Atlantic City became Berkshire's 30th daily newspaper, following other purchases such as Virginia, U.S.' Roanoke Times and The Tulsa World in Oklahoma, U.S.\n\nDuring a presentation to Georgetown University students in Washington, D.C. in late September 2013, Buffett compared the U.S. Federal Reserve to a hedge fund and stated that the bank is generating \"$80 billion or $90 billion a year probably\" in revenue for the U.S. government."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Press of Atlantic City became Berkshire's 30th daily newspaper, following other purchases such as Virginia, U.S.' Roanoke Times and The Tulsa World in Oklahoma, U.S.\n\nDuring a presentation to Georgetown University students in Washington, D.C. in late September 2013, Buffett compared the U.S. Federal Reserve to a hedge fund and stated that the bank is generating \"$80 billion or $90 billion a year probably\" in revenue for the U.S. government."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Press of Atlantic City became Berkshire's 30th daily newspaper, following other purchases such as Virginia, U.S.' Roanoke Times and The Tulsa World in Oklahoma, U.S.\n\nDuring a presentation to Georgetown University students in Washington, D.C. in late September 2013, Buffett compared the U.S. Federal Reserve to a hedge fund and stated that the bank is generating \"$80 billion or $90 billion a year probably\" in revenue for the U.S. government."
+            ],
+            "arguments": {
+                "1": "oklahoma",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Press of Atlantic City became Berkshire's 30th daily newspaper, following other purchases such as Virginia, U.S.' Roanoke Times and The Tulsa World in Oklahoma, U.S.\n\nDuring a presentation to Georgetown University students in Washington, D.C. in late September 2013, Buffett compared the U.S. Federal Reserve to a hedge fund and stated that the bank is generating \"$80 billion or $90 billion a year probably\" in revenue for the U.S. government."
+            ],
+            "arguments": {
+                "1": "oklahoma",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Press of Atlantic City became Berkshire's 30th daily newspaper, following other purchases such as Virginia, U.S.' Roanoke Times and The Tulsa World in Oklahoma, U.S.\n\nDuring a presentation to Georgetown University students in Washington, D.C. in late September 2013, Buffett compared the U.S. Federal Reserve to a hedge fund and stated that the bank is generating \"$80 billion or $90 billion a year probably\" in revenue for the U.S. government."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He continued to live in the same house in the central Dundee neighborhood of Omaha that he bought in 1958 for $31,500, a fraction of today's value."
+            ],
+            "arguments": {
+                "1": "dundee",
+                "2": "omaha"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He also owns a $4 million house in Laguna Beach, California."
+            ],
+            "arguments": {
+                "1": "laguna beach",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Each year, Buffett presides over Berkshire Hathaway's annual shareholder meeting in the Qwest Center in Omaha, Nebraska, an event drawing over 20,000 visitors from both the United States and abroad, giving it the nickname \"Woodstock of Capitalism\"."
+            ],
+            "arguments": {
+                "1": "omaha",
+                "2": "nebraska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Each year, Buffett presides over Berkshire Hathaway's annual shareholder meeting in the Qwest Center in Omaha, Nebraska, an event drawing over 20,000 visitors from both the United States and abroad, giving it the nickname \"Woodstock of Capitalism\"."
+            ],
+            "arguments": {
+                "1": "omaha",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Each year, Buffett presides over Berkshire Hathaway's annual shareholder meeting in the Qwest Center in Omaha, Nebraska, an event drawing over 20,000 visitors from both the United States and abroad, giving it the nickname \"Woodstock of Capitalism\"."
+            ],
+            "arguments": {
+                "1": "nebraska",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He cited Atul Gawande's 2009 article in the New Yorker as a useful consideration of US health care, with its documentation of unwarranted variation in Medicare expenditures between McAllen, Texas and El Paso, Texas."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "mcallen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He cited Atul Gawande's 2009 article in the New Yorker as a useful consideration of US health care, with its documentation of unwarranted variation in Medicare expenditures between McAllen, Texas and El Paso, Texas."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He cited Atul Gawande's 2009 article in the New Yorker as a useful consideration of US health care, with its documentation of unwarranted variation in Medicare expenditures between McAllen, Texas and El Paso, Texas."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "el paso"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He cited Atul Gawande's 2009 article in the New Yorker as a useful consideration of US health care, with its documentation of unwarranted variation in Medicare expenditures between McAllen, Texas and El Paso, Texas."
+            ],
+            "arguments": {
+                "1": "mcallen",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He cited Atul Gawande's 2009 article in the New Yorker as a useful consideration of US health care, with its documentation of unwarranted variation in Medicare expenditures between McAllen, Texas and El Paso, Texas."
+            ],
+            "arguments": {
+                "1": "mcallen",
+                "2": "el paso"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He cited Atul Gawande's 2009 article in the New Yorker as a useful consideration of US health care, with its documentation of unwarranted variation in Medicare expenditures between McAllen, Texas and El Paso, Texas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "el paso"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In December 2011, Buffett's MidAmerican Energy Holdings agreed to buy a $2 billion solar energy project under development in California and a 49 percent stake in a $1.8 billion plant in Arizona, his first investments in solar power."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "arizona"
+            }
+        }
+    ]
+}{
+    "document": "WarrenBuffet.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "He created Buffett Partnership, Ltd in 1956 and his firm eventually acquired a textile manufacturing firm called Berkshire Hathaway and assumed its name to create a diversified holding company."
+            ],
+            "arguments": {
+                "1": "his firm",
+                "2": "a textile manufacturing firm",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1945, as a high school sophomore, Buffett and a friend spent $25 to purchase a used pinball machine, which they placed in the local barber shop."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "a used pinball machine",
+                "3": "$ 25",
+                "4": "",
+                "5": "the local barber shop"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "At 11, he bought three shares of Cities Service Preferred for himself, and three for his philanthropic sister Doris Buffett."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "three shares",
+                "3": "",
+                "4": "",
+                "5": "Cities Service Preferred"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In high school, he invested in a business owned by his father and bought a 40-acre farm worked by a tenant farmer."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "a 40-acre farm",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "He bought the land when he was 14 years old with $1,200 of his savings."
+            ],
+            "arguments": {
+                "1": "He",
+                "2": "the land",
+                "3": "$ 1,200",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "During this time he also purchased a Sinclair Texaco gas station as a side investment."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "a Sinclair Texaco gas station",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "He purchased a five-bedroom stucco house in Omaha, where he still lives, for $31,500."
+            ],
+            "arguments": {
+                "1": "He",
+                "2": "a five-bedroom stucco house",
+                "3": "$ 31,500",
+                "4": "",
+                "5": "lives"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Buffett eventually purchased 23% of the company's outstanding shares as an activist investor, obtaining a seat for himself on the Board of Directors, and allied with other dissatisfied shareholders to control 44% of the shares."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "23%",
+                "3": "",
+                "4": "",
+                "5": "the company's outstanding shares"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "He began buying shares in Berkshire from Seabury Stanton, the owner, whom he later fired."
+            ],
+            "arguments": {
+                "1": "He",
+                "2": "shares",
+                "3": "",
+                "4": "",
+                "5": "fired"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Buffett's partnerships began purchasing shares at $7.60 per share."
+            ],
+            "arguments": {
+                "1": "Buffett's partnerships",
+                "2": "shares",
+                "3": "$ 7.60",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1965, when Buffett's partnerships began purchasing Berkshire aggressively, they paid $14.86 per share while the company had working capital of $19 per share."
+            ],
+            "arguments": {
+                "1": "Buffett's partnerships",
+                "2": "Berkshire",
+                "3": "$ 19",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1973, Berkshire began to acquire stock in the Washington Post Company."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "stock",
+                "3": "",
+                "4": "",
+                "5": "the Washington Post Company"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1977, Berkshire indirectly purchased the Buffalo Evening News for $32.5 million."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "the Buffalo Evening News",
+                "3": "$32.5 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1979, Berkshire began to acquire stock in ABC."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "stock",
+                "3": "",
+                "4": "",
+                "5": "ABC"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1987, Berkshire Hathaway purchased a 12% stake in Salomon Inc., making it the largest shareholder and Buffett a director."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "a 12% stake",
+                "3": "",
+                "4": "",
+                "5": "Salomon Inc."
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1988, Buffett began buying The Coca-Cola Company stock, eventually purchasing up to 7% of the company for $1.02 billion."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "up to 7%",
+                "3": "$ 1.02 billion",
+                "4": "",
+                "5": "the company"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1998 he acquired General Re (Gen Re) as a subsidiary in a deal that presented difficulties\u2014according to the Rational Walk investment website, \"underwriting standards proved to be inadequate,\" while a \"problematic derivatives book\" was resolved after numerous years and a significant loss."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "General Re",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Buy American."
+            ],
+            "arguments": {
+                "1": "",
+                "2": "American",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Berkshire Hathaway acquired 10% perpetual preferred stock of Goldman Sachs."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "10% perpetual preferred stock",
+                "3": "",
+                "4": "",
+                "5": "Goldman Sachs"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In October 2008, the media reported that Buffett had agreed to buy General Electric (GE) preferred stock."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "General Electric (GE) preferred stock",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The operation included special incentives: He received an option to buy three billion shares of GE stock, at $22.25, over the five years following the agreement, and Buffett also received a 10% dividend (callable within three years)."
+            ],
+            "arguments": {
+                "1": "The operation",
+                "2": "three billion shares",
+                "3": "$ 22.25",
+                "4": "",
+                "5": "GE stock"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On August 20, 2014, Berkshire Hathaway was fined $896,000 for failing to report December 9, 2013, purchase of shares in USG Corporation as required.\n\n"
+            ],
+            "arguments": {
+                "1": "",
+                "2": "",
+                "3": "$ 896,000",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Also in 2009, Buffett acquired Burlington Northern Santa Fe Corp. for $34 billion in cash and stock."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "Burlington Northern Santa Fe Corp.",
+                "3": "$ 34 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "I bought a large amount of ConocoPhillips stock when oil and gas prices were near their peak."
+            ],
+            "arguments": {
+                "1": "I",
+                "2": "a large amount",
+                "3": "",
+                "4": "",
+                "5": "ConocoPhillips stock"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On March 18, 2011, Goldman Sachs was given Federal Reserve approval to buy back Berkshire's preferred stock in Goldman."
+            ],
+            "arguments": {
+                "1": "",
+                "2": "Berkshire's preferred stock",
+                "3": "",
+                "4": "",
+                "5": "Goldman"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In November 2011, it was announced that over the course of the previous eight months, Buffett had bought 64 million shares of International Business Machine Corp (IBM) stock, worth around $11 billion."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "64 million shares",
+                "3": "around $11 billion",
+                "4": "",
+                "5": "International Business Machine Corp (IBM) stock"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In an attempt to compete, he bought one of the diminutive instruments and has been playing it ever since."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "one",
+                "3": "",
+                "4": "",
+                "5": "the diminutive instruments"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "He continued to live in the same house in the central Dundee neighborhood of Omaha that he bought in 1958 for $31,500, a fraction of today's value."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "",
+                "3": "$ 31,500",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Buffett reads five newspapers every day, beginning with the Omaha World Herald, which his company acquired in 2011.\n\n"
+            ],
+            "arguments": {
+                "1": "his company",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Buffett remained bearish on the dollar, stating that he was looking to acquire companies with substantial foreign revenues."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "companies",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1977, about stocks, gold, farmland and inflation, he stated:\n\n    Stocks are probably still the best of all the poor alternatives in an era of inflation \u2013 at least they are if you buy in at appropriate prices.\n\n"
+            ],
+            "arguments": {
+                "1": "you",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In December 2011, Buffett's MidAmerican Energy Holdings agreed to buy a $2 billion solar energy project under development in California and a 49 percent stake in a $1.8 billion plant in Arizona, his first investments in solar power."
+            ],
+            "arguments": {
+                "1": "Buffett's MidAmerican Energy Holdings",
+                "2": "a $2 billion solar energy project",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In May 2012, Buffett said he had avoided buying stock in new social media companies such as Facebook and Google because it is hard to estimate future value."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "stock",
+                "3": "",
+                "4": "",
+                "5": "Google"
+            }
+        }
+    ]
+}{
+    "document": "WarrenBuffet.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Edward Buffett (; born August 30, 1930) is an American business magnate, investor, speaker and philanthropist who serves as the chairman and CEO of Berkshire Hathaway."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "Hathaway",
+                "3": "chairman; magnate; speaker; philanthropist; CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Buffett has been the chairman and largest shareholder of Berkshire Hathaway since 1970, and he has been referred to as the \"Wizard\", \"Oracle\", or \"Sage\" of Omaha by global media outlets."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "Hathaway",
+                "3": "chairman",
+                "4": "Omaha"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Buffett is a notable philanthropist, having pledged to give away 99 percent of his fortune to philanthropic causes, primarily via the Bill & Melinda Gates Foundation."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "Foundation",
+                "3": "philanthropist",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1942, his father was elected to the first of four terms in the United States Congress, and after moving with his family to Washington, D.C., Warren finished elementary school, attended Alice Deal Junior High School and graduated from Woodrow Wilson High School in 1947, where his senior yearbook picture reads: \"likes math; a future stockbroker."
+            ],
+            "arguments": {
+                "1": "picture",
+                "2": "School",
+                "3": "stockbroker",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Early business career\n\nBuffett worked from 1951 to 1954 at Buffett-Falk & Co. as an investment salesman; from 1954 to 1956 at Graham-Newman Corp. as a securities analyst; from 1956 to 1969 at Buffett Partnership, Ltd. as a general partner; and from 1970 as Chairman and CEO of Berkshire Hathaway Inc.\n\n"
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "Inc.",
+                "3": "salesman; analyst; CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "He began buying shares in Berkshire from Seabury Stanton, the owner, whom he later fired."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "Berkshire",
+                "3": "owner",
+                "4": "Stanton"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Buffett took control of Berkshire Hathaway at a board meeting and named a new president, Ken Chace, to run the company."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "Hathaway",
+                "3": "president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1987, Berkshire Hathaway purchased a 12% stake in Salomon Inc., making it the largest shareholder and Buffett a director."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "Inc.",
+                "3": "director",
+                "4": ""
+            }
+        }
+    ]
+}

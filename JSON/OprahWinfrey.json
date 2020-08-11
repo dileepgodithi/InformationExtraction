@@ -1,0 +1,542 @@
+{
+    "document": "OprahWinfrey.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey was born into poverty in rural Mississippi to a teenage single mother and later raised in inner-city Milwaukee."
+            ],
+            "arguments": {
+                "1": "mississippi",
+                "2": "milwaukee"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "She was born in Kosciusko, Mississippi, to an unmarried teenage mother."
+            ],
+            "arguments": {
+                "1": "kosciusko",
+                "2": "mississippi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At age six, Winfrey moved to an inner-city neighborhood in Milwaukee, Wisconsin, with her mother, who was less supportive and encouraging than her grandmother had been, largely as a result of the long hours she worked as a maid."
+            ],
+            "arguments": {
+                "1": "milwaukee",
+                "2": "wisconsin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By 1962, Lee was having difficulty raising both daughters so Winfrey was temporarily sent to live with Vernon in Nashville, Tennessee."
+            ],
+            "arguments": {
+                "1": "nashville",
+                "2": "tennessee"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Oprah voiced Gussie the goose in Charlotte's Web (2006) and voiced Judge Bumbleton in Bee Movie (2007), co-starring the voices of Jerry Seinfeld and Ren\u00e9e Zellweger."
+            ],
+            "arguments": {
+                "1": "charlotte",
+                "2": "bee movie"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Personal life\nHomes\n\nWinfrey currently lives on \"The Promised Land\", her 42-acre (17-ha) estate with ocean and mountain views in Montecito, California."
+            ],
+            "arguments": {
+                "1": "montecito",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "lavallette",
+                "2": "new jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "lavallette",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "lavallette",
+                "2": "telluride"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "lavallette",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "lavallette",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "telluride"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "new jersey",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "fisher island"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "telluride"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "maui"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "hawaii"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "antigua"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "orcas island"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "fisher island",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "telluride",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "telluride",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "maui",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "hawaii",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "antigua",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "orcas island",
+                "2": "washington state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "According to Mair, when Kramer moved to NBC in New York, Winfrey had a love affair with a married man who had no intention of leaving his wife."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "winfrey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey hosted a week-long Caribbean cruise for Angelou and 150 guests for Angelou's 70th birthday in 1998, and in 2008, threw her \"an extravagant 80th birthday celebration\" at Donald Trump's Mar-a-Lago club in Palm Beach, Florida."
+            ],
+            "arguments": {
+                "1": "palm beach",
+                "2": "florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey was represented by attorney Chip Babcock and, on February 26, after a two-month trial in an Amarillo, Texas, court, a jury found Winfrey and Lyman were not liable for damages."
+            ],
+            "arguments": {
+                "1": "amarillo",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In December 2007, Winfrey joined Obama for a series of rallies in the early primary states of Iowa, New Hampshire, and South Carolina."
+            ],
+            "arguments": {
+                "1": "iowa",
+                "2": "new hampshire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In December 2007, Winfrey joined Obama for a series of rallies in the early primary states of Iowa, New Hampshire, and South Carolina."
+            ],
+            "arguments": {
+                "1": "iowa",
+                "2": "south carolina"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In December 2007, Winfrey joined Obama for a series of rallies in the early primary states of Iowa, New Hampshire, and South Carolina."
+            ],
+            "arguments": {
+                "1": "new hampshire",
+                "2": "south carolina"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In April 2014, Winfrey spoke for more than 20 minutes at a fundraiser in Arlington, Virginia, for Lavern Chatman, a candidate in a primary to nominate a Democratic Party candidate for election to the U.S. House of Representatives."
+            ],
+            "arguments": {
+                "1": "arlington",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of 2012, Winfrey had also given over 400 scholarships to Morehouse College in Atlanta, Georgia."
+            ],
+            "arguments": {
+                "1": "atlanta",
+                "2": "georgia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Homes were built in Texas, Mississippi, Louisiana, and Alabama before the one-year anniversary of Hurricanes Katrina and Rita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "mississippi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Homes were built in Texas, Mississippi, Louisiana, and Alabama before the one-year anniversary of Hurricanes Katrina and Rita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "louisiana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Homes were built in Texas, Mississippi, Louisiana, and Alabama before the one-year anniversary of Hurricanes Katrina and Rita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "alabama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Homes were built in Texas, Mississippi, Louisiana, and Alabama before the one-year anniversary of Hurricanes Katrina and Rita."
+            ],
+            "arguments": {
+                "1": "mississippi",
+                "2": "louisiana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Homes were built in Texas, Mississippi, Louisiana, and Alabama before the one-year anniversary of Hurricanes Katrina and Rita."
+            ],
+            "arguments": {
+                "1": "mississippi",
+                "2": "alabama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Homes were built in Texas, Mississippi, Louisiana, and Alabama before the one-year anniversary of Hurricanes Katrina and Rita."
+            ],
+            "arguments": {
+                "1": "louisiana",
+                "2": "alabama"
+            }
+        }
+    ]
+}{
+    "document": "OprahWinfrey.txt",
+    "extraction": []
+}{
+    "document": "OprahWinfrey.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Winfrey's biological father is usually noted as Vernon Winfrey (born c. 1933), a coal miner turned barber turned city councilman who had been in the Armed Forces when she was born."
+            ],
+            "arguments": {
+                "1": "Winfrey",
+                "2": "Forces",
+                "3": "councilman",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Working in local media, she was both the youngest news anchor and the first black female news anchor at Nashville's WLAC-TV."
+            ],
+            "arguments": {
+                "1": "she",
+                "2": "TV",
+                "3": "anchor",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "She is also the president of Harpo Productions (Oprah spelled backwards).\n\n"
+            ],
+            "arguments": {
+                "1": "Oprah",
+                "2": "Productions",
+                "3": "president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "King was formerly the host of The Gayle King Show and is currently an editor of O, the Oprah Magazine."
+            ],
+            "arguments": {
+                "1": "King",
+                "2": "Magazine",
+                "3": "editor; host",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In April 2014, Winfrey spoke for more than 20 minutes at a fundraiser in Arlington, Virginia, for Lavern Chatman, a candidate in a primary to nominate a Democratic Party candidate for election to the U.S. House of Representatives."
+            ],
+            "arguments": {
+                "1": "Winfrey",
+                "2": "Representatives",
+                "3": "candidate",
+                "4": "Virginia"
+            }
+        }
+    ]
+}

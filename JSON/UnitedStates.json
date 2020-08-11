@@ -1,0 +1,1599 @@
+{
+    "document": "UnitedStates.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "the united states of america",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "the united states of america",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "the united states of america",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "the united states of america",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The capital is Washington, D.C., and the largest city by population is New York City."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The capital is Washington, D.C., and the largest city by population is New York City."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The capital is Washington, D.C., and the largest city by population is New York City."
+            ],
+            "arguments": {
+                "1": "d.c.",
+                "2": "new york city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Forty-eight states and the capital's federal district are contiguous in North America between Canada and Mexico."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The State of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west."
+            ],
+            "arguments": {
+                "1": "alaska",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The State of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west."
+            ],
+            "arguments": {
+                "1": "alaska",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The State of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During the Cold War, the United States and the Soviet Union competed in the Space Race, culminating with the 1969 U.S."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "the space race"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During the Cold War, the United States and the Soviet Union competed in the Space Race, culminating with the 1969 U.S."
+            ],
+            "arguments": {
+                "1": "the soviet union",
+                "2": "the space race"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During the Cold War, the United States and the Soviet Union competed in the Space Race, culminating with the 1969 U.S."
+            ],
+            "arguments": {
+                "1": "the space race",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The end of the Cold War and the collapse of the Soviet Union in 1991 left the United States as the world's sole superpower."
+            ],
+            "arguments": {
+                "1": "the soviet union",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first documentary evidence of the phrase \"United States of America\" is from a letter dated January 2, 1776, written by Stephen Moylan, Esq., to George Washington's aide-de-camp and Muster-Master General of the Continental Army, Lt. Col. Joseph Reed."
+            ],
+            "arguments": {
+                "1": "united states of america",
+                "2": "esq."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first known publication of the phrase \"United States of America\" was in an anonymous essay in The Virginia Gazette newspaper in Williamsburg, Virginia, on April 6, 1776."
+            ],
+            "arguments": {
+                "1": "united states of america",
+                "2": "williamsburg"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first known publication of the phrase \"United States of America\" was in an anonymous essay in The Virginia Gazette newspaper in Williamsburg, Virginia, on April 6, 1776."
+            ],
+            "arguments": {
+                "1": "united states of america",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first known publication of the phrase \"United States of America\" was in an anonymous essay in The Virginia Gazette newspaper in Williamsburg, Virginia, on April 6, 1776."
+            ],
+            "arguments": {
+                "1": "williamsburg",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other common forms are the \"U.S.\", the \"USA\", and \"America\"."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Its city state Cahokia is considered the largest, most complex pre-Columbian archaeological site in the modern-day United States."
+            ],
+            "arguments": {
+                "1": "cahokia",
+                "2": "united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Anthropologist Henry F. Dobyns believed that the populations were much higher, suggestion 1,100,000 along the shores of the gulf of Mexico, 2,211,000 people living between Florida and Massachusetts, 5,250,000 in the Mississippi Valley and tributaries and 697,000 people in the Florida peninsula."
+            ],
+            "arguments": {
+                "1": "mexico",
+                "2": "florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Anthropologist Henry F. Dobyns believed that the populations were much higher, suggestion 1,100,000 along the shores of the gulf of Mexico, 2,211,000 people living between Florida and Massachusetts, 5,250,000 in the Mississippi Valley and tributaries and 697,000 people in the Florida peninsula."
+            ],
+            "arguments": {
+                "1": "mexico",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Anthropologist Henry F. Dobyns believed that the populations were much higher, suggestion 1,100,000 along the shores of the gulf of Mexico, 2,211,000 people living between Florida and Massachusetts, 5,250,000 in the Mississippi Valley and tributaries and 697,000 people in the Florida peninsula."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first Europeans to arrive in the territory of the modern United States were Spanish conquistadors such as Juan Ponce de Le\u00f3n, who made his first visit to Florida in 1513; however, if unincorporated territories are accounted for, then credit would go to Christopher Columbus who landed in Puerto Rico on his 1493 voyage."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "puerto rico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first Europeans to arrive in the territory of the modern United States were Spanish conquistadors such as Juan Ponce de Le\u00f3n, who made his first visit to Florida in 1513; however, if unincorporated territories are accounted for, then credit would go to Christopher Columbus who landed in Puerto Rico on his 1493 voyage."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "puerto rico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Spanish set up the first settlements in Florida and New Mexico such as Saint Augustine and Santa Fe."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "new mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With the British colonization of Georgia in 1732, the 13 colonies that would become the United States of America were established."
+            ],
+            "arguments": {
+                "1": "georgia",
+                "2": "the united states of america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During the Seven Years' War (in the United States, known as the French and Indian War), British forces seized Canada from the French, but the francophone population remained politically isolated from the southern colonies."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1774, the Spanish Navy ship Santiago, under Juan P\u00e9rez, entered and anchored in an inlet of Nootka Sound, Vancouver Island, in present-day British Columbia."
+            ],
+            "arguments": {
+                "1": "santiago",
+                "2": "british columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1774, the Spanish Navy ship Santiago, under Juan P\u00e9rez, entered and anchored in an inlet of Nootka Sound, Vancouver Island, in present-day British Columbia."
+            ],
+            "arguments": {
+                "1": "nootka",
+                "2": "british columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When the Russians began establishing a growing fur trading system in Alaska, the Spanish began to challenge the Russians, with P\u00e9rez's voyage being the first of many to the Pacific Northwest."
+            ],
+            "arguments": {
+                "1": "alaska",
+                "2": "p\u00e9rez"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Britain recognized the independence of the United States following its defeat at Yorktown in 1781."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Britain recognized the independence of the United States following its defeat at Yorktown in 1781."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "yorktown"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A series of military incursions into Florida led Spain to cede it and other Gulf Coast territory in 1819."
+            ],
+            "arguments": {
+                "1": "florida",
+                "2": "spain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mainland expansion also included the purchase of Alaska from Russia in 1867."
+            ],
+            "arguments": {
+                "1": "alaska",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1893, pro-American elements in Hawaii overthrew the monarchy and formed the Republic of Hawaii, which the U.S. annexed in 1898."
+            ],
+            "arguments": {
+                "1": "hawaii",
+                "2": "the republic of hawaii"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1893, pro-American elements in Hawaii overthrew the monarchy and formed the Republic of Hawaii, which the U.S. annexed in 1898."
+            ],
+            "arguments": {
+                "1": "hawaii",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States played a leading role in the Bretton Woods and Yalta conferences with the United Kingdom, the Soviet Union, and other Allies, which signed agreements on new international financial institutions and Europe's postwar reorganization."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "yalta"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States developed the first nuclear weapons and used them on Japan in the cities of Hiroshima and Nagasaki; causing the Japanese to surrender on September 2, ending World War II."
+            ],
+            "arguments": {
+                "1": "hiroshima",
+                "2": "nagasaki"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Contemporary history\nAfter the Cold War, the conflict in the Middle East triggered a crisis in 1990, when Iraq under Saddam Hussein invaded and attempted to annex Kuwait, an ally of the United States."
+            ],
+            "arguments": {
+                "1": "iraq",
+                "2": "kuwait"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Contemporary history\nAfter the Cold War, the conflict in the Middle East triggered a crisis in 1990, when Iraq under Saddam Hussein invaded and attempted to annex Kuwait, an ally of the United States."
+            ],
+            "arguments": {
+                "1": "iraq",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Contemporary history\nAfter the Cold War, the conflict in the Middle East triggered a crisis in 1990, when Iraq under Saddam Hussein invaded and attempted to annex Kuwait, an ally of the United States."
+            ],
+            "arguments": {
+                "1": "kuwait",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Bush launched Operation Desert Shield, a defensive force buildup in Saudi Arabia, and Operation Desert Storm, in a staging titled the Gulf War; waged by coalition forces from 34 nations, led by the United States against Iraq ending in the successful expulsion of Iraqi forces from Kuwait, restoring the former monarchy."
+            ],
+            "arguments": {
+                "1": "saudi arabia",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Bush launched Operation Desert Shield, a defensive force buildup in Saudi Arabia, and Operation Desert Storm, in a staging titled the Gulf War; waged by coalition forces from 34 nations, led by the United States against Iraq ending in the successful expulsion of Iraqi forces from Kuwait, restoring the former monarchy."
+            ],
+            "arguments": {
+                "1": "saudi arabia",
+                "2": "iraq"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Bush launched Operation Desert Shield, a defensive force buildup in Saudi Arabia, and Operation Desert Storm, in a staging titled the Gulf War; waged by coalition forces from 34 nations, led by the United States against Iraq ending in the successful expulsion of Iraqi forces from Kuwait, restoring the former monarchy."
+            ],
+            "arguments": {
+                "1": "saudi arabia",
+                "2": "kuwait"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Bush launched Operation Desert Shield, a defensive force buildup in Saudi Arabia, and Operation Desert Storm, in a staging titled the Gulf War; waged by coalition forces from 34 nations, led by the United States against Iraq ending in the successful expulsion of Iraqi forces from Kuwait, restoring the former monarchy."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "iraq"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Bush launched Operation Desert Shield, a defensive force buildup in Saudi Arabia, and Operation Desert Storm, in a staging titled the Gulf War; waged by coalition forces from 34 nations, led by the United States against Iraq ending in the successful expulsion of Iraqi forces from Kuwait, restoring the former monarchy."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "kuwait"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Bush launched Operation Desert Shield, a defensive force buildup in Saudi Arabia, and Operation Desert Storm, in a staging titled the Gulf War; waged by coalition forces from 34 nations, led by the United States against Iraq ending in the successful expulsion of Iraqi forces from Kuwait, restoring the former monarchy."
+            ],
+            "arguments": {
+                "1": "iraq",
+                "2": "kuwait"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On September 11, 2001, Al-Qaeda terrorists struck the World Trade Center in New York City and the Pentagon near Washington, D.C., killing nearly 3,000 people."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On September 11, 2001, Al-Qaeda terrorists struck the World Trade Center in New York City and the Pentagon near Washington, D.C., killing nearly 3,000 people."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In response, the United States launched the War on Terror, which included war in Afghanistan and the 2003\u201311 Iraq War."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "afghanistan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The next year, the United States as a member of the P5+1 countries signed the Joint Comprehensive Plan of Action, an agreement aimed to slow the development of Iran's nuclear program, though the U.S. withdrew from the deal in May 2018."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "iran"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The next year, the United States as a member of the P5+1 countries signed the Joint Comprehensive Plan of Action, an agreement aimed to slow the development of Iran's nuclear program, though the U.S. withdrew from the deal in May 2018."
+            ],
+            "arguments": {
+                "1": "iran",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Alaska, separated from the contiguous United States by Canada, is the largest state at 663,268 square miles (1,717,856.2 km2)."
+            ],
+            "arguments": {
+                "1": "alaska",
+                "2": "united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Alaska, separated from the contiguous United States by Canada, is the largest state at 663,268 square miles (1,717,856.2 km2)."
+            ],
+            "arguments": {
+                "1": "alaska",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Alaska, separated from the contiguous United States by Canada, is the largest state at 663,268 square miles (1,717,856.2 km2)."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Measured by only land area, the United States is third in size behind Russia and China, just ahead of Canada."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Measured by only land area, the United States is third in size behind Russia and China, just ahead of Canada."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Measured by only land area, the United States is third in size behind Russia and China, just ahead of Canada."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Measured by only land area, the United States is third in size behind Russia and China, just ahead of Canada."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Measured by only land area, the United States is third in size behind Russia and China, just ahead of Canada."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Measured by only land area, the United States is third in size behind Russia and China, just ahead of Canada."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States is the world's third- or fourth-largest nation by total area (land and water), ranking behind Russia and Canada and just above or below China."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States is the world's third- or fourth-largest nation by total area (land and water), ranking behind Russia and Canada and just above or below China."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States is the world's third- or fourth-largest nation by total area (land and water), ranking behind Russia and Canada and just above or below China."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States is the world's third- or fourth-largest nation by total area (land and water), ranking behind Russia and Canada and just above or below China."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States is the world's third- or fourth-largest nation by total area (land and water), ranking behind Russia and Canada and just above or below China."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States is the world's third- or fourth-largest nation by total area (land and water), ranking behind Russia and Canada and just above or below China."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The ranking varies depending on how two territories disputed by China and India are counted, and how the total size of the United States is measured."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The ranking varies depending on how two territories disputed by China and India are counted, and how the total size of the United States is measured."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The lowest and highest points in the contiguous United States are in the state of California, and only about 84 miles (135 km) apart."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Active volcanoes are common throughout Alaska's Alexander and Aleutian Islands, and Hawaii consists of volcanic islands."
+            ],
+            "arguments": {
+                "1": "alaska",
+                "2": "hawaii"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The climate is arid in the Great Basin, desert in the Southwest, Mediterranean in coastal California, and oceanic in coastal Oregon and Washington and southern Alaska."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The climate is arid in the Great Basin, desert in the Southwest, Mediterranean in coastal California, and oceanic in coastal Oregon and Washington and southern Alaska."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The climate is arid in the Great Basin, desert in the Southwest, Mediterranean in coastal California, and oceanic in coastal Oregon and Washington and southern Alaska."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The climate is arid in the Great Basin, desert in the Southwest, Mediterranean in coastal California, and oceanic in coastal Oregon and Washington and southern Alaska."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The climate is arid in the Great Basin, desert in the Southwest, Mediterranean in coastal California, and oceanic in coastal Oregon and Washington and southern Alaska."
+            ],
+            "arguments": {
+                "1": "oregon",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The climate is arid in the Great Basin, desert in the Southwest, Mediterranean in coastal California, and oceanic in coastal Oregon and Washington and southern Alaska."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Hawaii and the southern tip of Florida are tropical, as are the populated territories in the Caribbean and the Pacific."
+            ],
+            "arguments": {
+                "1": "hawaii",
+                "2": "florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Wildlife\nThe U.S. ecology is megadiverse: about 17,000 species of vascular plants occur in the contiguous United States and Alaska, and over 1,800 species of flowering plants are found in Hawaii, few of which occur on the mainland."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "hawaii"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Wildlife\nThe U.S. ecology is megadiverse: about 17,000 species of vascular plants occur in the contiguous United States and Alaska, and over 1,800 species of flowering plants are found in Hawaii, few of which occur on the mainland."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Wildlife\nThe U.S. ecology is megadiverse: about 17,000 species of vascular plants occur in the contiguous United States and Alaska, and over 1,800 species of flowering plants are found in Hawaii, few of which occur on the mainland."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "hawaii"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Wildlife\nThe U.S. ecology is megadiverse: about 17,000 species of vascular plants occur in the contiguous United States and Alaska, and over 1,800 species of flowering plants are found in Hawaii, few of which occur on the mainland."
+            ],
+            "arguments": {
+                "1": "alaska",
+                "2": "hawaii"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The third most populous nation in the world, after China and India, the United States is the only major industrialized nation in which large population increases are projected."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The third most populous nation in the world, after China and India, the United States is the only major industrialized nation in which large population increases are projected."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The third most populous nation in the world, after China and India, the United States is the only major industrialized nation in which large population increases are projected."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In a 2009 Gallup poll, 42% of Americans said that they attended church weekly or almost weekly; the figures ranged from a low of 23% in Vermont to a high of 63% in Mississippi."
+            ],
+            "arguments": {
+                "1": "vermont",
+                "2": "mississippi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also Unitarian Universalist, Scientologist, Baha'i, Sikh, Jain, Shinto, Confucian, Taoist, Druid, Native American, Wiccan, humanist and deist communities."
+            ],
+            "arguments": {
+                "1": "baha'i",
+                "2": "sikh"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also Unitarian Universalist, Scientologist, Baha'i, Sikh, Jain, Shinto, Confucian, Taoist, Druid, Native American, Wiccan, humanist and deist communities."
+            ],
+            "arguments": {
+                "1": "baha'i",
+                "2": "jain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also Unitarian Universalist, Scientologist, Baha'i, Sikh, Jain, Shinto, Confucian, Taoist, Druid, Native American, Wiccan, humanist and deist communities."
+            ],
+            "arguments": {
+                "1": "baha'i",
+                "2": "shinto"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also Unitarian Universalist, Scientologist, Baha'i, Sikh, Jain, Shinto, Confucian, Taoist, Druid, Native American, Wiccan, humanist and deist communities."
+            ],
+            "arguments": {
+                "1": "sikh",
+                "2": "jain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also Unitarian Universalist, Scientologist, Baha'i, Sikh, Jain, Shinto, Confucian, Taoist, Druid, Native American, Wiccan, humanist and deist communities."
+            ],
+            "arguments": {
+                "1": "sikh",
+                "2": "shinto"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also Unitarian Universalist, Scientologist, Baha'i, Sikh, Jain, Shinto, Confucian, Taoist, Druid, Native American, Wiccan, humanist and deist communities."
+            ],
+            "arguments": {
+                "1": "jain",
+                "2": "shinto"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Roman Catholicism in the United States has its origin primarily in the Spanish and French colonization of the Americas, as well as in the English colony of Maryland."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Eastern Orthodoxy is claimed by 5% of people in Alaska, a former Russian colony, and maintains a presence on the U.S. mainland due to recent immigration from Eastern Europe."
+            ],
+            "arguments": {
+                "1": "alaska",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2013, the highest teenage birth rate was in Alabama, and the lowest in Wyoming."
+            ],
+            "arguments": {
+                "1": "alabama",
+                "2": "wyoming"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Abortion is legal throughout the U.S., owing to Roe v. Wade, a 1973 landmark decision by the Supreme Court of the United States."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The District of Columbia is a federal district that contains the capital of the United States, Washington DC."
+            ],
+            "arguments": {
+                "1": "the district of columbia",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The District of Columbia is a federal district that contains the capital of the United States, Washington DC."
+            ],
+            "arguments": {
+                "1": "the district of columbia",
+                "2": "washington dc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The District of Columbia is a federal district that contains the capital of the United States, Washington DC."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "washington dc"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The states and the District of Columbia choose the President of the United States."
+            ],
+            "arguments": {
+                "1": "the district of columbia",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Territories of the United States such as Puerto Rico do not have presidential electors, and so people in those territories cannot vote for the president."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "puerto rico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also 6 non-voting representatives who represent the District of Columbia and the five major U.S. territories."
+            ],
+            "arguments": {
+                "1": "the district of columbia",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Citizenship is granted at birth in all states, the District of Columbia, and all major U.S. territories except American Samoa."
+            ],
+            "arguments": {
+                "1": "the district of columbia",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Almost all countries have embassies in Washington, D.C., and many have consulates around the country."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "d.c."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As a share of America's large gross national income (GNI), however, the U.S. contribution of 0.18% ranked last among 22 donor states."
+            ],
+            "arguments": {
+                "1": "america",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On October 25, 2017, Vice President Mike Pence announced at a In Defense of Christians annual dinner meeting in Washington that the United States would stop funding United Nations relief efforts, cases tackling the persecution of Christians in the Middle East, but insisted that the U.S. would instead help and aid Christians directly through the United States Agency for International Development."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On October 25, 2017, Vice President Mike Pence announced at a In Defense of Christians annual dinner meeting in Washington that the United States would stop funding United Nations relief efforts, cases tackling the persecution of Christians in the Middle East, but insisted that the U.S. would instead help and aid Christians directly through the United States Agency for International Development."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The proposed base Department of Defense budget for 2012, $553 billion, was a 4.2% increase over 2011; an additional $118 billion was proposed for the military campaigns in Iraq and Afghanistan."
+            ],
+            "arguments": {
+                "1": "iraq",
+                "2": "afghanistan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Approximately 90,000 U.S. troops were serving in Afghanistan in April 2012; by November 8, 2013 2,285 had been killed during the War in Afghanistan."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "afghanistan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2001\u20132, the United States had above-average levels of violent crime and particularly high levels of gun violence compared to other developed nations."
+            ],
+            "arguments": {
+                "1": "2001\u20132",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2012, Louisiana had the highest rate of murder and non-negligent manslaughter in the U.S., and New Hampshire the lowest."
+            ],
+            "arguments": {
+                "1": "louisiana",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2012, Louisiana had the highest rate of murder and non-negligent manslaughter in the U.S., and New Hampshire the lowest."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "new hampshire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Since the decision there have been more than 1,300 executions, a majority of these taking place in three states: Texas, Virginia, and Oklahoma."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Since the decision there have been more than 1,300 executions, a majority of these taking place in three states: Texas, Virginia, and Oklahoma."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Since the decision there have been more than 1,300 executions, a majority of these taking place in three states: Texas, Virginia, and Oklahoma."
+            ],
+            "arguments": {
+                "1": "virginia",
+                "2": "oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Among the U.S. territories, the highest incarceration rate was in the U.S. Virgin Islands (542 per 100,000 people) and the lowest was in Puerto Rico (313 per 100,000 people)."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "the u.s. virgin islands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Among the U.S. territories, the highest incarceration rate was in the U.S. Virgin Islands (542 per 100,000 people) and the lowest was in Puerto Rico (313 per 100,000 people)."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "puerto rico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Among the U.S. territories, the highest incarceration rate was in the U.S. Virgin Islands (542 per 100,000 people) and the lowest was in Puerto Rico (313 per 100,000 people)."
+            ],
+            "arguments": {
+                "1": "the u.s. virgin islands",
+                "2": "puerto rico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada, China, Mexico, Japan, and Germany are its top trading partners."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada, China, Mexico, Japan, and Germany are its top trading partners."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada, China, Mexico, Japan, and Germany are its top trading partners."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada, China, Mexico, Japan, and Germany are its top trading partners."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada, China, Mexico, Japan, and Germany are its top trading partners."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada, China, Mexico, Japan, and Germany are its top trading partners."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada, China, Mexico, Japan, and Germany are its top trading partners."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada, China, Mexico, Japan, and Germany are its top trading partners."
+            ],
+            "arguments": {
+                "1": "mexico",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada, China, Mexico, Japan, and Germany are its top trading partners."
+            ],
+            "arguments": {
+                "1": "mexico",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada, China, Mexico, Japan, and Germany are its top trading partners."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Japan is the largest foreign holder of U.S. public debt."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States is the only advanced economy that does not guarantee its workers paid vacation and is one of just a few countries in the world without paid family leave as a legal right, with the others being Papua New Guinea, Suriname and Liberia."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "papua new guinea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Of the world's 50 busiest passenger airports, 16 are in the United States, including the busiest, Hartsfield\u2013Jackson Atlanta International Airport, and the fourth-busiest, O'Hare International Airport in Chicago."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "hartsfield"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Of the world's 50 busiest passenger airports, 16 are in the United States, including the busiest, Hartsfield\u2013Jackson Atlanta International Airport, and the fourth-busiest, O'Hare International Airport in Chicago."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Of the world's 50 busiest passenger airports, 16 are in the United States, including the busiest, Hartsfield\u2013Jackson Atlanta International Airport, and the fourth-busiest, O'Hare International Airport in Chicago."
+            ],
+            "arguments": {
+                "1": "hartsfield",
+                "2": "chicago"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The 1913 Armory Show in New York City, an exhibition of European modernist art, shocked the public and transformed the U.S. art scene."
+            ],
+            "arguments": {
+                "1": "new york city",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The team of Harrigan and Hart produced a series of popular musical comedies in New York starting in the late 1870s."
+            ],
+            "arguments": {
+                "1": "harrigan",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cinema\nHollywood, a northern district of Los Angeles, California, is one of the leaders in motion picture production."
+            ],
+            "arguments": {
+                "1": "hollywood",
+                "2": "los angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cinema\nHollywood, a northern district of Los Angeles, California, is one of the leaders in motion picture production."
+            ],
+            "arguments": {
+                "1": "hollywood",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cinema\nHollywood, a northern district of Los Angeles, California, is one of the leaders in motion picture production."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The next year saw the first commercial screening of a projected film, also in New York, and the United States was in the forefront of sound film's development in the following decades."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Since the early 20th century, the U.S. film industry has largely been based in and around Hollywood, although in the 21st century an increasing number of films are not made there, and film companies have been subject to the forces of globalization."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "hollywood"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Aside from web portals and search engines, the most popular websites are Facebook, YouTube, Wikipedia, Yahoo!, eBay, Amazon, and Twitter."
+            ],
+            "arguments": {
+                "1": "wikipedia",
+                "2": "twitter"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "See also\nIndex of United States-related articles\nLists of U.S. state topics\nOutline of the United States\nReferences\nFootnotes\nCitations\nBibliography\nInternet sources\n\nExternal links\n\"United States\"."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "See also\nIndex of United States-related articles\nLists of U.S. state topics\nOutline of the United States\nReferences\nFootnotes\nCitations\nBibliography\nInternet sources\n\nExternal links\n\"United States\"."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "\"united states"
+            }
+        }
+    ]
+}{
+    "document": "UnitedStates.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "The United States embarked on a vigorous expansion across North America throughout the 19th century, acquiring new territories, displacing Native American tribes, and gradually admitting new states until it spanned the continent by 1848.\n\n"
+            ],
+            "arguments": {
+                "1": "The United States",
+                "2": "new territories",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "American Samoa was acquired by the United States in 1900 after the end of the Second Samoan Civil War."
+            ],
+            "arguments": {
+                "1": "the United States",
+                "2": "American Samoa",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The United States purchased the U.S. Virgin Islands from Denmark in 1917.\n\n"
+            ],
+            "arguments": {
+                "1": "The United States",
+                "2": "the U.S. Virgin Islands",
+                "3": "",
+                "4": "",
+                "5": "Denmark"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "According to the International Monetary Fund, the U.S. GDP of $16.8 trillion constitutes 24% of the gross world product at market exchange rates and over 19% of the gross world product at purchasing power parity (PPP).\n\n"
+            ],
+            "arguments": {
+                "1": "",
+                "2": "",
+                "3": "$16.8 trillion constitutes",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "UnitedStates.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "The President is the commander-in-chief of the military, can veto legislative bills before they become law (subject to Congressional override), and appoints the members of the Cabinet (subject to Senate approval) and other officers, who administer and enforce federal laws and policies.\n"
+            ],
+            "arguments": {
+                "1": "who",
+                "2": "Cabinet",
+                "3": "commander",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The President holds the title of commander-in-chief of the nation's armed forces and appoints its leaders, the Secretary of Defense and the Joint Chiefs of Staff."
+            ],
+            "arguments": {
+                "1": "President",
+                "2": "Staff",
+                "3": "commander",
+                "4": ""
+            }
+        }
+    ]
+}

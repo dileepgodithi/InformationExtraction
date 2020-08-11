@@ -1,0 +1,1363 @@
+{
+    "document": "TeslaInc.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla, Inc. (formerly Tesla Motors, Inc.) is an American automotive and energy company based in Palo Alto, California."
+            ],
+            "arguments": {
+                "1": "palo alto",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It operates multiple production and assembly plants, notably Gigafactory 1 near Reno, Nevada, and its main vehicle manufacturing facility at Tesla Factory in Fremont, California."
+            ],
+            "arguments": {
+                "1": "fremont",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Also in 2016, Tesla sold US$1 billion worth of cars in China, the world's largest market for electric vehicles, and in October of the following year it reached an agreement with the Chinese government to build a factory in Shanghai."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "shanghai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2017, Tesla opened retail locations in Dubai and South Korea."
+            ],
+            "arguments": {
+                "1": "dubai",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "US dealership disputes\nTesla operates stores and galleries\u2014usually located in shopping malls\u2014in many U.S. states."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "austria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "belgium"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "denmark"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "switzerland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "austria",
+                "2": "belgium"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "austria",
+                "2": "denmark"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "austria",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "austria",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "austria",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "austria",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "austria",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "austria",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "austria",
+                "2": "switzerland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "belgium",
+                "2": "denmark"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "belgium",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "belgium",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "belgium",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "belgium",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "belgium",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "belgium",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "belgium",
+                "2": "switzerland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "denmark",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "denmark",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "denmark",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "denmark",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "denmark",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "denmark",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "denmark",
+                "2": "switzerland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "france",
+                "2": "germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "france",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "france",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "france",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "france",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "france",
+                "2": "switzerland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "switzerland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "britain",
+                "2": "switzerland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "netherlands",
+                "2": "norway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "netherlands",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "netherlands",
+                "2": "switzerland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "norway",
+                "2": "sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "norway",
+                "2": "switzerland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of September 2015, similar programs existed in Canada, Austria, Belgium, Denmark, France, Germany, Britain, Netherlands, Norway, Sweden and Switzerland."
+            ],
+            "arguments": {
+                "1": "sweden",
+                "2": "switzerland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In May 2010 Tesla purchased a stake in what would become the Tesla Factory in Fremont, California, for US$42 million, and opened the facility in October 2010."
+            ],
+            "arguments": {
+                "1": "fremont",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For the European market, a final assembly plant and European Distribution Center are part of the Tesla facilities in Tilburg, Netherlands."
+            ],
+            "arguments": {
+                "1": "tilburg",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cars are built and tested in Fremont; then the battery pack, the electric motor and parts are disassembled and shipped separately to Tilburg, where they are reassembled."
+            ],
+            "arguments": {
+                "1": "fremont",
+                "2": "tilburg"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "United States\nTesla was founded in San Carlos, California."
+            ],
+            "arguments": {
+                "1": "san carlos",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "menlo park"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "menlo park",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "menlo park",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "menlo park",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "manhattan",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Factories\nTesla's first assembly plant occupies the former NUMMI plant in Fremont, California."
+            ],
+            "arguments": {
+                "1": "fremont",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Gigafactory 2 is located in Buffalo, New York on the site of a former Republic Steel plant."
+            ],
+            "arguments": {
+                "1": "buffalo",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Gigafactory 2 is located in Buffalo, New York on the site of a former Republic Steel plant."
+            ],
+            "arguments": {
+                "1": "buffalo",
+                "2": "republic steel"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Gigafactory 2 is located in Buffalo, New York on the site of a former Republic Steel plant."
+            ],
+            "arguments": {
+                "1": "new york",
+                "2": "republic steel"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada\nTesla's first \"new design\" store opened on November 16, 2012 in the Yorkdale Shopping Centre in Toronto, Ontario."
+            ],
+            "arguments": {
+                "1": "toronto",
+                "2": "ontario"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver."
+            ],
+            "arguments": {
+                "1": "montreal",
+                "2": "quebec city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver."
+            ],
+            "arguments": {
+                "1": "montreal",
+                "2": "calgary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver."
+            ],
+            "arguments": {
+                "1": "montreal",
+                "2": "toronto"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver."
+            ],
+            "arguments": {
+                "1": "montreal",
+                "2": "vancouver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver."
+            ],
+            "arguments": {
+                "1": "quebec city",
+                "2": "calgary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver."
+            ],
+            "arguments": {
+                "1": "quebec city",
+                "2": "toronto"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver."
+            ],
+            "arguments": {
+                "1": "quebec city",
+                "2": "vancouver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver."
+            ],
+            "arguments": {
+                "1": "calgary",
+                "2": "toronto"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver."
+            ],
+            "arguments": {
+                "1": "calgary",
+                "2": "vancouver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver."
+            ],
+            "arguments": {
+                "1": "toronto",
+                "2": "vancouver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A 62,000 sq ft (5,800 m2) European service center operates in Tilburg, Netherlands, along with a 77,650 m2 (835,800 sq ft) assembly facility that adds drivetrain, battery and software to the (imported) car body to reduce EU import tax."
+            ],
+            "arguments": {
+                "1": "tilburg",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of February 2018, Tesla is building a small research and development office in Athens, Greece."
+            ],
+            "arguments": {
+                "1": "athens",
+                "2": "greece"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In July 2018, it was reported that Tesla was exploring building its first major European factory in Germany or the Netherlands."
+            ],
+            "arguments": {
+                "1": "germany",
+                "2": "netherlands"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Asia\nShowrooms and service centers operate in Hong Kong, Beijing and Shanghai."
+            ],
+            "arguments": {
+                "1": "hong kong",
+                "2": "beijing"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Asia\nShowrooms and service centers operate in Hong Kong, Beijing and Shanghai."
+            ],
+            "arguments": {
+                "1": "hong kong",
+                "2": "shanghai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Asia\nShowrooms and service centers operate in Hong Kong, Beijing and Shanghai."
+            ],
+            "arguments": {
+                "1": "beijing",
+                "2": "shanghai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla opened its first Japanese showroom in Tokyo, Japan, in October 2010."
+            ],
+            "arguments": {
+                "1": "tokyo",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gigafactory 3\nIn July 2018, Tesla signed an agreement with Chinese authorities to build a factory in Shanghai, China, which is Tesla's first Gigafactory outside of the United States."
+            ],
+            "arguments": {
+                "1": "shanghai",
+                "2": "china"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gigafactory 3\nIn July 2018, Tesla signed an agreement with Chinese authorities to build a factory in Shanghai, China, which is Tesla's first Gigafactory outside of the United States."
+            ],
+            "arguments": {
+                "1": "shanghai",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gigafactory 3\nIn July 2018, Tesla signed an agreement with Chinese authorities to build a factory in Shanghai, China, which is Tesla's first Gigafactory outside of the United States."
+            ],
+            "arguments": {
+                "1": "china",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Middle East\nTesla opened a showroom and a service center in Dubai, United Arab Emirates, in 2017 as the first expansion of Tesla in the Middle East."
+            ],
+            "arguments": {
+                "1": "dubai",
+                "2": "united arab emirates"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Australia\nTesla opened a showroom in Sydney in 2010, followed by a showroom and service center in Melbourne in 2015."
+            ],
+            "arguments": {
+                "1": "australia",
+                "2": "sydney"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Australia\nTesla opened a showroom in Sydney in 2010, followed by a showroom and service center in Melbourne in 2015."
+            ],
+            "arguments": {
+                "1": "australia",
+                "2": "melbourne"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Australia\nTesla opened a showroom in Sydney in 2010, followed by a showroom and service center in Melbourne in 2015."
+            ],
+            "arguments": {
+                "1": "sydney",
+                "2": "melbourne"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla and Panasonic also collaborate on the manufacturing and production of photovoltaic (PV) cells and modules at Gigafactory 2 in Buffalo, New York."
+            ],
+            "arguments": {
+                "1": "buffalo",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Securities Litigation Relating to the SolarCity Acquisition\nBetween September 1, 2016 and October 5, 2016, seven lawsuits were filed in the Court of Chancery of the State of Delaware by purported stockholders of Tesla challenging the company's acquisition of SolarCity."
+            ],
+            "arguments": {
+                "1": "the state",
+                "2": "delaware"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Securities Litigation Relating to the SolarCity Acquisition\nBetween September 1, 2016 and October 5, 2016, seven lawsuits were filed in the Court of Chancery of the State of Delaware by purported stockholders of Tesla challenging the company's acquisition of SolarCity."
+            ],
+            "arguments": {
+                "1": "the state",
+                "2": "tesla"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Securities Litigation Relating to the SolarCity Acquisition\nBetween September 1, 2016 and October 5, 2016, seven lawsuits were filed in the Court of Chancery of the State of Delaware by purported stockholders of Tesla challenging the company's acquisition of SolarCity."
+            ],
+            "arguments": {
+                "1": "delaware",
+                "2": "tesla"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Securities Litigation Relating to Production of Model 3 Vehicles\nOn October 10, 2017, a stockholder class action was filed in the U.S. District Court for the Northern District of California against Tesla, two of its current officers, and a former officer."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "tesla"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "All of the suits are now pending in the United States District Court for the Northern District of California."
+            ],
+            "arguments": {
+                "1": "the united states district court",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Crashes and fires\nOn October 1, 2013, a Model S caught fire after the vehicle hit metal debris on a highway in Kent, Washington."
+            ],
+            "arguments": {
+                "1": "kent",
+                "2": "washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A Model S driver died in a collision with a tractor-trailer on May 7, 2016, in Williston, Florida, while the vehicle was in autopilot mode."
+            ],
+            "arguments": {
+                "1": "williston",
+                "2": "florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On May 8, 2018, two 18-year-olds, driver Barrett Riley and passenger Edgar Monserratt Martinez, died in a fire in Fort Lauderdale, Florida that ensued after crashing a Tesla Model S into a wall while driving at the speed of 116 mph in a 25-30 mph zone."
+            ],
+            "arguments": {
+                "1": "fort lauderdale",
+                "2": "florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Lobbying activity\nIn June 2017, Tesla made a \"last-minute push near the end of the Albany legislative session to expand its sales force in New York.\""
+            ],
+            "arguments": {
+                "1": "albany",
+                "2": "new york"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "See also\nBattery electric vehicle\nList of automobile manufacturers of the United States\nList of electric cars currently available\nList of modern production plug-in electric vehicles\nList of production battery electric vehicles\nPlug-in electric vehicles in California\nPlug-in electric vehicles in the United States\nNIO\nRivian\nFaraday Future\nByton\nFisker Inc.\nPolestar\nXpeng G3\nReferences\nFurther reading\nVance, Ashlee (May 19, 2015)."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "plug"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "See also\nBattery electric vehicle\nList of automobile manufacturers of the United States\nList of electric cars currently available\nList of modern production plug-in electric vehicles\nList of production battery electric vehicles\nPlug-in electric vehicles in California\nPlug-in electric vehicles in the United States\nNIO\nRivian\nFaraday Future\nByton\nFisker Inc.\nPolestar\nXpeng G3\nReferences\nFurther reading\nVance, Ashlee (May 19, 2015)."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "See also\nBattery electric vehicle\nList of automobile manufacturers of the United States\nList of electric cars currently available\nList of modern production plug-in electric vehicles\nList of production battery electric vehicles\nPlug-in electric vehicles in California\nPlug-in electric vehicles in the United States\nNIO\nRivian\nFaraday Future\nByton\nFisker Inc.\nPolestar\nXpeng G3\nReferences\nFurther reading\nVance, Ashlee (May 19, 2015)."
+            ],
+            "arguments": {
+                "1": "plug",
+                "2": "california"
+            }
+        }
+    ]
+}{
+    "document": "TeslaInc.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "However, customers buy vehicles only from the Tesla website."
+            ],
+            "arguments": {
+                "1": "customers",
+                "2": "vehicles",
+                "3": "",
+                "4": "",
+                "5": "the Tesla website"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In May 2010 Tesla purchased a stake in what would become the Tesla Factory in Fremont, California, for US$42 million, and opened the facility in October 2010."
+            ],
+            "arguments": {
+                "1": "Tesla",
+                "2": "a stake",
+                "3": "US$42 million",
+                "4": "",
+                "5": ","
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In February 2019, Tesla announced that it will be acquiring ultracapacitor energy storage manufacturer Maxwell Technologies.\n\n"
+            ],
+            "arguments": {
+                "1": "it",
+                "2": "ultracapacitor energy storage manufacturer Maxwell Technologies",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Cars purchased before that date received free supercharging.\n\n"
+            ],
+            "arguments": {
+                "1": "Cars",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2015, Tesla acquired Riviera Tool & Die (with 100 employees in Michigan), one of its suppliers of stamping items."
+            ],
+            "arguments": {
+                "1": "Tesla",
+                "2": "Die",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2017, Tesla acquired Perbix Machine Company, a manufacturer of automated manufacturing equipment, that had been an equipment supplier for over three years.\n\n"
+            ],
+            "arguments": {
+                "1": "Tesla",
+                "2": "Perbix Machine Company",
+                "3": "",
+                "4": "",
+                "5": "automated manufacturing equipment"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In late 2016, Tesla acquired German engineering firm Grohmann Engineering in Pr\u00fcm as a new division dedicated to helping Tesla increase the automation and effectiveness of its manufacturing process."
+            ],
+            "arguments": {
+                "1": "Tesla",
+                "2": "German engineering firm Grohmann Engineering",
+                "3": "",
+                "4": "",
+                "5": "Pr\u00fcm"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On May 19, 2009, Daimler bought a stake of less than 10% in Tesla for a reported US$50 million."
+            ],
+            "arguments": {
+                "1": "Daimler",
+                "2": "a stake",
+                "3": "US$50 million",
+                "4": "",
+                "5": "less than 10%"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "At first Musk responded on Twitter, writing that the investors \"should buy Ford stock\" because \"their governance is amazing."
+            ],
+            "arguments": {
+                "1": "the investors",
+                "2": "Ford stock",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Riviera Tool LLC was acquired for an unknown price.\n"
+            ],
+            "arguments": {
+                "1": "",
+                "2": "Riviera Tool LLC",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "TeslaInc.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Musk, who formerly served as chairman and is the current chief executive officer, said that he envisioned Tesla Motors as a technology company and independent automaker, aimed at eventually offering electric cars at prices affordable to the average consumer."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "Motors",
+                "3": "officer; chairman",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "After ranking third by brand in 2017, behind BYD and BAIC, Tesla ranked as the world's best selling plug-in passenger car manufacturer in 2018, both as a brand and by automotive group, with 245,240 units delivered, capturing a market share of 12% of all plug-in cars sold globally in 2018, followed by BYD Auto with 227,152 plug-in passenger cars delivered.\n\n"
+            ],
+            "arguments": {
+                "1": "cars",
+                "2": "Auto",
+                "3": "manufacturer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 2017, Tesla acquired Perbix Machine Company, a manufacturer of automated manufacturing equipment, that had been an equipment supplier for over three years.\n\n"
+            ],
+            "arguments": {
+                "1": "that",
+                "2": "Company",
+                "3": "manufacturer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Settlement with SEC related to Potential Going Private Transaction\nOn October 16, 2018, the U.S. District Court for the Southern District of New York entered a final judgment approving the terms of a settlement filed with the Court on September 29, 2018, in connection with the actions taken by the U.S. Securities and Exchange Commission (the \u201cSEC\u201d) relating to Elon Musk\u2019s prior statement that he was considering taking Tesla private."
+            ],
+            "arguments": {
+                "1": "\u2019s",
+                "2": "SEC",
+                "3": "private",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "As of December 2018, the Tesla board of directors consists of:\n\nRobyn Denholm, Chairman of Tesla, Inc. CFO and Head of Strategy of Telstra\nElon Musk, CEO and Product Architect of Tesla; founder, CEO and CTO of SpaceX; Chairman of SolarCity\nBrad W. Buss, Former CFO of SolarCity; former CFO of Cypress Semiconductor Corp\nIra Ehrenpreis, General Partner at Technology Partners\n"
+            ],
+            "arguments": {
+                "1": "Ehrenpreis",
+                "2": "Partners",
+                "3": "CEO; founder",
+                "4": ""
+            }
+        }
+    ]
+}

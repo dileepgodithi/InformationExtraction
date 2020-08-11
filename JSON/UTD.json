@@ -1,0 +1,463 @@
+{
+    "document": "UTD.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "The main campus is in the Richardson, Texas, Telecom Corridor, 18 miles (29 km) north of Downtown Dallas."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The main campus is in the Richardson, Texas, Telecom Corridor, 18 miles (29 km) north of Downtown Dallas."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The main campus is in the Richardson, Texas, Telecom Corridor, 18 miles (29 km) north of Downtown Dallas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1969, the founders bequeathed SCAS to the state of Texas, officially creating The University of Texas at Dallas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Qualified personnel required by TI were not readily available in the Dallas-Fort Worth area because the region's universities did not provide enough graduates with advanced training in engineering and physical sciences."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Graduate Research Center of the Southwest was renamed the Southwest Center for Advanced Studies (SCAS) in 1967, and in 1969 the founders transferred the land and assets of SCAS to the State of Texas."
+            ],
+            "arguments": {
+                "1": "the state",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2009 UT Dallas marked its 40 years as a Texas public university and 20 years of freshman enrollment in the university."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington Monthly's 2015 Annual College and University Rankings placed UTD at 99th in the United States."
+            ],
+            "arguments": {
+                "1": "washington",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Only nine schools in the U.S. made the list, and UT Dallas was the top one in Texas."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Only nine schools in the U.S. made the list, and UT Dallas was the top one in Texas."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Only nine schools in the U.S. made the list, and UT Dallas was the top one in Texas."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the UTD's program in Geography and Geospatial Sciences was ranked 16th nationally and top 1 in Texas by Academic Analytics of Stony Brook, N.Y."
+            ],
+            "arguments": {
+                "1": "geography",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the UTD's program in Geography and Geospatial Sciences was ranked 16th nationally and top 1 in Texas by Academic Analytics of Stony Brook, N.Y."
+            ],
+            "arguments": {
+                "1": "geography",
+                "2": "stony brook"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the UTD's program in Geography and Geospatial Sciences was ranked 16th nationally and top 1 in Texas by Academic Analytics of Stony Brook, N.Y."
+            ],
+            "arguments": {
+                "1": "geography",
+                "2": "n.y."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the UTD's program in Geography and Geospatial Sciences was ranked 16th nationally and top 1 in Texas by Academic Analytics of Stony Brook, N.Y."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "stony brook"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the UTD's program in Geography and Geospatial Sciences was ranked 16th nationally and top 1 in Texas by Academic Analytics of Stony Brook, N.Y."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "n.y."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2002 the UTD Erik Jonsson School of Engineering and Computer Science was the first in the United States to offer an ABET-accredited B.S."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "b.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Bioengineering department offers MS and PhD degrees in biomedical engineering in conjunction with programs at the University of Texas Southwestern Medical Center at Dallas and the University of Texas at Arlington."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "arlington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "UT Dallas is the fourth university in the nation to receive an accreditation from the United States Geospatial Intelligence Foundation (USGIF) for a Geospatial Intelligence certificate."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Campus\n\nThe main campus is near the Richardson, Texas, Telecom Corridor, 18 miles (29 km) north of downtown Dallas, on the boundary of Dallas and Collin counties."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Campus\n\nThe main campus is near the Richardson, Texas, Telecom Corridor, 18 miles (29 km) north of downtown Dallas, on the boundary of Dallas and Collin counties."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Campus\n\nThe main campus is near the Richardson, Texas, Telecom Corridor, 18 miles (29 km) north of downtown Dallas, on the boundary of Dallas and Collin counties."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "UT Dallas owns generally contiguous land in Richardson, Texas consisting of approximately 465 acres (1.88 km2) for campus development and another 265 acres (1.07 km2) adjacent to the campus."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "richardson"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "UT Dallas owns generally contiguous land in Richardson, Texas consisting of approximately 465 acres (1.88 km2) for campus development and another 265 acres (1.07 km2) adjacent to the campus."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "UT Dallas owns generally contiguous land in Richardson, Texas consisting of approximately 465 acres (1.88 km2) for campus development and another 265 acres (1.07 km2) adjacent to the campus."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "UTD's Waterview Science & Technology Center and the Research and Operations Center, a leased building, are adjacent to the main campus, on the west side of Waterview Parkway in the Dallas, Texas city limits."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The city of Richardson, Texas passed a bond election on May 8, 2010, which allocated $2.8 million in funding for a UT Dallas loop road to connect the roads around campus."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The city of Richardson, Texas passed a bond election on May 8, 2010, which allocated $2.8 million in funding for a UT Dallas loop road to connect the roads around campus."
+            ],
+            "arguments": {
+                "1": "richardson",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For the design UT Dallas chose Studios Architecture\u2014the firm that designed Google Headquarters in Mountain View, California."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "mountain view"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For the design UT Dallas chose Studios Architecture\u2014the firm that designed Google Headquarters in Mountain View, California."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For the design UT Dallas chose Studios Architecture\u2014the firm that designed Google Headquarters in Mountain View, California."
+            ],
+            "arguments": {
+                "1": "mountain view",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "UT Dallas is also planning to build an on-campus DART stop on the Cotton Belt rail line in Northside, with construction starting in 2019 and opening in 2022."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "northside"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "UT Dallas Moot Court debate team placed first overall in the regional competition at the American Collegiate Moot Court Association National Tournament, hosted January 2012 at Chapman University in Orange, California."
+            ],
+            "arguments": {
+                "1": "orange",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Traditions\n\nSome of the traditions that give UT Dallas its distinctive flavor are Homecoming, Annual Oozeball Tournament, Ceremonial Mace, Legacy Lane, Welcome Week, Family Day, Splatterbeat and Cecil Green's Head."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "homecoming"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Notable people\n\nNotable UT Dallas faculty, staff, and alumni include an Antarctic explorer, an astronaut, members of the National Academies, four Nobel laureates, a writer and folklorist, a member of India's Parliament, the founder of the world's first molecular nanotechnology company Kellen Flynn, Jordan Finstad, Sagar Gandhi, Zach Papa, Johnson Lam and others who have achieved prominent careers in business, government, engineering, science, medicine, the arts, and education."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "india"
+            }
+        }
+    ]
+}{
+    "document": "UTD.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "The UT Dallas founders, Eugene McDermott, Cecil Howard Green and J. Erik Jonsson, purchased Geophysical Service Incorporated (GSI) on December 6, 1941, the day before the attack on Pearl Harbor."
+            ],
+            "arguments": {
+                "1": "The UT Dallas founders",
+                "2": "Geophysical Service Incorporated",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Land for the center was acquired by Jonsson, McDermott, and Green in Richardson in 1962 and the first facility, the Laboratory of Earth and Planetary Science (later named the Founders Building), opened on the grounds of the present-day UTD campus in 1964."
+            ],
+            "arguments": {
+                "1": "Jonsson",
+                "2": "Land",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Buildings 1\u201337, previously known as the Waterview Park Apartments, were owned by the Utley Foundation and purchased by UTD on July 1, 2013."
+            ],
+            "arguments": {
+                "1": "UTD",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "All first-year students living on campus are required to purchase a meal plan; meal plans are optional for all other students who live on campus.\n"
+            ],
+            "arguments": {
+                "1": "",
+                "2": "a meal plan",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "UTD.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Francis S. Johnson served as interim president and William B. Hanson was named the director of the Division of Atmospheric and Space Sciences now known as the William B. Hanson Center for Space Sciences.\n"
+            ],
+            "arguments": {
+                "1": "Johnson",
+                "2": "Sciences",
+                "3": "director; president",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In June 2005, David E. Daniel became the fourth president of the University of Texas at Dallas and had served on the faculty at UT Austin and was the Dean of Engineering at the University of Illinois from 2001 to 2005."
+            ],
+            "arguments": {
+                "1": "Daniel",
+                "2": "Illinois",
+                "3": "president",
+                "4": "Dallas"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The Alan G. MacDiarmid NanoTech Institute was established in 2001 when Ray Baughman, a pioneering nanotechnologist, became the Robert A. Welch Distinguished Chair in Chemistry and director of the university's NanoTech Institute."
+            ],
+            "arguments": {
+                "1": "Baughman",
+                "2": "Institute",
+                "3": "director",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Notable UT Dallas faculty, staff, and alumni include an Antarctic explorer, an astronaut, members of the National Academies, four Nobel laureates, a writer and folklorist, a member of India's Parliament, the founder of the world's first molecular nanotechnology company Kellen Flynn, Jordan Finstad, Sagar Gandhi, Zach Papa, Johnson Lam and others who have achieved prominent careers in business, government, engineering, science, medicine, the arts, and education.\n\n    "
+            ],
+            "arguments": {
+                "1": "Lam",
+                "2": "Parliament",
+                "3": "explorer; astronaut; founder; writer",
+                "4": ""
+            }
+        }
+    ]
+}

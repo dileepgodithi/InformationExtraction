@@ -1,0 +1,187 @@
+{
+    "document": "ElonMusk.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Born and raised in Pretoria, South Africa, Musk moved to Canada when he was 17 to attend Queen's University."
+            ],
+            "arguments": {
+                "1": "pretoria",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life\nMusk was born on June 28, 1971, in Pretoria, Transvaal, South Africa, the son of Maye Musk (n\u00e9e Haldeman), a model and dietitian from Regina, Saskatchewan, Canada, and Errol Musk, a South African electromechanical engineer, pilot, and sailor."
+            ],
+            "arguments": {
+                "1": "pretoria",
+                "2": "transvaal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life\nMusk was born on June 28, 1971, in Pretoria, Transvaal, South Africa, the son of Maye Musk (n\u00e9e Haldeman), a model and dietitian from Regina, Saskatchewan, Canada, and Errol Musk, a South African electromechanical engineer, pilot, and sailor."
+            ],
+            "arguments": {
+                "1": "pretoria",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life\nMusk was born on June 28, 1971, in Pretoria, Transvaal, South Africa, the son of Maye Musk (n\u00e9e Haldeman), a model and dietitian from Regina, Saskatchewan, Canada, and Errol Musk, a South African electromechanical engineer, pilot, and sailor."
+            ],
+            "arguments": {
+                "1": "transvaal",
+                "2": "south africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Although Musk's father insisted that Elon go to college in Pretoria, Musk became determined to move to the United States."
+            ],
+            "arguments": {
+                "1": "pretoria",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Musk is chief executive officer (CEO) and chief technology officer (CTO) of the Hawthorne, California-based company."
+            ],
+            "arguments": {
+                "1": "hawthorne",
+                "2": "california"
+            }
+        }
+    ]
+}{
+    "document": "ElonMusk.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "He subsequently co-founded Zip2, a web software company, which was acquired by Compaq for $340 million in 1999."
+            ],
+            "arguments": {
+                "1": "Compaq",
+                "2": "which",
+                "3": "$340 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "It merged with Confinity in 2000 and later that year became PayPal, which was bought by eBay for $1.5 billion in October 2002.\n\n"
+            ],
+            "arguments": {
+                "1": "eBay",
+                "2": "which",
+                "3": "$1.5 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Compaq acquired Zip2 for US$307 million in cash and US$34 million in stock options in February 1999."
+            ],
+            "arguments": {
+                "1": "Compaq",
+                "2": "Zip2",
+                "3": "US$34 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In October 2002, PayPal was acquired by eBay for US$1.5 billion in stock, of which Musk received US$165 million."
+            ],
+            "arguments": {
+                "1": "eBay",
+                "2": "PayPal",
+                "3": "US$165 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In July 2017, Musk purchased the domain x.com from PayPal for an undisclosed amount, stating that it has sentimental value to him.\n\n"
+            ],
+            "arguments": {
+                "1": "Musk",
+                "2": "x.com",
+                "3": "",
+                "4": "",
+                "5": "PayPal"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In October 2001, Musk travelled to Moscow with Jim Cantrell (an aerospace supplies fixer), and Adeo Ressi (his best friend from college), to buy refurbished Dnepr Intercontinental ballistic missiles (ICBMs) that could send the envisioned payloads into space."
+            ],
+            "arguments": {
+                "1": "Musk",
+                "2": "refurbished Dnepr Intercontinental ballistic missiles",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "ElonMusk.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "He holds South African, Canadian, and U.S. citizenship and is the founder, CEO, and lead designer of SpaceX; co-founder, CEO, and product architect of Tesla, Inc.; co-founder and CEO of Neuralink; founder of The Boring Company; co-founder and co-chairman of OpenAI; and co-founder of PayPal."
+            ],
+            "arguments": {
+                "1": "He",
+                "2": "Company",
+                "3": "CEO; architect; founder; designer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In May 2002, Musk founded SpaceX, an aerospace manufacturer and space transport services company, of which he is CEO and lead designer."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "SpaceX",
+                "3": "CEO; designer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 2006, he inspired the creation of SolarCity, a solar energy services company that is now a subsidiary of Tesla, and operates as its chairman."
+            ],
+            "arguments": {
+                "1": "that",
+                "2": "SolarCity",
+                "3": "chairman",
+                "4": ""
+            }
+        }
+    ]
+}

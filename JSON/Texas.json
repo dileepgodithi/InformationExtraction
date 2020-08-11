@@ -1,0 +1,2674 @@
+{
+    "document": "Texas.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas (, locally ; Spanish: Texas or Tejas Spanish pronunciation: [\u02c8texas] (listen)) is the second largest state in the United States by both area and population."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas (, locally ; Spanish: Texas or Tejas Spanish pronunciation: [\u02c8texas] (listen)) is the second largest state in the United States by both area and population."
+            ],
+            "arguments": {
+                "1": "tejas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically located in the South Central region of the country, Texas shares borders with the U.S. states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo Le\u00f3n, and Tamaulipas to the southwest, while the Gulf of Mexico is to the southeast."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "louisiana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically located in the South Central region of the country, Texas shares borders with the U.S. states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo Le\u00f3n, and Tamaulipas to the southwest, while the Gulf of Mexico is to the southeast."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "louisiana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically located in the South Central region of the country, Texas shares borders with the U.S. states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo Le\u00f3n, and Tamaulipas to the southwest, while the Gulf of Mexico is to the southeast."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "chihuahua"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically located in the South Central region of the country, Texas shares borders with the U.S. states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo Le\u00f3n, and Tamaulipas to the southwest, while the Gulf of Mexico is to the southeast."
+            ],
+            "arguments": {
+                "1": "louisiana",
+                "2": "arkansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically located in the South Central region of the country, Texas shares borders with the U.S. states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo Le\u00f3n, and Tamaulipas to the southwest, while the Gulf of Mexico is to the southeast."
+            ],
+            "arguments": {
+                "1": "louisiana",
+                "2": "oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically located in the South Central region of the country, Texas shares borders with the U.S. states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo Le\u00f3n, and Tamaulipas to the southwest, while the Gulf of Mexico is to the southeast."
+            ],
+            "arguments": {
+                "1": "louisiana",
+                "2": "new mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically located in the South Central region of the country, Texas shares borders with the U.S. states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo Le\u00f3n, and Tamaulipas to the southwest, while the Gulf of Mexico is to the southeast."
+            ],
+            "arguments": {
+                "1": "louisiana",
+                "2": "chihuahua"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas\u2013Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other major cities include Austin, the second-most populous state capital in the U.S., and El Paso."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Although Texas is popularly associated with the U.S. southwestern deserts, less than 10% of Texas's land area is desert."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Spain was the first European country to claim the area of Texas."
+            ],
+            "arguments": {
+                "1": "spain",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word t\u00e1ysha\u02bc (/t'aj\u0283a\u0294/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "tejas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word t\u00e1ysha\u02bc (/t'aj\u0283a\u0294/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "nabedaches"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word t\u00e1ysha\u02bc (/t'aj\u0283a\u0294/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "houston county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word t\u00e1ysha\u02bc (/t'aj\u0283a\u0294/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "east texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word t\u00e1ysha\u02bc (/t'aj\u0283a\u0294/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "tejas",
+                "2": "nabedaches"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word t\u00e1ysha\u02bc (/t'aj\u0283a\u0294/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "tejas",
+                "2": "houston county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word t\u00e1ysha\u02bc (/t'aj\u0283a\u0294/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "tejas",
+                "2": "east texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word t\u00e1ysha\u02bc (/t'aj\u0283a\u0294/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "nabedaches",
+                "2": "houston county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word t\u00e1ysha\u02bc (/t'aj\u0283a\u0294/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "nabedaches",
+                "2": "east texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word t\u00e1ysha\u02bc (/t'aj\u0283a\u0294/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "houston county",
+                "2": "east texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During Spanish colonial rule, in the 18th century, the area was known as Nuevo Reino de Filipinas \"New Kingdom of the Philippines\", or as provincia de los Tejas \"province of the Tejas\", later also provincia de Texas (or de Tejas), \"province of Texas\".It was incorporated as provincia de Texas into the Mexican Empire in 1821, and declared a republic in 1836."
+            ],
+            "arguments": {
+                "1": "new kingdom",
+                "2": "philippines"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During Spanish colonial rule, in the 18th century, the area was known as Nuevo Reino de Filipinas \"New Kingdom of the Philippines\", or as provincia de los Tejas \"province of the Tejas\", later also provincia de Texas (or de Tejas), \"province of Texas\".It was incorporated as provincia de Texas into the Mexican Empire in 1821, and declared a republic in 1836."
+            ],
+            "arguments": {
+                "1": "new kingdom",
+                "2": "tejas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During Spanish colonial rule, in the 18th century, the area was known as Nuevo Reino de Filipinas \"New Kingdom of the Philippines\", or as provincia de los Tejas \"province of the Tejas\", later also provincia de Texas (or de Tejas), \"province of Texas\".It was incorporated as provincia de Texas into the Mexican Empire in 1821, and declared a republic in 1836."
+            ],
+            "arguments": {
+                "1": "philippines",
+                "2": "tejas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During Spanish colonial rule, in the 18th century, the area was known as Nuevo Reino de Filipinas \"New Kingdom of the Philippines\", or as provincia de los Tejas \"province of the Tejas\", later also provincia de Texas (or de Tejas), \"province of Texas\".It was incorporated as provincia de Texas into the Mexican Empire in 1821, and declared a republic in 1836."
+            ],
+            "arguments": {
+                "1": "philippines",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During Spanish colonial rule, in the 18th century, the area was known as Nuevo Reino de Filipinas \"New Kingdom of the Philippines\", or as provincia de los Tejas \"province of the Tejas\", later also provincia de Texas (or de Tejas), \"province of Texas\".It was incorporated as provincia de Texas into the Mexican Empire in 1821, and declared a republic in 1836."
+            ],
+            "arguments": {
+                "1": "philippines",
+                "2": "the mexican empire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nTexas is the second-largest U.S. state, after Alaska, with an area of 268,820 square miles (696,200 km2)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nTexas is the second-largest U.S. state, after Alaska, with an area of 268,820 square miles (696,200 km2)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geography\nTexas is the second-largest U.S. state, after Alaska, with an area of 268,820 square miles (696,200 km2)."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas is in the south central part of the United States of America."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states of america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Great Plains region in central Texas spans through the state's panhandle and Llano Estacado to the state's hill country near Austin."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "austin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geology\nTexas is the southernmost part of the Great Plains, which ends in the south against the folded Sierra Madre Occidental of Mexico."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Today 9 to 12 miles (14 to 19 km) of sediments are buried beneath the Texas continental shelf and a large proportion of remaining US oil reserves are here."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Night-time summer temperatures range from the upper 50s \u00b0F (14 \u00b0C) in the West Texas mountains to 80 \u00b0F (27 \u00b0C) in Galveston."
+            ],
+            "arguments": {
+                "1": "west texas",
+                "2": "galveston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Some of the most destructive hurricanes in U.S. history have impacted Texas."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Greenhouse gases\nTexas emits the most greenhouse gases in the U.S."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "These were:\n\nthe Pueblo from the upper Rio Grande region, centered west of Texas;\nthe Mississippian culture, also known as Mound Builders, which extended along the Mississippi River Valley east of Texas; and\nthe civilizations of Mesoamerica, centered south of Texas."
+            ],
+            "arguments": {
+                "1": "pueblo",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "These were:\n\nthe Pueblo from the upper Rio Grande region, centered west of Texas;\nthe Mississippian culture, also known as Mound Builders, which extended along the Mississippi River Valley east of Texas; and\nthe civilizations of Mesoamerica, centered south of Texas."
+            ],
+            "arguments": {
+                "1": "pueblo",
+                "2": "mesoamerica"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "These were:\n\nthe Pueblo from the upper Rio Grande region, centered west of Texas;\nthe Mississippian culture, also known as Mound Builders, which extended along the Mississippi River Valley east of Texas; and\nthe civilizations of Mesoamerica, centered south of Texas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "mesoamerica"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At least one tribe of Coahuiltecans, the Aranama, lived in southern Texas."
+            ],
+            "arguments": {
+                "1": "aranama",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "alabama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "apache"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "atakapan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "bidai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "caddo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "aranama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "comanche"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "kiowa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "wichita"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seemingly without actually knowing how they came by it, the United States (who had begun convincing tribes to self-segregate from whites by selling everything and moving west ever since they gained the Louisiana Purchase) faced an overflow of native peoples in Missouri and Arkansas and were able to negotiate with the Caddoans to allow several displaced peoples to settle on unused lands in eastern Texas."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seemingly without actually knowing how they came by it, the United States (who had begun convincing tribes to self-segregate from whites by selling everything and moving west ever since they gained the Louisiana Purchase) faced an overflow of native peoples in Missouri and Arkansas and were able to negotiate with the Caddoans to allow several displaced peoples to settle on unused lands in eastern Texas."
+            ],
+            "arguments": {
+                "1": "missouri",
+                "2": "arkansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seemingly without actually knowing how they came by it, the United States (who had begun convincing tribes to self-segregate from whites by selling everything and moving west ever since they gained the Louisiana Purchase) faced an overflow of native peoples in Missouri and Arkansas and were able to negotiate with the Caddoans to allow several displaced peoples to settle on unused lands in eastern Texas."
+            ],
+            "arguments": {
+                "1": "missouri",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seemingly without actually knowing how they came by it, the United States (who had begun convincing tribes to self-segregate from whites by selling everything and moving west ever since they gained the Louisiana Purchase) faced an overflow of native peoples in Missouri and Arkansas and were able to negotiate with the Caddoans to allow several displaced peoples to settle on unused lands in eastern Texas."
+            ],
+            "arguments": {
+                "1": "arkansas",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While no proof was found as to who the culprit was, those in charge of Texas at the time attempted multiple times to publicly blame and punish the Caddoans for the incidents with the U.S. government trying to keep them in check."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary between New Spain and the United States was finally set at the Sabine River in 1819, at what is now the border between Texas and Louisiana."
+            ],
+            "arguments": {
+                "1": "new spain",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary between New Spain and the United States was finally set at the Sabine River in 1819, at what is now the border between Texas and Louisiana."
+            ],
+            "arguments": {
+                "1": "new spain",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary between New Spain and the United States was finally set at the Sabine River in 1819, at what is now the border between Texas and Louisiana."
+            ],
+            "arguments": {
+                "1": "new spain",
+                "2": "louisiana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary between New Spain and the United States was finally set at the Sabine River in 1819, at what is now the border between Texas and Louisiana."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary between New Spain and the United States was finally set at the Sabine River in 1819, at what is now the border between Texas and Louisiana."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "louisiana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The boundary between New Spain and the United States was finally set at the Sabine River in 1819, at what is now the border between Texas and Louisiana."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "louisiana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1821, the Mexican War of Independence included the Texas territory, which became part of Mexico."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Due to its low population, Mexico made the area part of the state of Coahuila y Tejas."
+            ],
+            "arguments": {
+                "1": "mexico",
+                "2": "coahuila"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Due to its low population, Mexico made the area part of the state of Coahuila y Tejas."
+            ],
+            "arguments": {
+                "1": "coahuila",
+                "2": "tejas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Most of these early settlers who arrived with Austin and soon after were persons less than fortunate in life, as Texas was devoid of the comforts found elsewhere in Mexico and the United States during that time."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Most of these early settlers who arrived with Austin and soon after were persons less than fortunate in life, as Texas was devoid of the comforts found elsewhere in Mexico and the United States during that time."
+            ],
+            "arguments": {
+                "1": "mexico",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Their opponents, led by Sam Houston, advocated the annexation of Texas to the United States and peaceful co-existence with Native Americans."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Despite these successes, Mexico did not keep an occupying force in Texas, and the republic survived."
+            ],
+            "arguments": {
+                "1": "mexico",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first battles of the war were fought in Texas: the Siege of Fort Texas, Battle of Palo Alto and Battle of Resaca de la Palma."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "palo alto"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first battles of the war were fought in Texas: the Siege of Fort Texas, Battle of Palo Alto and Battle of Resaca de la Palma."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "battle of"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first battles of the war were fought in Texas: the Siege of Fort Texas, Battle of Palo Alto and Battle of Resaca de la Palma."
+            ],
+            "arguments": {
+                "1": "palo alto",
+                "2": "battle of"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "After these decisive victories, the United States invaded Mexican territory ending the fighting in Texas."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In return, for US$18,250,000, Mexico gave the U.S. undisputed control of Texas, ceded the Mexican Cession in 1848, most of which today is called the American Southwest, and Texas's borders were established at the Rio Grande."
+            ],
+            "arguments": {
+                "1": "mexico",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In return, for US$18,250,000, Mexico gave the U.S. undisputed control of Texas, ceded the Mexican Cession in 1848, most of which today is called the American Southwest, and Texas's borders were established at the Rio Grande."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "new mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "kansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "maryland",
+                "2": "wyoming"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "new mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "kansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "wyoming"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "new mexico",
+                "2": "colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "new mexico",
+                "2": "kansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "new mexico",
+                "2": "oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "new mexico",
+                "2": "wyoming"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "kansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "colorado",
+                "2": "wyoming"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "kansas",
+                "2": "oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "kansas",
+                "2": "wyoming"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "oklahoma",
+                "2": "wyoming"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Railroad networks grew rapidly as did the port at Galveston as commerce between Texas and the rest of the U.S. (and the rest of the world) expanded."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Earlier 20th century\nIn 1900, Texas suffered the deadliest natural disaster in U.S. history during the Galveston hurricane."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On January 10, 1901, the first major oil well in Texas, Spindletop, was found south of Beaumont."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "spindletop"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On January 10, 1901, the first major oil well in Texas, Spindletop, was found south of Beaumont."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "beaumont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On January 10, 1901, the first major oil well in Texas, Spindletop, was found south of Beaumont."
+            ],
+            "arguments": {
+                "1": "spindletop",
+                "2": "beaumont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other fields were later discovered nearby in East Texas, West Texas, and under the Gulf of Mexico."
+            ],
+            "arguments": {
+                "1": "east texas",
+                "2": "west texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Socialist Party became the second-largest party in Texas after 1912, coinciding with a large socialist upsurge in the United States during fierce battles in the labor movement and the popularity of national heroes like Eugene V. Debs."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Especially from this period on, blacks left Texas in the Great Migration to get work in the Northern United States or California and to escape the oppression of segregation."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the northern united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Especially from this period on, blacks left Texas in the Great Migration to get work in the Northern United States or California and to escape the oppression of segregation."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Especially from this period on, blacks left Texas in the Great Migration to get work in the Northern United States or California and to escape the oppression of segregation."
+            ],
+            "arguments": {
+                "1": "the northern united states",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas manufactured 3.1 percent of total United States military armaments produced during World War II, ranking eleventh among the 48 states."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The judiciary of Texas is one of the most complex in the United States, with many layers and overlapping jurisdictions."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas is notable for its use of capital punishment, having led the country in executions since capital punishment was reinstated in the Gregg v. Georgia case (see Capital punishment in Texas)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "georgia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of the general elections of 2014, a large majority of the members of Texas's U.S. House delegation are Republican, along with both U.S."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the 114th United States Congress, of the 36 Congressional districts in Texas, 24 are held by Republicans and 11 by Democrats."
+            ],
+            "arguments": {
+                "1": "the 114th united states congress",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "beaumont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "el paso"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "beaumont",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "beaumont",
+                "2": "el paso"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "beaumont",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "beaumont",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "el paso"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "el paso",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "el paso",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston and San Antonio as well as minority voters in East and South Texas."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is one of the 32 states that practice capital punishment, and since the US Supreme Court allowed capital punishment to resume in 1976, 40% of all US executions have taken place in Texas."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of 2008, Texas had the 4th highest incarceration rate in the US."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "us"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy\nAs of 2017, Texas had a gross state product (GSP) of $1.696 trillion, the second highest in the U.S. Its GSP is greater than the GDPs of Canada, South Korea, Russia and Australia, which are the world's 10th-, 11th-, 12th- and 13th-largest economies, respectively."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy\nAs of 2017, Texas had a gross state product (GSP) of $1.696 trillion, the second highest in the U.S. Its GSP is greater than the GDPs of Canada, South Korea, Russia and Australia, which are the world's 10th-, 11th-, 12th- and 13th-largest economies, respectively."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "south korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy\nAs of 2017, Texas had a gross state product (GSP) of $1.696 trillion, the second highest in the U.S. Its GSP is greater than the GDPs of Canada, South Korea, Russia and Australia, which are the world's 10th-, 11th-, 12th- and 13th-largest economies, respectively."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy\nAs of 2017, Texas had a gross state product (GSP) of $1.696 trillion, the second highest in the U.S. Its GSP is greater than the GDPs of Canada, South Korea, Russia and Australia, which are the world's 10th-, 11th-, 12th- and 13th-largest economies, respectively."
+            ],
+            "arguments": {
+                "1": "canada",
+                "2": "australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy\nAs of 2017, Texas had a gross state product (GSP) of $1.696 trillion, the second highest in the U.S. Its GSP is greater than the GDPs of Canada, South Korea, Russia and Australia, which are the world's 10th-, 11th-, 12th- and 13th-largest economies, respectively."
+            ],
+            "arguments": {
+                "1": "south korea",
+                "2": "russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy\nAs of 2017, Texas had a gross state product (GSP) of $1.696 trillion, the second highest in the U.S. Its GSP is greater than the GDPs of Canada, South Korea, Russia and Australia, which are the world's 10th-, 11th-, 12th- and 13th-largest economies, respectively."
+            ],
+            "arguments": {
+                "1": "south korea",
+                "2": "australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Economy\nAs of 2017, Texas had a gross state product (GSP) of $1.696 trillion, the second highest in the U.S. Its GSP is greater than the GDPs of Canada, South Korea, Russia and Australia, which are the world's 10th-, 11th-, 12th- and 13th-largest economies, respectively."
+            ],
+            "arguments": {
+                "1": "russia",
+                "2": "australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "england"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "uk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "kant\u014d"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "england",
+                "2": "uk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "england",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "england",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "england",
+                "2": "kant\u014d"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "uk",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "uk",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "uk",
+                "2": "kant\u014d"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "kant\u014d"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's economy is the fourth-largest of any country subdivision globally, behind England (as part of the UK), California, and Japan's Kant\u014d region."
+            ],
+            "arguments": {
+                "1": "japan",
+                "2": "kant\u014d"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas has the joint-highest number of Fortune 500 company headquarters in the United States, along with California."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas has the joint-highest number of Fortune 500 company headquarters in the United States, along with California."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Agriculture and mining\nTexas has the most farms and the highest acreage in the United States."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Port Arthur Refinery in Southeast Texas is the largest refinery in the U.S. Texas also leads in natural gas production, producing one-fourth of the nation's supply."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several petroleum companies are based in Texas such as: Anadarko Petroleum Corporation, ConocoPhillips, ExxonMobil, Halliburton, Marathon Oil, Tesoro, and Valero, Western Refining."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "tesoro"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As an independent nation, Texas would rank as the world's eleventh-largest producer of electricity, after South Korea, and ahead of the United Kingdom."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As an independent nation, Texas would rank as the world's eleventh-largest producer of electricity, after South Korea, and ahead of the United Kingdom."
+            ],
+            "arguments": {
+                "1": "south korea",
+                "2": "the united kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Roscoe Wind Farm in Roscoe, Texas, is one of the world's largest wind farms with a 781.5 megawatt (MW) capacity."
+            ],
+            "arguments": {
+                "1": "roscoe",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Examples of Fortune 500 companies not based on Texas traditional industries are AT&T, Kimberly-Clark, Blockbuster, J. C. Penney, Whole Foods Market, and Tenet Healthcare.Nationally, the Dallas\u2013Fort Worth area, home to the second shopping mall in the United States, has the most shopping malls per capita of any American metropolitan area."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Examples of Fortune 500 companies not based on Texas traditional industries are AT&T, Kimberly-Clark, Blockbuster, J. C. Penney, Whole Foods Market, and Tenet Healthcare.Nationally, the Dallas\u2013Fort Worth area, home to the second shopping mall in the United States, has the most shopping malls per capita of any American metropolitan area."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Examples of Fortune 500 companies not based on Texas traditional industries are AT&T, Kimberly-Clark, Blockbuster, J. C. Penney, Whole Foods Market, and Tenet Healthcare.Nationally, the Dallas\u2013Fort Worth area, home to the second shopping mall in the United States, has the most shopping malls per capita of any American metropolitan area."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Examples of Fortune 500 companies not based on Texas traditional industries are AT&T, Kimberly-Clark, Blockbuster, J. C. Penney, Whole Foods Market, and Tenet Healthcare.Nationally, the Dallas\u2013Fort Worth area, home to the second shopping mall in the United States, has the most shopping malls per capita of any American metropolitan area."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Examples of Fortune 500 companies not based on Texas traditional industries are AT&T, Kimberly-Clark, Blockbuster, J. C. Penney, Whole Foods Market, and Tenet Healthcare.Nationally, the Dallas\u2013Fort Worth area, home to the second shopping mall in the United States, has the most shopping malls per capita of any American metropolitan area."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Examples of Fortune 500 companies not based on Texas traditional industries are AT&T, Kimberly-Clark, Blockbuster, J. C. Penney, Whole Foods Market, and Tenet Healthcare.Nationally, the Dallas\u2013Fort Worth area, home to the second shopping mall in the United States, has the most shopping malls per capita of any American metropolitan area."
+            ],
+            "arguments": {
+                "1": "fort worth",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While the number of illegal immigrants living in the U.S. has declined since 2009, in Texas there was no change in population between 2009 and 2014."
+            ],
+            "arguments": {
+                "1": "u.s.",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's population density is 90.5 people per square mile (34.9/km2) which is slightly higher than the average population density of the U.S. as a whole, at 80.6 people per square mile (31.1/km2)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In contrast, while Texas and France are similarly sized geographically, the European country has a population density of 301.8 people per square mile (116.5/km2)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "france"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Dallas-Fort Worth Metropolitan Area is the largest in Texas."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "According to the 2010 United States census, the racial composition of Texas was the following:\n\nWhite American 70.4 percent (Non-Hispanic whites 45.3 percent)\nBlack or African American: 11.8 percent\nAmerican Indian: 0.7 percent\nAsian: 3.8 percent (1.0 percent Indian, 0.8 percent Vietnamese, 0.6 percent Chinese, 0.4 percent Filipino, 0.3 percent Korean, 0.1 percent Japanese, 0.6 percent other Asian)\nPacific Islander: 0.1 percent\nSome other race: 10.5 percent\nTwo or more races: 2.7 percent\nIn addition, 37.6 percent of the population are Hispanic or Latino (of any race) (31.6 percent Mexican, 0.9 percent Salvadoran, 0.5 percent Puerto Rican, 0.4 percent Honduran, 0.3 percent Guatemalan 0.3 percent Spaniard, 0.2 percent Colombian, 0.2 percent Cuban)\n\nAs of 2011, 69.8% of the population of Texas younger than age 1 were minorities (meaning they had at least one parent who was not non-Hispanic white)."
+            ],
+            "arguments": {
+                "1": "united states",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are over 222,000 Salvadorans and over 130,000 Puerto Ricans in Texas."
+            ],
+            "arguments": {
+                "1": "puerto ricans",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Hispanics in Texas are more likely than in some other states (such as California) to identify as white; according to the 2010 U.S. Census, Texas is home to 6,304,207 White Hispanics and 2,594,206 Hispanics of \"some other race\" (usually mestizo)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Recently, the Asian population in Texas has grown\u2014primarily in Houston and Dallas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Recently, the Asian population in Texas has grown\u2014primarily in Houston and Dallas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Recently, the Asian population in Texas has grown\u2014primarily in Houston and Dallas."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other communities with a significantly growing Asian American population is in Austin, Corpus Christi, San Antonio, and the Sharyland area next McAllen, Texas."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other communities with a significantly growing Asian American population is in Austin, Corpus Christi, San Antonio, and the Sharyland area next McAllen, Texas."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "mcallen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other communities with a significantly growing Asian American population is in Austin, Corpus Christi, San Antonio, and the Sharyland area next McAllen, Texas."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other communities with a significantly growing Asian American population is in Austin, Corpus Christi, San Antonio, and the Sharyland area next McAllen, Texas."
+            ],
+            "arguments": {
+                "1": "san antonio",
+                "2": "mcallen"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other communities with a significantly growing Asian American population is in Austin, Corpus Christi, San Antonio, and the Sharyland area next McAllen, Texas."
+            ],
+            "arguments": {
+                "1": "san antonio",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other communities with a significantly growing Asian American population is in Austin, Corpus Christi, San Antonio, and the Sharyland area next McAllen, Texas."
+            ],
+            "arguments": {
+                "1": "mcallen",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin, Fort Worth, and El Paso are among the 20 largest U.S. cities."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin, Fort Worth, and El Paso are among the 20 largest U.S. cities."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "el paso"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin, Fort Worth, and El Paso are among the 20 largest U.S. cities."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin, Fort Worth, and El Paso are among the 20 largest U.S. cities."
+            ],
+            "arguments": {
+                "1": "fort worth",
+                "2": "el paso"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin, Fort Worth, and El Paso are among the 20 largest U.S. cities."
+            ],
+            "arguments": {
+                "1": "fort worth",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin, Fort Worth, and El Paso are among the 20 largest U.S. cities."
+            ],
+            "arguments": {
+                "1": "el paso",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Dallas\u2013Fort Worth metroplex is home to three major evangelical seminaries and a host of Bible schools."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas is placed in the Southern United States by the United States Census Bureau."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "southern united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas self-perception\n\"Texas-sized\" is an expression that can be used in two ways: to describe something that is about the size of the U.S. state of Texas, or to describe something (usually but not always originating from Texas) that is large compared to other objects of its type."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "u.s."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Arts\nHouston is one of only five American cities with permanent professional resident companies in all of the major performing arts disciplines: the Houston Grand Opera, the Houston Symphony Orchestra, the Houston Ballet, and The Alley Theatre."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "the houston ballet"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Founded in 1892, Modern Art Museum of Fort Worth, also called \"The Modern\", is Texas's oldest art museum."
+            ],
+            "arguments": {
+                "1": "fort worth",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Deep Ellum district within Dallas became popular during the 1920s and 1930s as the prime jazz and blues hotspot in the Southern United States."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "the southern united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Students in Texas take the State of Texas Assessments of Academic Readiness (STAAR) in primary and secondary school."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The rate of school corporal punishment in Texas is surpassed only by Mississippi, Alabama, and Arkansas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "mississippi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The rate of school corporal punishment in Texas is surpassed only by Mississippi, Alabama, and Arkansas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "alabama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The rate of school corporal punishment in Texas is surpassed only by Mississippi, Alabama, and Arkansas."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "arkansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Carnegie Foundation classifies three of Texas's universities as Tier One research institutions: The University of Texas at Austin, the Texas A&M University, and the University of Houston."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "austin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The University of Texas at Austin and Texas A&M University are flagship universities of the state of Texas."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Rice University in Houston is one of the leading teaching and research universities of the United States and is ranked the nation's 17th-best overall university by U.S. News & World Report."
+            ],
+            "arguments": {
+                "1": "houston",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Trinity University, a private, primarily undergraduate liberal arts university in San Antonio, has ranked first among universities granting primarily bachelor's and select master's degrees in the Western United States for 20 consecutive years by U.S. News."
+            ],
+            "arguments": {
+                "1": "san antonio",
+                "2": "the western united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Universities in Texas host three presidential libraries: George Bush Presidential Library at Texas A&M University, the Lyndon Baines Johnson Library and Museum at The University of Texas at Austin, and the George W. Bush Presidential Library at Southern Methodist University."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "austin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Healthcare\nIntroduction\nIn 2017, the United Healthcare Foundation ranked Texas as the 34th healthiest state in the United States."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The rate of binge drinking in males in Texas is comparable to that of males in the United States."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2017, 22.4% of adult males in Texas reported binge drinking, as compared to 22.1% of males in the United States."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Infant Health\nTexas has the seventh highest birth rate in the United States, with nearly 400,000 babies born each year."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas has two Biosafety Level 4 (BSL-4) laboratories: one at The University of Texas Medical Branch (UTMB) in Galveston, and the other at the Southwest Foundation for Biomedical Research in San Antonio\u2014the first privately owned BSL-4 lab in the United States."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "galveston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas has two Biosafety Level 4 (BSL-4) laboratories: one at The University of Texas Medical Branch (UTMB) in Galveston, and the other at the Southwest Foundation for Biomedical Research in San Antonio\u2014the first privately owned BSL-4 lab in the United States."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas has two Biosafety Level 4 (BSL-4) laboratories: one at The University of Texas Medical Branch (UTMB) in Galveston, and the other at the Southwest Foundation for Biomedical Research in San Antonio\u2014the first privately owned BSL-4 lab in the United States."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas has two Biosafety Level 4 (BSL-4) laboratories: one at The University of Texas Medical Branch (UTMB) in Galveston, and the other at the Southwest Foundation for Biomedical Research in San Antonio\u2014the first privately owned BSL-4 lab in the United States."
+            ],
+            "arguments": {
+                "1": "galveston",
+                "2": "san antonio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas has two Biosafety Level 4 (BSL-4) laboratories: one at The University of Texas Medical Branch (UTMB) in Galveston, and the other at the Southwest Foundation for Biomedical Research in San Antonio\u2014the first privately owned BSL-4 lab in the United States."
+            ],
+            "arguments": {
+                "1": "galveston",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas has two Biosafety Level 4 (BSL-4) laboratories: one at The University of Texas Medical Branch (UTMB) in Galveston, and the other at the Southwest Foundation for Biomedical Research in San Antonio\u2014the first privately owned BSL-4 lab in the United States."
+            ],
+            "arguments": {
+                "1": "san antonio",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "San Antonio's South Texas Medical Center facilities rank sixth in clinical medicine research impact in the United States."
+            ],
+            "arguments": {
+                "1": "san antonio's",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The 2008 Men's Health obesity survey ranked four Texas cities among the top 25 fattest cities in America; Houston ranked 6th, Dallas 7th, El Paso 8th, and Arlington 14th."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The 2008 Men's Health obesity survey ranked four Texas cities among the top 25 fattest cities in America; Houston ranked 6th, Dallas 7th, El Paso 8th, and Arlington 14th."
+            ],
+            "arguments": {
+                "1": "america",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The 2008 Men's Health obesity survey ranked four Texas cities among the top 25 fattest cities in America; Houston ranked 6th, Dallas 7th, El Paso 8th, and Arlington 14th."
+            ],
+            "arguments": {
+                "1": "america",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The 2008 Men's Health obesity survey ranked four Texas cities among the top 25 fattest cities in America; Houston ranked 6th, Dallas 7th, El Paso 8th, and Arlington 14th."
+            ],
+            "arguments": {
+                "1": "america",
+                "2": "el paso"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas had only one city, Austin, ranked 21st, in the top 25 among the \"fittest cities\" in America."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas had only one city, Austin, ranked 21st, in the top 25 among the \"fittest cities\" in America."
+            ],
+            "arguments": {
+                "1": "austin",
+                "2": "america"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Highways\nThe first Texas freeway was the Gulf Freeway opened in 1948 in Houston."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Largest in Texas by size and passengers served, Dallas/Fort Worth International Airport (DFW) is the second-largest by area in the United States, and fourth in the world with 18,076 acres (73.15 km2)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Largest in Texas by size and passengers served, Dallas/Fort Worth International Airport (DFW) is the second-largest by area in the United States, and fourth in the world with 18,076 acres (73.15 km2)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Largest in Texas by size and passengers served, Dallas/Fort Worth International Airport (DFW) is the second-largest by area in the United States, and fourth in the world with 18,076 acres (73.15 km2)."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "the united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It ranks as the largest airline in the United States by number of passengers carried domestically per year and the largest airline in the world by number of passengers carried.Southwest Airlines, headquartered in Dallas, has its operations at Dallas Love Field."
+            ],
+            "arguments": {
+                "1": "the united states",
+                "2": "dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's second-largest air facility is Houston's George Bush Intercontinental Airport (IAH)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first railroad to operate in Texas was the Buffalo Bayou, Brazos and Colorado Railway, opening in August 1853."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "colorado railway"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Dallas Area Rapid Transit (DART) built the first light rail system in the Southwest United States, completed in 1996.The Trinity Railway Express (TRE) commuter rail service, which connects Fort Worth and Dallas, is provided by the Fort Worth Transportation Authority (the T) and DART."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "the southwest united states"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Dallas Area Rapid Transit (DART) built the first light rail system in the Southwest United States, completed in 1996.The Trinity Railway Express (TRE) commuter rail service, which connects Fort Worth and Dallas, is provided by the Fort Worth Transportation Authority (the T) and DART."
+            ],
+            "arguments": {
+                "1": "dallas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Dallas Area Rapid Transit (DART) built the first light rail system in the Southwest United States, completed in 1996.The Trinity Railway Express (TRE) commuter rail service, which connects Fort Worth and Dallas, is provided by the Fort Worth Transportation Authority (the T) and DART."
+            ],
+            "arguments": {
+                "1": "the southwest united states",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Metropolitan Transit Authority of Harris County, Texas (METRO) operates light rail lines in the Houston area."
+            ],
+            "arguments": {
+                "1": "harris county",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Metropolitan Transit Authority of Harris County, Texas (METRO) operates light rail lines in the Houston area."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Three scheduled routes serve the state: the daily Texas Eagle (Chicago\u2013San Antonio); the tri-weekly Sunset Limited (New Orleans\u2013Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth\u2013Oklahoma City)."
+            ],
+            "arguments": {
+                "1": "chicago",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Three scheduled routes serve the state: the daily Texas Eagle (Chicago\u2013San Antonio); the tri-weekly Sunset Limited (New Orleans\u2013Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth\u2013Oklahoma City)."
+            ],
+            "arguments": {
+                "1": "san antonio",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Three scheduled routes serve the state: the daily Texas Eagle (Chicago\u2013San Antonio); the tri-weekly Sunset Limited (New Orleans\u2013Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth\u2013Oklahoma City)."
+            ],
+            "arguments": {
+                "1": "new orleans",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Three scheduled routes serve the state: the daily Texas Eagle (Chicago\u2013San Antonio); the tri-weekly Sunset Limited (New Orleans\u2013Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth\u2013Oklahoma City)."
+            ],
+            "arguments": {
+                "1": "los angeles",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Three scheduled routes serve the state: the daily Texas Eagle (Chicago\u2013San Antonio); the tri-weekly Sunset Limited (New Orleans\u2013Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth\u2013Oklahoma City)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "fort worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Three scheduled routes serve the state: the daily Texas Eagle (Chicago\u2013San Antonio); the tri-weekly Sunset Limited (New Orleans\u2013Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth\u2013Oklahoma City)."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "oklahoma city"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Outline of Texas \u2013 organized list of topics about Texas\nNotes\nReferences\nBibliography\nExternal links\nTexas at Curlie\nThe Texas State History Museum\nThe Handbook of Texas Online\u2014Published by the Texas State Historical Association\nTexas Register, hosted by the University of North Texas Libraries\nSouth and West Texas: A National Register of Historic Places Travel Itinerary\nTexas Heritage Society\nGeographic data related to Texas at OpenStreetMap\nView historical photographs at the University of Houston Digital Library."
+            ],
+            "arguments": {
+                "1": "texas",
+                "2": "the handbook"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Outline of Texas \u2013 organized list of topics about Texas\nNotes\nReferences\nBibliography\nExternal links\nTexas at Curlie\nThe Texas State History Museum\nThe Handbook of Texas Online\u2014Published by the Texas State Historical Association\nTexas Register, hosted by the University of North Texas Libraries\nSouth and West Texas: A National Register of Historic Places Travel Itinerary\nTexas Heritage Society\nGeographic data related to Texas at OpenStreetMap\nView historical photographs at the University of Houston Digital Library."
+            ],
+            "arguments": {
+                "1": "the handbook",
+                "2": "openstreetmap"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Oklahoma Digital Maps: Digital Collections of Oklahoma and Indian Territory\nState government\n\nThe State of Texas\nTexas State Databases\u2014Annotated list of searchable databases produced by Texas state agencies and compiled by the Government Documents Roundtable of the American Library Association."
+            ],
+            "arguments": {
+                "1": "oklahoma",
+                "2": "the state"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Oklahoma Digital Maps: Digital Collections of Oklahoma and Indian Territory\nState government\n\nThe State of Texas\nTexas State Databases\u2014Annotated list of searchable databases produced by Texas state agencies and compiled by the Government Documents Roundtable of the American Library Association."
+            ],
+            "arguments": {
+                "1": "oklahoma",
+                "2": "texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Oklahoma Digital Maps: Digital Collections of Oklahoma and Indian Territory\nState government\n\nThe State of Texas\nTexas State Databases\u2014Annotated list of searchable databases produced by Texas state agencies and compiled by the Government Documents Roundtable of the American Library Association."
+            ],
+            "arguments": {
+                "1": "the state",
+                "2": "texas"
+            }
+        }
+    ]
+}{
+    "document": "Texas.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "When the United States purchased Louisiana from France in 1803, American authorities insisted the agreement also included Texas."
+            ],
+            "arguments": {
+                "1": "the United States",
+                "2": "Louisiana",
+                "3": "",
+                "4": "",
+                "5": "France"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Combined with United States' attempts to purchase Texas, Mexican authorities decided in 1830 to prohibit continued immigration from the United States."
+            ],
+            "arguments": {
+                "1": "",
+                "2": "Texas",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "They also brought or purchased enslaved African Americans, whose numbers tripled in the state from 1850 to 1860, from 58,000 to 182,566.\n\n"
+            ],
+            "arguments": {
+                "1": "They",
+                "2": "enslaved African Americans",
+                "3": "",
+                "4": "",
+                "5": "182,566"
+            }
+        }
+    ]
+}{
+    "document": "Texas.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "The Speaker of the House leads the House, and the lieutenant governor, the Senate."
+            ],
+            "arguments": {
+                "1": "Speaker",
+                "2": "Senate",
+                "3": "governor",
+                "4": ""
+            }
+        }
+    ]
+}

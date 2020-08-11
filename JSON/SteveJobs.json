@@ -1,0 +1,517 @@
+{
+    "document": "SteveJobs.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Jobs was born in San Francisco, California, and put up for adoption."
+            ],
+            "arguments": {
+                "1": "san francisco",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "1931), grew up in Homs, Syria, and was born into an Arab Muslim household."
+            ],
+            "arguments": {
+                "1": "homs",
+                "2": "syria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "But there are a lot of Arabs in Michigan and Wisconsin."
+            ],
+            "arguments": {
+                "1": "michigan",
+                "2": "wisconsin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The family lived on a farm in Germantown, Wisconsin."
+            ],
+            "arguments": {
+                "1": "germantown",
+                "2": "wisconsin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Birth\nSchieble became pregnant with Jobs in 1954 when she and Jandali spent the summer with his family in Homs, Syria."
+            ],
+            "arguments": {
+                "1": "homs",
+                "2": "syria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The new house (a three-bedroom home on Crist Drive in Los Altos, California) was in the better Cupertino School District, Cupertino, California, and was embedded in an environment that was even more heavily populated with engineering families than the Mountain View home."
+            ],
+            "arguments": {
+                "1": "los altos",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The new house (a three-bedroom home on Crist Drive in Los Altos, California) was in the better Cupertino School District, Cupertino, California, and was embedded in an environment that was even more heavily populated with engineering families than the Mountain View home."
+            ],
+            "arguments": {
+                "1": "los altos",
+                "2": "cupertino"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The new house (a three-bedroom home on Crist Drive in Los Altos, California) was in the better Cupertino School District, Cupertino, California, and was embedded in an environment that was even more heavily populated with engineering families than the Mountain View home."
+            ],
+            "arguments": {
+                "1": "california",
+                "2": "cupertino"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During the summer, Brennan, Jobs, and Steve Wozniak found an advertisement posted on the De Anza College bulletin board for a job that required people to dress up as characters from Alice in Wonderland."
+            ],
+            "arguments": {
+                "1": "brennan",
+                "2": "wonderland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During the summer, Brennan, Jobs, and Steve Wozniak found an advertisement posted on the De Anza College bulletin board for a job that required people to dress up as characters from Alice in Wonderland."
+            ],
+            "arguments": {
+                "1": "alice",
+                "2": "wonderland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Reed College\nLater in the year, Jobs enrolled at Reed College in Portland, Oregon."
+            ],
+            "arguments": {
+                "1": "portland",
+                "2": "oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "After finishing it, Wozniak gave the board to Jobs, who then took the game down to Atari, Inc. in Los Gatos, California."
+            ],
+            "arguments": {
+                "1": "los gatos",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By early 1974, Jobs was living what Brennan describes as a \"simple life\" in a Los Gatos cabin, working at Atari, and saving money for his impending trip to India."
+            ],
+            "arguments": {
+                "1": "brennan",
+                "2": "los gatos"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By early 1974, Jobs was living what Brennan describes as a \"simple life\" in a Los Gatos cabin, working at Atari, and saving money for his impending trip to India."
+            ],
+            "arguments": {
+                "1": "los gatos",
+                "2": "india"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In India, they spent a lot of time on bus rides from Delhi to Uttar Pradesh and Himachal Pradesh."
+            ],
+            "arguments": {
+                "1": "india",
+                "2": "delhi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He considered taking up monastic residence at Eihei-ji in Japan, and maintained a lifelong appreciation for Zen."
+            ],
+            "arguments": {
+                "1": "eihei",
+                "2": "japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the early 1977, she and Jobs would spend time together at her home at Duveneck Ranch in Los Altos, which served as a hostel and environmental education center."
+            ],
+            "arguments": {
+                "1": "duveneck ranch",
+                "2": "los altos"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1977, the success of Apple was now a part of their relationship, and Brennan, Daniel Kottke, and Jobs moved into a house near the Apple office in Cupertino."
+            ],
+            "arguments": {
+                "1": "brennan",
+                "2": "cupertino"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "\":386\u2013387\n\nIn 1982, Jobs bought an apartment in the two top floors of The San Remo, a Manhattan building with a politically progressive reputation."
+            ],
+            "arguments": {
+                "1": "the san remo",
+                "2": "manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The family lived in Palo Alto, California."
+            ],
+            "arguments": {
+                "1": "palo alto",
+                "2": "california"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2005, Jobs responded to criticism of Apple's poor recycling programs for e-waste in the US by lashing out at environmental and other advocates at Apple's annual meeting in Cupertino in April."
+            ],
+            "arguments": {
+                "1": "us",
+                "2": "cupertino"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In April 2009, Jobs underwent a liver transplant at Methodist University Hospital Transplant Institute in Memphis, Tennessee."
+            ],
+            "arguments": {
+                "1": "memphis",
+                "2": "tennessee"
+            }
+        }
+    ]
+}{
+    "document": "SteveJobs.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "Though the Jobs family was not well off, they used all their savings in 1967 to buy a new home, which would allow Jobs to change schools."
+            ],
+            "arguments": {
+                "1": "they",
+                "2": "a new home",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1982, Jobs bought an apartment in the two top floors of The San Remo, a Manhattan building with a politically progressive reputation."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "an apartment",
+                "3": "",
+                "4": "",
+                "5": "a politically progressive reputation"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1984, Jobs bought the Jackling House and estate, and resided there for a decade."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "the Jackling House",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "After NeXT was acquired by Apple Inc. in 1997, WebObjects was used to build and run the Apple Store, MobileMe services, and the iTunes Store.\n\n"
+            ],
+            "arguments": {
+                "1": "Apple Inc.",
+                "2": "NeXT",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On January 24, 2006, Jobs and Iger announced that Disney had agreed to purchase Pixar in an all-stock transaction worth $7.4 billion."
+            ],
+            "arguments": {
+                "1": "Disney",
+                "2": "Pixar",
+                "3": "$ 7.4 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1996, Apple announced that it would buy NeXT for $427 million."
+            ],
+            "arguments": {
+                "1": "it",
+                "2": "NeXT",
+                "3": "$427 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2006, he further expanded Apple's recycling programs to any US customer who buys a new Mac."
+            ],
+            "arguments": {
+                "1": "who",
+                "2": "a new Mac",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Through the iTunes Store, users can purchase and download music, music videos, television shows, audiobooks, podcasts, movies, and movie rentals in some countries, and ringtones, available on the iPhone and iPod Touch (fourth generation onward)."
+            ],
+            "arguments": {
+                "1": "users",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}{
+    "document": "SteveJobs.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "He was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following its acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "He",
+                "2": "NeXT",
+                "3": "officer; chairman; founder; CEO",
+                "4": "Pixar"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "His declassified FBI report states that he used marijuana and LSD while he was in college, and once told a reporter that taking LSD was \"one of the two or three most important things\" he had done in his life.\n\n"
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "LSD",
+                "3": "reporter",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The Macintosh introduced the desktop publishing industry in 1985 with the addition of the Apple LaserWriter, the first laser printer to feature vector graphics."
+            ],
+            "arguments": {
+                "1": "Macintosh",
+                "2": "LaserWriter",
+                "3": "printer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Apple merged with NeXT in 1997, and Jobs became CEO of his former company within a few months."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "NeXT",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "He eventually joined the United States Coast Guard as an engine-room machinist."
+            ],
+            "arguments": {
+                "1": "He",
+                "2": "Guard",
+                "3": "machinist",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "He said his choice was inspired by that of Stuart Geman, a noted applied mathematics professor at Brown University."
+            ],
+            "arguments": {
+                "1": "Geman",
+                "2": "University",
+                "3": "professor",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1978, Apple recruited Mike Scott from National Semiconductor to serve as CEO for what turned out to be several turbulent years."
+            ],
+            "arguments": {
+                "1": "Scott",
+                "2": "Semiconductor",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1983, Jobs lured John Sculley away from Pepsi-Cola to serve as Apple's CEO, asking, \"Do you want to spend the rest of your life selling sugared water, or do you want a chance to change the world?\":386\u2013387\n\n"
+            ],
+            "arguments": {
+                "1": "Sculley",
+                "2": "Cola",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1989, Jobs first met his future wife, Laurene Powell, when he gave a lecture at the Stanford Graduate School of Business, where she was a student."
+            ],
+            "arguments": {
+                "1": "Powell",
+                "2": "Business",
+                "3": "student",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "At the 2000 Macworld Expo, Jobs officially dropped the \"interim\" modifier from his title at Apple and became permanent CEO."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "Apple",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Tim Cook, who previously acted as CEO in Jobs's 2004 absence, became acting CEO of Apple, with Jobs still involved with \"major strategic decisions\".\n\n"
+            ],
+            "arguments": {
+                "1": "Cook",
+                "2": "Apple",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Most of these are design patents (specific product designs; for example, Jobs listed as primary inventor in patents for both original and lamp-style iMacs, as well as PowerBook G4 Titanium) as opposed to utility patents (inventions)."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "Titanium",
+                "3": "inventor",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Macintosh systems still found success in education and desktop publishing and kept Apple as the second-largest PC manufacturer for the next decade.\n\n"
+            ],
+            "arguments": {
+                "1": "systems",
+                "2": "Apple",
+                "3": "manufacturer",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "iTunes\niTunes is a media player, media library, online radio broadcaster, and mobile device management application developed by Apple."
+            ],
+            "arguments": {
+                "1": "iTunes",
+                "2": "Apple",
+                "3": "broadcaster",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "A major feature of the iPhone 4S, introduced in October 2011, was Siri, a virtual assistant capable of voice recognition.\n\n"
+            ],
+            "arguments": {
+                "1": "feature",
+                "2": "Siri",
+                "3": "assistant",
+                "4": ""
+            }
+        }
+    ]
+}
